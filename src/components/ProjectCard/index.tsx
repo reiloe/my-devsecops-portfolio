@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './styles.module.css';
 import { Project } from '../Projects/data';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 type Props = {
     project: Project;
@@ -16,7 +17,7 @@ export default function ProjectCard({ project, onClose, onOpenDoc, onOpenGitHub 
                 {/* Linke Seite: Überschrift und Bild */}
                 <div className={styles.card_left}>
                     <h1 className={styles.card_title}>{project.short}</h1>
-                    <img src={project.image} alt={project.title} className={styles.image} />
+                    <img src={useBaseUrl(project.image)} alt={project.title} className={styles.image} />
                 </div>
 
                 {/* Rechte Seite: Icons, Text, Buttons */}
