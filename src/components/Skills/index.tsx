@@ -36,7 +36,7 @@ export default function Skills(): JSX.Element {
     }
 
     const ro = new ResizeObserver(() => {
-      // use clientWidth directly - more reliable
+      // use clientWidth directly
       const w = el.clientWidth;
       if (w && w !== containerWidth) {
         setContainerWidth(w);
@@ -56,7 +56,7 @@ export default function Skills(): JSX.Element {
     // if width is zero, don't set (avoids collapsing)
     if (w <= 0) return;
 
-    // explicit pixel widths (robust)
+    // explicit pixel widths
     wrapper.style.width = `${totalPages * w}px`;
     Array.from(wrapper.children).forEach((child: Element) => {
       (child as HTMLElement).style.width = `${w}px`;
@@ -82,7 +82,7 @@ export default function Skills(): JSX.Element {
     const offset = -page * w;
     wrapper.style.transition = "transform 320ms ease";
     wrapper.style.transform = `translateX(${offset}px)`;
-    // --- Equalize heights to avoid vertical jumps while swiping ---
+    // Equalize heights to avoid vertical jumps while swiping
     // allow natural height for measurement
     wrapper.style.height = "auto";
     try {

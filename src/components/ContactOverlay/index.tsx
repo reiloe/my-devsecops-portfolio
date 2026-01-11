@@ -3,7 +3,7 @@ import styles from './styles.module.css';
 
 type Props = { open: boolean; onClose: () => void };
 
-export default function ContactOverlay({ open, onClose }: Props) {
+export default function ContactOverlay({ open, onClose }: Readonly<Props>) {
     const [form, setForm] = useState({ name: '', email: '', message: '' });
     if (!open) return null;
 

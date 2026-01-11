@@ -3,7 +3,7 @@ import navData from './data';
 import styles from './styles.module.css';
 import { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
 
-function MobileMenu({ open, onClose }: { open: boolean; onClose: () => void }) {
+function MobileMenu({ open, onClose }: Readonly<{ open: boolean; onClose: () => void }>) {
   const { withBaseUrl } = useBaseUrlUtils();
   if (!open) return null;
   return (

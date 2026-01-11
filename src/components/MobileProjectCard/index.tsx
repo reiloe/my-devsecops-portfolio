@@ -8,7 +8,7 @@ type Props = {
     onOpenGitHub: () => void;
 };
 
-export default function MobileProjectCard({ project, onOpenDoc, onOpenGitHub }: Props) {
+export default function MobileProjectCard({ project, onOpenDoc, onOpenGitHub }: Readonly<Props>) {
     return (
         <div className={styles.card}>
             <h2 className={styles.title}>{project.short}</h2>

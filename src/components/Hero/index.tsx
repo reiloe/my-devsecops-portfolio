@@ -16,7 +16,6 @@ export default function Hero() {
             Hey there.
             <span className={styles.waveWrapper}>
               <span className={styles.wave}>👋</span>
-              <span className={styles.sparkle}>✨</span>
             </span>
             {' '}I am
           </p>

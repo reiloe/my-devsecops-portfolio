@@ -1,33 +1,33 @@
 ---
-title: "📖 Dokumentation"
+title: "📖 Documentation"
 slug: /
 sidebar_position: 0
 pagination_prev: null
 pagination_next: null
 ---
 
-# Willkommen zur Dokumentation
+# Welcome to the Documentation
 
-Diese Dokumentation ist in drei Hauptbereiche unterteilt:
+This documentation is divided into three main sections:
 
 ## 📘 Guides
 
-Schritt-für-Schritt-Anleitungen und Tutorials für verschiedene Setups und Labs.
+Step-by-step instructions and tutorials for various setups and labs.
 
-[Zu den Guides →](/docs/guides/intro)
+[Go to Guides →](/docs/guides/intro)
 
 ## 📚 Knowledge Base
 
-Wissenssammlung zu Technologien, Konzepten und Best Practices.
+Knowledge collection on technologies, concepts, and best practices.
 
-[Zur Knowledge Base →](/docs/knowledge-base/intro)
+[Go to Knowledge Base →](/docs/knowledge-base/intro)
 
 ## 🚀 Projects
 
-Übersicht über verschiedene Projekte mit detaillierten Beschreibungen und Lösungen.
+Overview of various projects with detailed descriptions and solutions.
 
-[Zu den Projects →](/docs/projects/overview)
+[Go to Projects →](/docs/projects/overview)
 
 ---
 
-Nutze die Seitenleiste zur Navigation oder wähle einen der Bereiche oben aus.
+Use the sidebar for navigation or select one of the sections above.

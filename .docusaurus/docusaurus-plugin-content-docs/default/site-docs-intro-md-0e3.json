@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "📖 Dokumentation",
-  "description": "Diese Dokumentation ist in drei Hauptbereiche unterteilt:",
+  "title": "📖 Documentation",
+  "description": "This documentation is divided into three main sections:",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
-    "title": "📖 Dokumentation",
+    "title": "📖 Documentation",
     "slug": "/",
     "sidebar_position": 0,
     "pagination_prev": null,
