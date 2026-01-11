@@ -1,10 +1,12 @@
 import React, { useEffect, useRef, useState } from "react";
 import skills from "./data";
 import styles from "./styles.module.css";
+import { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
 
 export default function Skills(): JSX.Element {
   const skillsPerPage = 3;
   const totalPages = Math.max(1, Math.ceil(skills.length / skillsPerPage));
+  const { withBaseUrl } = useBaseUrlUtils();
 
   const [flipped, setFlipped] = useState<Record<string, boolean>>({});
   const [page, setPage] = useState(0);
@@ -137,7 +139,7 @@ export default function Skills(): JSX.Element {
         >
           <div className={`${styles.cardInner} ${flipped[s.id] ? styles.rotate : ""}`}>
             <div className={styles.front}>
-              {s.iconUrl && <img src={s.iconUrl} alt={s.title} className={styles.icon} />}
+              {s.iconUrl && <img src={withBaseUrl(s.iconUrl)} alt={s.title} className={styles.icon} />}
               <div className={styles.cardTitle}>{s.title}</div>
             </div>
             <div className={styles.back}>
@@ -174,7 +176,7 @@ export default function Skills(): JSX.Element {
                 <div key={s.id} className={styles.mobileCard}>
                   <div className={styles.mobileRow}>
                     <div>
-                      {s.iconUrl && <img src={s.iconUrl} alt={s.title} className={styles.icon} />}
+                      {s.iconUrl && <img src={withBaseUrl(s.iconUrl)} alt={s.title} className={styles.icon} />}
                       <div className={styles.cardTitle} title={s.title}>{s.title}</div>
                     </div>
                     <div>
