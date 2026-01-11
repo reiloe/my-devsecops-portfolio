@@ -3,6 +3,7 @@ import data from './data';
 import styles from './styles.module.css';
 import { useContact } from '../ContactOverlay/ContactOverlayProvider';
 import useIsMobile from '../../useIsMobile';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 export default function Hero() {
   const { openContact } = useContact();
@@ -22,7 +23,7 @@ export default function Hero() {
           <h1 className={styles.name}>{data.name}</h1>
           <p className={styles.title}>{data.title}</p>
           <div className={styles.right}>
-            <img src={data.avatarUrl} alt={data.name} className={styles.avatar} />
+            <img src={useBaseUrl(data.avatarUrl)} alt={data.name} className={styles.avatar} />
           </div>
           <p className={styles.desc}>{data.description}</p>
           <button className={styles.cta} onClick={openContact}>Contact me</button>
