@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/devops/ci-cd/gitlab.md",
   "sourceDirName": "knowledge-base/devops/ci-cd",
   "slug": "/knowledge-base/devops/ci-cd/gitlab",
-  "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🦊 GitLab CI/CD",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab-cicd"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab-cicd"
   },
   "next": {
     "title": "🔄 GitOps",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/gitops"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitops"
   }
 }

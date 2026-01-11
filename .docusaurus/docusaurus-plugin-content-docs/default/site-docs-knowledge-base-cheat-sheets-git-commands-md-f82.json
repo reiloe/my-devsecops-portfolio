@@ -5,29 +5,29 @@
   "source": "@site/docs/knowledge-base/cheat-sheets/git-commands.md",
   "sourceDirName": "knowledge-base/cheat-sheets",
   "slug": "/knowledge-base/cheat-sheets/git-commands",
-  "permalink": "/docs/knowledge-base/cheat-sheets/git-commands",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/git-commands",
   "draft": false,
   "unlisted": false,
   "tags": [
     {
       "inline": true,
       "label": "git",
-      "permalink": "/docs/tags/git"
+      "permalink": "/my-devsecops-portfolio/docs/tags/git"
     },
     {
       "inline": true,
       "label": "version-control",
-      "permalink": "/docs/tags/version-control"
+      "permalink": "/my-devsecops-portfolio/docs/tags/version-control"
     },
     {
       "inline": true,
       "label": "vcs",
-      "permalink": "/docs/tags/vcs"
+      "permalink": "/my-devsecops-portfolio/docs/tags/vcs"
     },
     {
       "inline": true,
       "label": "cheat-sheet",
-      "permalink": "/docs/tags/cheat-sheet"
+      "permalink": "/my-devsecops-portfolio/docs/tags/cheat-sheet"
     }
   ],
   "version": "current",
@@ -46,10 +46,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kubernetes",
-    "permalink": "/docs/knowledge-base/cheat-sheets/kubernetes-commands"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/kubernetes-commands"
   },
   "next": {
     "title": "Linux Shell",
-    "permalink": "/docs/knowledge-base/cheat-sheets/linux-commands"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/linux-commands"
   }
 }

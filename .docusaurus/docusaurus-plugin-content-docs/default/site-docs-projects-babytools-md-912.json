@@ -5,7 +5,7 @@
   "source": "@site/docs/projects/babytools.md",
   "sourceDirName": "projects",
   "slug": "/projects/babytools",
-  "permalink": "/docs/projects/babytools",
+  "permalink": "/my-devsecops-portfolio/docs/projects/babytools",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Conduit CI/CD",
-    "permalink": "/docs/projects/conduit-cicd"
+    "permalink": "/my-devsecops-portfolio/docs/projects/conduit-cicd"
   },
   "next": {
     "title": "Truck Signs Api",
-    "permalink": "/docs/projects/trucksignsapi"
+    "permalink": "/my-devsecops-portfolio/docs/projects/trucksignsapi"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/juiceshop-lab/windows/README.md",
   "sourceDirName": "guides/juiceshop-lab/windows",
   "slug": "/guides/juiceshop-lab/windows/",
-  "permalink": "/docs/guides/juiceshop-lab/windows/",
+  "permalink": "/my-devsecops-portfolio/docs/guides/juiceshop-lab/windows/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Mac",
-    "permalink": "/docs/guides/juiceshop-lab/mac/"
+    "permalink": "/my-devsecops-portfolio/docs/guides/juiceshop-lab/mac/"
   },
   "next": {
     "title": "📉 ELK Stack",
-    "permalink": "/docs/guides/monitoring/elk-stack"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/elk-stack"
   }
 }

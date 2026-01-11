@@ -5,7 +5,7 @@
   "source": "@site/docs/projects/conduit.md",
   "sourceDirName": "projects",
   "slug": "/projects/conduit",
-  "permalink": "/docs/projects/conduit",
+  "permalink": "/my-devsecops-portfolio/docs/projects/conduit",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "OWASP Juice Shop",
-    "permalink": "/docs/projects/juiceshop"
+    "permalink": "/my-devsecops-portfolio/docs/projects/juiceshop"
   },
   "next": {
     "title": "Conduit CI/CD",
-    "permalink": "/docs/projects/conduit-cicd"
+    "permalink": "/my-devsecops-portfolio/docs/projects/conduit-cicd"
   }
 }

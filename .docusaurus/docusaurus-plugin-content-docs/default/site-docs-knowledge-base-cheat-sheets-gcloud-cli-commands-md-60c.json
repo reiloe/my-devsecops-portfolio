@@ -5,39 +5,39 @@
   "source": "@site/docs/knowledge-base/cheat-sheets/gcloud-cli-commands.md",
   "sourceDirName": "knowledge-base/cheat-sheets",
   "slug": "/knowledge-base/cheat-sheets/gcloud-cli-commands",
-  "permalink": "/docs/knowledge-base/cheat-sheets/gcloud-cli-commands",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/gcloud-cli-commands",
   "draft": false,
   "unlisted": false,
   "tags": [
     {
       "inline": true,
       "label": "gcp",
-      "permalink": "/docs/tags/gcp"
+      "permalink": "/my-devsecops-portfolio/docs/tags/gcp"
     },
     {
       "inline": true,
       "label": "gcloud",
-      "permalink": "/docs/tags/gcloud"
+      "permalink": "/my-devsecops-portfolio/docs/tags/gcloud"
     },
     {
       "inline": true,
       "label": "google-cloud",
-      "permalink": "/docs/tags/google-cloud"
+      "permalink": "/my-devsecops-portfolio/docs/tags/google-cloud"
     },
     {
       "inline": true,
       "label": "cloud",
-      "permalink": "/docs/tags/cloud"
+      "permalink": "/my-devsecops-portfolio/docs/tags/cloud"
     },
     {
       "inline": true,
       "label": "infrastructure",
-      "permalink": "/docs/tags/infrastructure"
+      "permalink": "/my-devsecops-portfolio/docs/tags/infrastructure"
     },
     {
       "inline": true,
       "label": "cheat-sheet",
-      "permalink": "/docs/tags/cheat-sheet"
+      "permalink": "/my-devsecops-portfolio/docs/tags/cheat-sheet"
     }
   ],
   "version": "current",
@@ -58,10 +58,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Azure CLI",
-    "permalink": "/docs/knowledge-base/cheat-sheets/azure-cli-commands"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/azure-cli-commands"
   },
   "next": {
     "title": "📄 JSON",
-    "permalink": "/docs/knowledge-base/dataformats/json"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/dataformats/json"
   }
 }

@@ -5,39 +5,39 @@
   "source": "@site/docs/knowledge-base/cheat-sheets/linux-commands.md",
   "sourceDirName": "knowledge-base/cheat-sheets",
   "slug": "/knowledge-base/cheat-sheets/linux-commands",
-  "permalink": "/docs/knowledge-base/cheat-sheets/linux-commands",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/linux-commands",
   "draft": false,
   "unlisted": false,
   "tags": [
     {
       "inline": true,
       "label": "linux",
-      "permalink": "/docs/tags/linux"
+      "permalink": "/my-devsecops-portfolio/docs/tags/linux"
     },
     {
       "inline": true,
       "label": "shell",
-      "permalink": "/docs/tags/shell"
+      "permalink": "/my-devsecops-portfolio/docs/tags/shell"
     },
     {
       "inline": true,
       "label": "bash",
-      "permalink": "/docs/tags/bash"
+      "permalink": "/my-devsecops-portfolio/docs/tags/bash"
     },
     {
       "inline": true,
       "label": "unix",
-      "permalink": "/docs/tags/unix"
+      "permalink": "/my-devsecops-portfolio/docs/tags/unix"
     },
     {
       "inline": true,
       "label": "system-administration",
-      "permalink": "/docs/tags/system-administration"
+      "permalink": "/my-devsecops-portfolio/docs/tags/system-administration"
     },
     {
       "inline": true,
       "label": "cheat-sheet",
-      "permalink": "/docs/tags/cheat-sheet"
+      "permalink": "/my-devsecops-portfolio/docs/tags/cheat-sheet"
     }
   ],
   "version": "current",
@@ -58,10 +58,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Git",
-    "permalink": "/docs/knowledge-base/cheat-sheets/git-commands"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/git-commands"
   },
   "next": {
     "title": "Azure CLI",
-    "permalink": "/docs/knowledge-base/cheat-sheets/azure-cli-commands"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/azure-cli-commands"
   }
 }

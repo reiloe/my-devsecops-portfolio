@@ -13,10 +13,10 @@ const config: Config = {
   favicon: 'img/favicon.svg',
 
   url: process.env.DEPLOYMENT_URL ?? "https://reiloe.github.io",
-  baseUrl: process.env.BASE_URL ?? "/",
+  baseUrl: process.env.BASE_URL ?? "/my-devsecops-portfolio/",
 
-  organizationName: process.env.GITHUB_ORG,
-  projectName: process.env.GITHUB_PROJECT,
+  organizationName: process.env.GITHUB_ORG ?? "reiloe",
+  projectName: process.env.GITHUB_PROJECT ?? "my-devsecops-portfolio",
 
   deploymentBranch: process.env.DEPLOYMENT_BRANCH,
 

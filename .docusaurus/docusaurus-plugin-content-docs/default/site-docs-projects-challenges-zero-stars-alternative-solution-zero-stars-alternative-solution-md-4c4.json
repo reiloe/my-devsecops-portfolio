@@ -5,7 +5,7 @@
   "source": "@site/docs/projects/challenges/zero-stars-alternative-solution/zero-stars-alternative-solution.md",
   "sourceDirName": "projects/challenges/zero-stars-alternative-solution",
   "slug": "/projects/challenges/zero-stars-alternative-solution/",
-  "permalink": "/docs/projects/challenges/zero-stars-alternative-solution/",
+  "permalink": "/my-devsecops-portfolio/docs/projects/challenges/zero-stars-alternative-solution/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "OWASP Juice Shop",
-    "permalink": "/docs/projects/juiceshop"
+    "permalink": "/my-devsecops-portfolio/docs/projects/juiceshop"
   },
   "next": {
     "title": "🔭 Visual Geo Stalking",
-    "permalink": "/docs/projects/challenges/visual-geo-stalking/"
+    "permalink": "/my-devsecops-portfolio/docs/projects/challenges/visual-geo-stalking/"
   }
 }

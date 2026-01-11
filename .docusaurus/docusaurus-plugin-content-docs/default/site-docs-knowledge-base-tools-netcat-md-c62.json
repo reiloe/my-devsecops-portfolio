@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/tools/netcat.md",
   "sourceDirName": "knowledge-base/tools",
   "slug": "/knowledge-base/tools/netcat",
-  "permalink": "/docs/knowledge-base/tools/netcat",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/tools/netcat",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📝 Groovy",
-    "permalink": "/docs/knowledge-base/programming/languages/groovy"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/languages/groovy"
   },
   "next": {
     "title": "🔎 Nmap",
-    "permalink": "/docs/knowledge-base/tools/nmap"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/tools/nmap"
   }
 }

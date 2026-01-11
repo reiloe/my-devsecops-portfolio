@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request.md",
   "sourceDirName": "knowledge-base/infrastructure/git",
   "slug": "/knowledge-base/infrastructure/git/git_flow_und_pull_request",
-  "permalink": "/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🌿 Git-Flow",
-    "permalink": "/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus"
   },
   "next": {
     "title": "🌿 Git – Fundamentals",
-    "permalink": "/docs/knowledge-base/infrastructure/git"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git"
   }
 }

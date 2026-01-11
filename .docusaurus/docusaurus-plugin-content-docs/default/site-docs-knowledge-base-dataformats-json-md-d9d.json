@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/dataformats/json.md",
   "sourceDirName": "knowledge-base/dataformats",
   "slug": "/knowledge-base/dataformats/json",
-  "permalink": "/docs/knowledge-base/dataformats/json",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/dataformats/json",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Google Cloud CLI",
-    "permalink": "/docs/knowledge-base/cheat-sheets/gcloud-cli-commands"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/gcloud-cli-commands"
   },
   "next": {
     "title": "📝 YAML",
-    "permalink": "/docs/knowledge-base/dataformats/yaml"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/dataformats/yaml"
   }
 }

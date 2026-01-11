@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/devops/ci-cd/jenkins-cicd.md",
   "sourceDirName": "knowledge-base/devops/ci-cd",
   "slug": "/knowledge-base/devops/ci-cd/jenkins-cicd",
-  "permalink": "/docs/knowledge-base/devops/ci-cd/jenkins-cicd",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/jenkins-cicd",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🔄 GitOps",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/gitops"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitops"
   },
   "next": {
     "title": "🔒 DevSecOps",
-    "permalink": "/docs/knowledge-base/devops/devsecops"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/devsecops"
   }
 }

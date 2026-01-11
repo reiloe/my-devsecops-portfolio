@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/devops/ci-cd/azure-devops.md",
   "sourceDirName": "knowledge-base/devops/ci-cd",
   "slug": "/knowledge-base/devops/ci-cd/azure-devops",
-  "permalink": "/docs/knowledge-base/devops/ci-cd/azure-devops",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/azure-devops",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "☁️ AWS CodePipeline",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/aws-codepipeline"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/aws-codepipeline"
   },
   "next": {
     "title": "🎋 Atlassian Bamboo CI/CD",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/bamboo-cicd"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/bamboo-cicd"
   }
 }

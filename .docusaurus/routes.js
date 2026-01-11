@@ -3,809 +3,809 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/my-devsecops-portfolio/__docusaurus/debug',
+    component: ComponentCreator('/my-devsecops-portfolio/__docusaurus/debug', '94c'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/my-devsecops-portfolio/__docusaurus/debug/config',
+    component: ComponentCreator('/my-devsecops-portfolio/__docusaurus/debug/config', '777'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/my-devsecops-portfolio/__docusaurus/debug/content',
+    component: ComponentCreator('/my-devsecops-portfolio/__docusaurus/debug/content', '598'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/my-devsecops-portfolio/__docusaurus/debug/globalData',
+    component: ComponentCreator('/my-devsecops-portfolio/__docusaurus/debug/globalData', 'dad'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/my-devsecops-portfolio/__docusaurus/debug/metadata',
+    component: ComponentCreator('/my-devsecops-portfolio/__docusaurus/debug/metadata', '8c2'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/my-devsecops-portfolio/__docusaurus/debug/registry',
+    component: ComponentCreator('/my-devsecops-portfolio/__docusaurus/debug/registry', '03e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/my-devsecops-portfolio/__docusaurus/debug/routes',
+    component: ComponentCreator('/my-devsecops-portfolio/__docusaurus/debug/routes', '710'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'a89'),
+    path: '/my-devsecops-portfolio/blog',
+    component: ComponentCreator('/my-devsecops-portfolio/blog', 'bf7'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/my-devsecops-portfolio/blog/archive',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/archive', '405'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/my-devsecops-portfolio/blog/authors',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/authors', '972'),
     exact: true
   },
   {
-    path: '/blog/docker-container-security',
-    component: ComponentCreator('/blog/docker-container-security', '85f'),
+    path: '/my-devsecops-portfolio/blog/docker-container-security',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/docker-container-security', '9ab'),
     exact: true
   },
   {
-    path: '/blog/kubernetes-networking-explained',
-    component: ComponentCreator('/blog/kubernetes-networking-explained', 'baf'),
+    path: '/my-devsecops-portfolio/blog/kubernetes-networking-explained',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/kubernetes-networking-explained', 'b40'),
     exact: true
   },
   {
-    path: '/blog/kubernetes-security-best-practices',
-    component: ComponentCreator('/blog/kubernetes-security-best-practices', 'e74'),
+    path: '/my-devsecops-portfolio/blog/kubernetes-security-best-practices',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/kubernetes-security-best-practices', 'ccd'),
     exact: true
   },
   {
-    path: '/blog/kubernetes-troubleshooting-guide',
-    component: ComponentCreator('/blog/kubernetes-troubleshooting-guide', '24c'),
+    path: '/my-devsecops-portfolio/blog/kubernetes-troubleshooting-guide',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/kubernetes-troubleshooting-guide', '0ce'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/my-devsecops-portfolio/blog/tags',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags', '8c2'),
     exact: true
   },
   {
-    path: '/blog/tags/cloud',
-    component: ComponentCreator('/blog/tags/cloud', 'a60'),
+    path: '/my-devsecops-portfolio/blog/tags/cloud',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/cloud', '882'),
     exact: true
   },
   {
-    path: '/blog/tags/container',
-    component: ComponentCreator('/blog/tags/container', 'b3d'),
+    path: '/my-devsecops-portfolio/blog/tags/container',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/container', '528'),
     exact: true
   },
   {
-    path: '/blog/tags/container-security',
-    component: ComponentCreator('/blog/tags/container-security', '4fd'),
+    path: '/my-devsecops-portfolio/blog/tags/container-security',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/container-security', 'bee'),
     exact: true
   },
   {
-    path: '/blog/tags/containers',
-    component: ComponentCreator('/blog/tags/containers', 'c53'),
+    path: '/my-devsecops-portfolio/blog/tags/containers',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/containers', '8cb'),
     exact: true
   },
   {
-    path: '/blog/tags/debugging',
-    component: ComponentCreator('/blog/tags/debugging', 'dbe'),
+    path: '/my-devsecops-portfolio/blog/tags/debugging',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/debugging', '74b'),
     exact: true
   },
   {
-    path: '/blog/tags/devops',
-    component: ComponentCreator('/blog/tags/devops', '715'),
+    path: '/my-devsecops-portfolio/blog/tags/devops',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/devops', '36d'),
     exact: true
   },
   {
-    path: '/blog/tags/devsecops',
-    component: ComponentCreator('/blog/tags/devsecops', '3c1'),
+    path: '/my-devsecops-portfolio/blog/tags/devsecops',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/devsecops', '5e7'),
     exact: true
   },
   {
-    path: '/blog/tags/docker',
-    component: ComponentCreator('/blog/tags/docker', '3b7'),
+    path: '/my-devsecops-portfolio/blog/tags/docker',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/docker', '1d2'),
     exact: true
   },
   {
-    path: '/blog/tags/infrastructure',
-    component: ComponentCreator('/blog/tags/infrastructure', 'e4d'),
+    path: '/my-devsecops-portfolio/blog/tags/infrastructure',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/infrastructure', '1b8'),
     exact: true
   },
   {
-    path: '/blog/tags/kubernetes',
-    component: ComponentCreator('/blog/tags/kubernetes', '0d1'),
+    path: '/my-devsecops-portfolio/blog/tags/kubernetes',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/kubernetes', 'd80'),
     exact: true
   },
   {
-    path: '/blog/tags/networking',
-    component: ComponentCreator('/blog/tags/networking', 'd5a'),
+    path: '/my-devsecops-portfolio/blog/tags/networking',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/networking', 'd2b'),
     exact: true
   },
   {
-    path: '/blog/tags/operations',
-    component: ComponentCreator('/blog/tags/operations', 'bb8'),
+    path: '/my-devsecops-portfolio/blog/tags/operations',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/operations', 'a57'),
     exact: true
   },
   {
-    path: '/blog/tags/security',
-    component: ComponentCreator('/blog/tags/security', '98f'),
+    path: '/my-devsecops-portfolio/blog/tags/security',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/security', 'ad6'),
     exact: true
   },
   {
-    path: '/blog/tags/troubleshooting',
-    component: ComponentCreator('/blog/tags/troubleshooting', '087'),
+    path: '/my-devsecops-portfolio/blog/tags/troubleshooting',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/troubleshooting', '043'),
     exact: true
   },
   {
-    path: '/blog/tags/welcome',
-    component: ComponentCreator('/blog/tags/welcome', '9ce'),
+    path: '/my-devsecops-portfolio/blog/tags/welcome',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/tags/welcome', '054'),
     exact: true
   },
   {
-    path: '/blog/welcome-to-devsecops-unlocked',
-    component: ComponentCreator('/blog/welcome-to-devsecops-unlocked', 'ec9'),
+    path: '/my-devsecops-portfolio/blog/welcome-to-devsecops-unlocked',
+    component: ComponentCreator('/my-devsecops-portfolio/blog/welcome-to-devsecops-unlocked', '5f8'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '6fb'),
+    path: '/my-devsecops-portfolio/docs',
+    component: ComponentCreator('/my-devsecops-portfolio/docs', '50e'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '4dc'),
+        path: '/my-devsecops-portfolio/docs',
+        component: ComponentCreator('/my-devsecops-portfolio/docs', '7b6'),
         routes: [
           {
-            path: '/docs/tags',
-            component: ComponentCreator('/docs/tags', 'fce'),
+            path: '/my-devsecops-portfolio/docs/tags',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags', 'ce4'),
             exact: true
           },
           {
-            path: '/docs/tags/aws',
-            component: ComponentCreator('/docs/tags/aws', 'e55'),
+            path: '/my-devsecops-portfolio/docs/tags/aws',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/aws', '3a3'),
             exact: true
           },
           {
-            path: '/docs/tags/aws-cli',
-            component: ComponentCreator('/docs/tags/aws-cli', '005'),
+            path: '/my-devsecops-portfolio/docs/tags/aws-cli',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/aws-cli', '2b7'),
             exact: true
           },
           {
-            path: '/docs/tags/azure',
-            component: ComponentCreator('/docs/tags/azure', '99f'),
+            path: '/my-devsecops-portfolio/docs/tags/azure',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/azure', 'af4'),
             exact: true
           },
           {
-            path: '/docs/tags/azure-cli',
-            component: ComponentCreator('/docs/tags/azure-cli', '664'),
+            path: '/my-devsecops-portfolio/docs/tags/azure-cli',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/azure-cli', 'e41'),
             exact: true
           },
           {
-            path: '/docs/tags/bash',
-            component: ComponentCreator('/docs/tags/bash', 'b6a'),
+            path: '/my-devsecops-portfolio/docs/tags/bash',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/bash', 'c33'),
             exact: true
           },
           {
-            path: '/docs/tags/cheat-sheet',
-            component: ComponentCreator('/docs/tags/cheat-sheet', 'e34'),
+            path: '/my-devsecops-portfolio/docs/tags/cheat-sheet',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/cheat-sheet', '0d6'),
             exact: true
           },
           {
-            path: '/docs/tags/cloud',
-            component: ComponentCreator('/docs/tags/cloud', 'ed2'),
+            path: '/my-devsecops-portfolio/docs/tags/cloud',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/cloud', 'a76'),
             exact: true
           },
           {
-            path: '/docs/tags/container-orchestration',
-            component: ComponentCreator('/docs/tags/container-orchestration', '8e3'),
+            path: '/my-devsecops-portfolio/docs/tags/container-orchestration',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/container-orchestration', '4d7'),
             exact: true
           },
           {
-            path: '/docs/tags/containerization',
-            component: ComponentCreator('/docs/tags/containerization', '02c'),
+            path: '/my-devsecops-portfolio/docs/tags/containerization',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/containerization', '80d'),
             exact: true
           },
           {
-            path: '/docs/tags/containers',
-            component: ComponentCreator('/docs/tags/containers', '3fc'),
+            path: '/my-devsecops-portfolio/docs/tags/containers',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/containers', '563'),
             exact: true
           },
           {
-            path: '/docs/tags/docker',
-            component: ComponentCreator('/docs/tags/docker', '0d0'),
+            path: '/my-devsecops-portfolio/docs/tags/docker',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/docker', 'e7a'),
             exact: true
           },
           {
-            path: '/docs/tags/gcloud',
-            component: ComponentCreator('/docs/tags/gcloud', 'a11'),
+            path: '/my-devsecops-portfolio/docs/tags/gcloud',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/gcloud', 'a93'),
             exact: true
           },
           {
-            path: '/docs/tags/gcp',
-            component: ComponentCreator('/docs/tags/gcp', 'c47'),
+            path: '/my-devsecops-portfolio/docs/tags/gcp',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/gcp', 'a5b'),
             exact: true
           },
           {
-            path: '/docs/tags/git',
-            component: ComponentCreator('/docs/tags/git', '549'),
+            path: '/my-devsecops-portfolio/docs/tags/git',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/git', '4b0'),
             exact: true
           },
           {
-            path: '/docs/tags/google-cloud',
-            component: ComponentCreator('/docs/tags/google-cloud', 'adb'),
+            path: '/my-devsecops-portfolio/docs/tags/google-cloud',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/google-cloud', '8f9'),
             exact: true
           },
           {
-            path: '/docs/tags/infrastructure',
-            component: ComponentCreator('/docs/tags/infrastructure', '49b'),
+            path: '/my-devsecops-portfolio/docs/tags/infrastructure',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/infrastructure', 'ad1'),
             exact: true
           },
           {
-            path: '/docs/tags/k-8-s',
-            component: ComponentCreator('/docs/tags/k-8-s', '2bf'),
+            path: '/my-devsecops-portfolio/docs/tags/k-8-s',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/k-8-s', '2e5'),
             exact: true
           },
           {
-            path: '/docs/tags/kubectl',
-            component: ComponentCreator('/docs/tags/kubectl', '57b'),
+            path: '/my-devsecops-portfolio/docs/tags/kubectl',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/kubectl', 'b47'),
             exact: true
           },
           {
-            path: '/docs/tags/kubernetes',
-            component: ComponentCreator('/docs/tags/kubernetes', 'a8b'),
+            path: '/my-devsecops-portfolio/docs/tags/kubernetes',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/kubernetes', 'fc8'),
             exact: true
           },
           {
-            path: '/docs/tags/linux',
-            component: ComponentCreator('/docs/tags/linux', '845'),
+            path: '/my-devsecops-portfolio/docs/tags/linux',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/linux', '391'),
             exact: true
           },
           {
-            path: '/docs/tags/shell',
-            component: ComponentCreator('/docs/tags/shell', '81c'),
+            path: '/my-devsecops-portfolio/docs/tags/shell',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/shell', 'a92'),
             exact: true
           },
           {
-            path: '/docs/tags/system-administration',
-            component: ComponentCreator('/docs/tags/system-administration', '2bd'),
+            path: '/my-devsecops-portfolio/docs/tags/system-administration',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/system-administration', 'b1a'),
             exact: true
           },
           {
-            path: '/docs/tags/unix',
-            component: ComponentCreator('/docs/tags/unix', '011'),
+            path: '/my-devsecops-portfolio/docs/tags/unix',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/unix', '523'),
             exact: true
           },
           {
-            path: '/docs/tags/vcs',
-            component: ComponentCreator('/docs/tags/vcs', '3fd'),
+            path: '/my-devsecops-portfolio/docs/tags/vcs',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/vcs', '307'),
             exact: true
           },
           {
-            path: '/docs/tags/version-control',
-            component: ComponentCreator('/docs/tags/version-control', '8c1'),
+            path: '/my-devsecops-portfolio/docs/tags/version-control',
+            component: ComponentCreator('/my-devsecops-portfolio/docs/tags/version-control', 'd61'),
             exact: true
           },
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '4de'),
+            path: '/my-devsecops-portfolio/docs',
+            component: ComponentCreator('/my-devsecops-portfolio/docs', '001'),
             routes: [
               {
-                path: '/docs/',
-                component: ComponentCreator('/docs/', '698'),
+                path: '/my-devsecops-portfolio/docs/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/', '801'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides',
-                component: ComponentCreator('/docs/guides', 'ba2'),
+                path: '/my-devsecops-portfolio/docs/guides',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides', 'fb4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/cicd-lab/cicd-lab-setup-mac',
-                component: ComponentCreator('/docs/guides/cicd-lab/cicd-lab-setup-mac', 'e6e'),
+                path: '/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-mac',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-mac', '4b4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/cicd-lab/cicd-lab-setup-ubuntu',
-                component: ComponentCreator('/docs/guides/cicd-lab/cicd-lab-setup-ubuntu', '4c8'),
+                path: '/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-ubuntu',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-ubuntu', '5f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/cicd-lab/cicd-lab-setup-windows',
-                component: ComponentCreator('/docs/guides/cicd-lab/cicd-lab-setup-windows', '7ff'),
+                path: '/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-windows',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-windows', '9be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/intro',
-                component: ComponentCreator('/docs/guides/intro', 'f20'),
+                path: '/my-devsecops-portfolio/docs/guides/intro',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/intro', '0ce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/juiceshop-lab/linux/',
-                component: ComponentCreator('/docs/guides/juiceshop-lab/linux/', '5c1'),
+                path: '/my-devsecops-portfolio/docs/guides/juiceshop-lab/linux/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/juiceshop-lab/linux/', '4d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/juiceshop-lab/local/',
-                component: ComponentCreator('/docs/guides/juiceshop-lab/local/', 'b18'),
+                path: '/my-devsecops-portfolio/docs/guides/juiceshop-lab/local/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/juiceshop-lab/local/', 'de8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/juiceshop-lab/mac/',
-                component: ComponentCreator('/docs/guides/juiceshop-lab/mac/', 'dac'),
+                path: '/my-devsecops-portfolio/docs/guides/juiceshop-lab/mac/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/juiceshop-lab/mac/', 'c70'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/juiceshop-lab/windows/',
-                component: ComponentCreator('/docs/guides/juiceshop-lab/windows/', '402'),
+                path: '/my-devsecops-portfolio/docs/guides/juiceshop-lab/windows/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/juiceshop-lab/windows/', '36c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/monitoring/elk-stack',
-                component: ComponentCreator('/docs/guides/monitoring/elk-stack', 'dc3'),
+                path: '/my-devsecops-portfolio/docs/guides/monitoring/elk-stack',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/monitoring/elk-stack', '056'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/monitoring/grafana',
-                component: ComponentCreator('/docs/guides/monitoring/grafana', '142'),
+                path: '/my-devsecops-portfolio/docs/guides/monitoring/grafana',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/monitoring/grafana', '385'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/monitoring/kibana',
-                component: ComponentCreator('/docs/guides/monitoring/kibana', '8b5'),
+                path: '/my-devsecops-portfolio/docs/guides/monitoring/kibana',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/monitoring/kibana', '617'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/monitoring/logstash',
-                component: ComponentCreator('/docs/guides/monitoring/logstash', '642'),
+                path: '/my-devsecops-portfolio/docs/guides/monitoring/logstash',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/monitoring/logstash', '8c9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/monitoring/nagios',
-                component: ComponentCreator('/docs/guides/monitoring/nagios', '2e7'),
+                path: '/my-devsecops-portfolio/docs/guides/monitoring/nagios',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/monitoring/nagios', 'e22'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/monitoring/prometheus',
-                component: ComponentCreator('/docs/guides/monitoring/prometheus', '519'),
+                path: '/my-devsecops-portfolio/docs/guides/monitoring/prometheus',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/monitoring/prometheus', 'f9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/monitoring/wazuh',
-                component: ComponentCreator('/docs/guides/monitoring/wazuh', 'c8f'),
+                path: '/my-devsecops-portfolio/docs/guides/monitoring/wazuh',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/monitoring/wazuh', '05b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/pentesting-lab/pentesting-lab-setup',
-                component: ComponentCreator('/docs/guides/pentesting-lab/pentesting-lab-setup', 'da7'),
+                path: '/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup', 'dd6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu',
-                component: ComponentCreator('/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu', 'e15'),
+                path: '/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu', '270'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/pentesting-lab/pentesting-lab-setup-windows',
-                component: ComponentCreator('/docs/guides/pentesting-lab/pentesting-lab-setup-windows', '8ae'),
+                path: '/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-windows',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-windows', '2aa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base',
-                component: ComponentCreator('/docs/knowledge-base', '60c'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base', '72b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/cheat-sheets/aws-cli-commands',
-                component: ComponentCreator('/docs/knowledge-base/cheat-sheets/aws-cli-commands', '7e5'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/aws-cli-commands',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/aws-cli-commands', 'd9d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/cheat-sheets/azure-cli-commands',
-                component: ComponentCreator('/docs/knowledge-base/cheat-sheets/azure-cli-commands', 'd85'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/azure-cli-commands',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/azure-cli-commands', '853'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/cheat-sheets/docker-commands',
-                component: ComponentCreator('/docs/knowledge-base/cheat-sheets/docker-commands', 'c6b'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/docker-commands',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/docker-commands', 'a16'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/cheat-sheets/gcloud-cli-commands',
-                component: ComponentCreator('/docs/knowledge-base/cheat-sheets/gcloud-cli-commands', '27b'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/gcloud-cli-commands',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/gcloud-cli-commands', 'c17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/cheat-sheets/git-commands',
-                component: ComponentCreator('/docs/knowledge-base/cheat-sheets/git-commands', '121'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/git-commands',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/git-commands', 'da6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/cheat-sheets/kubernetes-commands',
-                component: ComponentCreator('/docs/knowledge-base/cheat-sheets/kubernetes-commands', 'a55'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/kubernetes-commands',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/kubernetes-commands', '99e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/cheat-sheets/linux-commands',
-                component: ComponentCreator('/docs/knowledge-base/cheat-sheets/linux-commands', '0ba'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/linux-commands',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/linux-commands', 'b01'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/dataformats/json',
-                component: ComponentCreator('/docs/knowledge-base/dataformats/json', '398'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/dataformats/json',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/dataformats/json', '73d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/dataformats/yaml',
-                component: ComponentCreator('/docs/knowledge-base/dataformats/yaml', '75c'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/dataformats/yaml',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/dataformats/yaml', '44b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops',
-                component: ComponentCreator('/docs/knowledge-base/devops', '4db'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops', '178'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/aws-codepipeline',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/aws-codepipeline', '1b6'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/aws-codepipeline',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/aws-codepipeline', '185'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/azure-devops',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/azure-devops', '83d'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/azure-devops',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/azure-devops', '6dc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/bamboo-cicd',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/bamboo-cicd', '600'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/bamboo-cicd',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/bamboo-cicd', 'bf1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/docker',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/docker', 'b93'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/docker',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/docker', 'c4d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/gcp-cloud-build',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/gcp-cloud-build', '116'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gcp-cloud-build',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gcp-cloud-build', '74f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/github-actions',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/github-actions', '8f0'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/github-actions',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/github-actions', 'd7f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/gitlab',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/gitlab', '3ef'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab', '04e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/gitlab-cicd',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/gitlab-cicd', 'cfb'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab-cicd',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab-cicd', '217'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/gitops',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/gitops', 'a64'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitops',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitops', '732'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/ci-cd/jenkins-cicd',
-                component: ComponentCreator('/docs/knowledge-base/devops/ci-cd/jenkins-cicd', 'b4d'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/jenkins-cicd',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/jenkins-cicd', 'de5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/devops/devsecops',
-                component: ComponentCreator('/docs/knowledge-base/devops/devsecops', '9ea'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/devops/devsecops',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/devops/devsecops', '788'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/git',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/git', 'd48'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git', 'fc0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus', '746'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus', 'cf9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request', 'd33'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request', 'ca6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/linux/diskmanagement',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/linux/diskmanagement', '718'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/diskmanagement',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/diskmanagement', '4e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/linux/heredocuments',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/linux/heredocuments', '444'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/heredocuments',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/heredocuments', 'eb1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/linux/jsonparserjq',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/linux/jsonparserjq', 'b7b'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/jsonparserjq',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/jsonparserjq', 'b6e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/linux/pipesredirection',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/linux/pipesredirection', 'a3e'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/pipesredirection',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/pipesredirection', 'd26'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/linux/userpermissions',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/linux/userpermissions', '73c'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/userpermissions',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/userpermissions', '3a8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/infrastructure/linux/vivim',
-                component: ComponentCreator('/docs/knowledge-base/infrastructure/linux/vivim', '4c8'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/vivim',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/vivim', 'd1b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/intro',
-                component: ComponentCreator('/docs/knowledge-base/intro', 'af5'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/intro',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/intro', '305'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/dhcp-protocol',
-                component: ComponentCreator('/docs/knowledge-base/network/dhcp-protocol', 'f67'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/dhcp-protocol',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/dhcp-protocol', '410'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/dns-domain-name-system',
-                component: ComponentCreator('/docs/knowledge-base/network/dns-domain-name-system', 'ed2'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/dns-domain-name-system',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/dns-domain-name-system', 'fe6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/ipv4-addressing',
-                component: ComponentCreator('/docs/knowledge-base/network/ipv4-addressing', 'a93'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/ipv4-addressing',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/ipv4-addressing', '9a1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/iso-osi-model',
-                component: ComponentCreator('/docs/knowledge-base/network/iso-osi-model', 'ced'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/iso-osi-model',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/iso-osi-model', '68b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/ports',
-                component: ComponentCreator('/docs/knowledge-base/network/ports', '812'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/ports',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/ports', 'bff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/ssh-secure-shell',
-                component: ComponentCreator('/docs/knowledge-base/network/ssh-secure-shell', '204'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/ssh-secure-shell',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/ssh-secure-shell', 'a82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/ssl-tls-encryption',
-                component: ComponentCreator('/docs/knowledge-base/network/ssl-tls-encryption', '054'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/ssl-tls-encryption',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/ssl-tls-encryption', 'c99'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/network/tcp-three-way-handshake',
-                component: ComponentCreator('/docs/knowledge-base/network/tcp-three-way-handshake', '722'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/network/tcp-three-way-handshake',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/network/tcp-three-way-handshake', '6e2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/buildtools/gradle',
-                component: ComponentCreator('/docs/knowledge-base/programming/buildtools/gradle', '276'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/gradle',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/gradle', 'f37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/buildtools/maven',
-                component: ComponentCreator('/docs/knowledge-base/programming/buildtools/maven', '58b'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven', '177'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/buildtools/maven/maven_multi_module',
-                component: ComponentCreator('/docs/knowledge-base/programming/buildtools/maven/maven_multi_module', 'fad'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven/maven_multi_module',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven/maven_multi_module', '770'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow',
-                component: ComponentCreator('/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow', 'ac5'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow', '7f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/frameworks/django',
-                component: ComponentCreator('/docs/knowledge-base/programming/frameworks/django', '738'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/django',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/django', 'e09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/frameworks/flask',
-                component: ComponentCreator('/docs/knowledge-base/programming/frameworks/flask', 'aba'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/flask',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/flask', '827'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/languages/bash',
-                component: ComponentCreator('/docs/knowledge-base/programming/languages/bash', 'f22'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/languages/bash',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/languages/bash', '7ac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/languages/go',
-                component: ComponentCreator('/docs/knowledge-base/programming/languages/go', '6d6'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/languages/go',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/languages/go', 'c06'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/programming/languages/groovy',
-                component: ComponentCreator('/docs/knowledge-base/programming/languages/groovy', '5de'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/programming/languages/groovy',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/programming/languages/groovy', 'b9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/tools/netcat',
-                component: ComponentCreator('/docs/knowledge-base/tools/netcat', '139'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/tools/netcat',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/tools/netcat', 'fce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/tools/nmap',
-                component: ComponentCreator('/docs/knowledge-base/tools/nmap', 'e27'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/tools/nmap',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/tools/nmap', '4b4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge-base/tools/wireshark',
-                component: ComponentCreator('/docs/knowledge-base/tools/wireshark', '8e8'),
+                path: '/my-devsecops-portfolio/docs/knowledge-base/tools/wireshark',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/knowledge-base/tools/wireshark', 'f59'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/babytools',
-                component: ComponentCreator('/docs/projects/babytools', '6fb'),
+                path: '/my-devsecops-portfolio/docs/projects/babytools',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/babytools', '482'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/challenges/easteregg/',
-                component: ComponentCreator('/docs/projects/challenges/easteregg/', '357'),
+                path: '/my-devsecops-portfolio/docs/projects/challenges/easteregg/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/challenges/easteregg/', 'a2e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/challenges/nested-easteregg/nested-easeregg',
-                component: ComponentCreator('/docs/projects/challenges/nested-easteregg/nested-easeregg', 'df6'),
+                path: '/my-devsecops-portfolio/docs/projects/challenges/nested-easteregg/nested-easeregg',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/challenges/nested-easteregg/nested-easeregg', '1ca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/challenges/visual-geo-stalking/',
-                component: ComponentCreator('/docs/projects/challenges/visual-geo-stalking/', '272'),
+                path: '/my-devsecops-portfolio/docs/projects/challenges/visual-geo-stalking/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/challenges/visual-geo-stalking/', '242'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/challenges/zero-stars-alternative-solution/',
-                component: ComponentCreator('/docs/projects/challenges/zero-stars-alternative-solution/', '2e0'),
+                path: '/my-devsecops-portfolio/docs/projects/challenges/zero-stars-alternative-solution/',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/challenges/zero-stars-alternative-solution/', '918'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/conduit',
-                component: ComponentCreator('/docs/projects/conduit', 'ee2'),
+                path: '/my-devsecops-portfolio/docs/projects/conduit',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/conduit', 'f0b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/conduit-cicd',
-                component: ComponentCreator('/docs/projects/conduit-cicd', 'e5f'),
+                path: '/my-devsecops-portfolio/docs/projects/conduit-cicd',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/conduit-cicd', '229'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/juiceshop',
-                component: ComponentCreator('/docs/projects/juiceshop', 'cec'),
+                path: '/my-devsecops-portfolio/docs/projects/juiceshop',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/juiceshop', 'b63'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/minecraft',
-                component: ComponentCreator('/docs/projects/minecraft', '026'),
+                path: '/my-devsecops-portfolio/docs/projects/minecraft',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/minecraft', 'bb4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/overview',
-                component: ComponentCreator('/docs/projects/overview', '54b'),
+                path: '/my-devsecops-portfolio/docs/projects/overview',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/overview', '8a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/trucksignsapi',
-                component: ComponentCreator('/docs/projects/trucksignsapi', '855'),
+                path: '/my-devsecops-portfolio/docs/projects/trucksignsapi',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/trucksignsapi', 'e17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/vserver',
-                component: ComponentCreator('/docs/projects/vserver', 'b8a'),
+                path: '/my-devsecops-portfolio/docs/projects/vserver',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/vserver', '662'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projects/wordpress',
-                component: ComponentCreator('/docs/projects/wordpress', '6ec'),
+                path: '/my-devsecops-portfolio/docs/projects/wordpress',
+                component: ComponentCreator('/my-devsecops-portfolio/docs/projects/wordpress', '30d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -816,8 +816,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'e5f'),
+    path: '/my-devsecops-portfolio/',
+    component: ComponentCreator('/my-devsecops-portfolio/', '65e'),
     exact: true
   },
   {

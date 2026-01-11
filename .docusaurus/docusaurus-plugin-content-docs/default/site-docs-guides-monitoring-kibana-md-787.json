@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/monitoring/kibana.md",
   "sourceDirName": "guides/monitoring",
   "slug": "/guides/monitoring/kibana",
-  "permalink": "/docs/guides/monitoring/kibana",
+  "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/kibana",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📈 Grafana",
-    "permalink": "/docs/guides/monitoring/grafana"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/grafana"
   },
   "next": {
     "title": "📋 Logstash",
-    "permalink": "/docs/guides/monitoring/logstash"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/logstash"
   }
 }

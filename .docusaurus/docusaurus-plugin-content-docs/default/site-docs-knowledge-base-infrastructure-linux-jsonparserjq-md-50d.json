@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/infrastructure/linux/jsonparserjq.md",
   "sourceDirName": "knowledge-base/infrastructure/linux",
   "slug": "/knowledge-base/infrastructure/linux/jsonparserjq",
-  "permalink": "/docs/knowledge-base/infrastructure/linux/jsonparserjq",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/jsonparserjq",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🐧 Here-Documents in Linux: EOF and Variants",
-    "permalink": "/docs/knowledge-base/infrastructure/linux/heredocuments"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/heredocuments"
   },
   "next": {
     "title": "🐧 Pipes and Redirection",
-    "permalink": "/docs/knowledge-base/infrastructure/linux/pipesredirection"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/pipesredirection"
   }
 }

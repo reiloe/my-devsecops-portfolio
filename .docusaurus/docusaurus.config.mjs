@@ -8,7 +8,9 @@ export default {
   "tagline": "Where DevOps meets Security.",
   "favicon": "img/favicon.svg",
   "url": "https://reiloe.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/my-devsecops-portfolio/",
+  "organizationName": "reiloe",
+  "projectName": "my-devsecops-portfolio",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",

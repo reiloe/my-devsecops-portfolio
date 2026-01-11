@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/programming/buildtools/gradle.md",
   "sourceDirName": "knowledge-base/programming/buildtools",
   "slug": "/knowledge-base/programming/buildtools/gradle",
-  "permalink": "/docs/knowledge-base/programming/buildtools/gradle",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/gradle",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🌐 TCP 3-Way Handshake",
-    "permalink": "/docs/knowledge-base/network/tcp-three-way-handshake"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/tcp-three-way-handshake"
   },
   "next": {
     "title": "☕ Multi-Module Maven Project with Parent-POM",
-    "permalink": "/docs/knowledge-base/programming/buildtools/maven/maven_multi_module"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven/maven_multi_module"
   }
 }

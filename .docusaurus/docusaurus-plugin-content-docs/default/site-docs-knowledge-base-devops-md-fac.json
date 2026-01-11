@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/devops.md",
   "sourceDirName": "knowledge-base",
   "slug": "/knowledge-base/devops",
-  "permalink": "/docs/knowledge-base/devops",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🔒 DevSecOps",
-    "permalink": "/docs/knowledge-base/devops/devsecops"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/devsecops"
   },
   "next": {
     "title": "🌿 Git-Flow",
-    "permalink": "/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus"
   }
 }

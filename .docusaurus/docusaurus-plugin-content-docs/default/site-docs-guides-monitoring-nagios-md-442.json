@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/monitoring/nagios.md",
   "sourceDirName": "guides/monitoring",
   "slug": "/guides/monitoring/nagios",
-  "permalink": "/docs/guides/monitoring/nagios",
+  "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/nagios",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📋 Logstash",
-    "permalink": "/docs/guides/monitoring/logstash"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/logstash"
   },
   "next": {
     "title": "📊 Prometheus",
-    "permalink": "/docs/guides/monitoring/prometheus"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/prometheus"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/projects/challenges/visual-geo-stalking/visual-geo-stalking.md",
   "sourceDirName": "projects/challenges/visual-geo-stalking",
   "slug": "/projects/challenges/visual-geo-stalking/",
-  "permalink": "/docs/projects/challenges/visual-geo-stalking/",
+  "permalink": "/my-devsecops-portfolio/docs/projects/challenges/visual-geo-stalking/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "⭐ Zero Stars (Alternative)",
-    "permalink": "/docs/projects/challenges/zero-stars-alternative-solution/"
+    "permalink": "/my-devsecops-portfolio/docs/projects/challenges/zero-stars-alternative-solution/"
   },
   "next": {
     "title": "🥚 Easter Egg",
-    "permalink": "/docs/projects/challenges/easteregg/"
+    "permalink": "/my-devsecops-portfolio/docs/projects/challenges/easteregg/"
   }
 }

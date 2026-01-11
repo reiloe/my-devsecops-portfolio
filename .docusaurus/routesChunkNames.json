@@ -1,48 +1,48 @@
 {
-  "/__docusaurus/debug-5ff": {
+  "/my-devsecops-portfolio/__docusaurus/debug-94c": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
+  "/my-devsecops-portfolio/__docusaurus/debug/config-777": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/content-a2b": {
+  "/my-devsecops-portfolio/__docusaurus/debug/content-598": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "__props": "__props---my-devsecops-portfolio-docusaurus-debug-content-54-e-72c"
   },
-  "/__docusaurus/debug/globalData-c3c": {
+  "/my-devsecops-portfolio/__docusaurus/debug/globalData-dad": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/metadata-156": {
+  "/my-devsecops-portfolio/__docusaurus/debug/metadata-8c2": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/registry-88c": {
+  "/my-devsecops-portfolio/__docusaurus/debug/registry-03e": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/routes-000": {
+  "/my-devsecops-portfolio/__docusaurus/debug/routes-710": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-a89": {
+  "/my-devsecops-portfolio/blog-bf7": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -65,16 +65,16 @@
         "content": "content---blogbbb-5f9"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "__props---my-devsecops-portfolio-blog-983-a58"
   },
-  "/blog/archive-182": {
+  "/my-devsecops-portfolio/blog/archive-405": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "__props---my-devsecops-portfolio-blog-archive-473-3f3"
   },
-  "/blog/authors-0b7": {
+  "/my-devsecops-portfolio/blog/authors-972": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
@@ -83,9 +83,9 @@
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "__props": "__props---my-devsecops-portfolio-blog-authors-82-e-27c"
   },
-  "/blog/docker-container-security-85f": {
+  "/my-devsecops-portfolio/blog/docker-container-security-9ab": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -96,7 +96,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-docker-container-security-794-1d0"
   },
-  "/blog/kubernetes-networking-explained-baf": {
+  "/my-devsecops-portfolio/blog/kubernetes-networking-explained-b40": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -107,7 +107,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-kubernetes-networking-explainedc-4-b-bcf"
   },
-  "/blog/kubernetes-security-best-practices-e74": {
+  "/my-devsecops-portfolio/blog/kubernetes-security-best-practices-ccd": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -118,7 +118,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-kubernetes-security-best-practices-776-0d3"
   },
-  "/blog/kubernetes-troubleshooting-guide-24c": {
+  "/my-devsecops-portfolio/blog/kubernetes-troubleshooting-guide-0ce": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -129,15 +129,15 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-kubernetes-troubleshooting-guide-857-34a"
   },
-  "/blog/tags-287": {
+  "/my-devsecops-portfolio/blog/tags-8c2": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-464-106"
   },
-  "/blog/tags/cloud-a60": {
+  "/my-devsecops-portfolio/blog/tags/cloud-882": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -148,9 +148,9 @@
         "content": "content---blog-0-f-5-0ae"
       }
     ],
-    "__props": "__props---blog-tags-cloudc-3-a-dd3"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-cloudea-5-e4f"
   },
-  "/blog/tags/container-b3d": {
+  "/my-devsecops-portfolio/blog/tags/container-528": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -161,9 +161,9 @@
         "content": "content---blog-05-d-522"
       }
     ],
-    "__props": "__props---blog-tags-container-8-ca-797"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-containerbf-1-b2e"
   },
-  "/blog/tags/container-security-4fd": {
+  "/my-devsecops-portfolio/blog/tags/container-security-bee": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -174,9 +174,9 @@
         "content": "content---blog-69-c-0f3"
       }
     ],
-    "__props": "__props---blog-tags-container-security-191-890"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-container-security-385-7f1"
   },
-  "/blog/tags/containers-c53": {
+  "/my-devsecops-portfolio/blog/tags/containers-8cb": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -187,9 +187,9 @@
         "content": "content---blogbbb-5f9"
       }
     ],
-    "__props": "__props---blog-tags-containers-23-b-4aa"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-containers-5-f-1-049"
   },
-  "/blog/tags/debugging-dbe": {
+  "/my-devsecops-portfolio/blog/tags/debugging-74b": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -200,9 +200,9 @@
         "content": "content---blog-03-d-16f"
       }
     ],
-    "__props": "__props---blog-tags-debugging-991-a98"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-debuggingb-48-584"
   },
-  "/blog/tags/devops-715": {
+  "/my-devsecops-portfolio/blog/tags/devops-36d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -213,99 +213,9 @@
         "content": "content---blog-0-f-5-0ae"
       }
     ],
-    "__props": "__props---blog-tags-devopse-36-759"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-devopsa-91-af4"
   },
-  "/blog/tags/devsecops-3c1": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-05-d-522"
-      },
-      {
-        "content": "content---blog-0-f-5-0ae"
-      },
-      {
-        "content": "content---blog-69-c-0f3"
-      }
-    ],
-    "__props": "__props---blog-tags-devsecopsbd-9-b51"
-  },
-  "/blog/tags/docker-3b7": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-05-d-522"
-      }
-    ],
-    "__props": "__props---blog-tags-docker-91-a-6d8"
-  },
-  "/blog/tags/infrastructure-e4d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogbbb-5f9"
-      }
-    ],
-    "__props": "__props---blog-tags-infrastructure-014-382"
-  },
-  "/blog/tags/kubernetes-0d1": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-69-c-0f3"
-      },
-      {
-        "content": "content---blog-03-d-16f"
-      },
-      {
-        "content": "content---blogbbb-5f9"
-      }
-    ],
-    "__props": "__props---blog-tags-kubernetes-25-d-c82"
-  },
-  "/blog/tags/networking-d5a": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogbbb-5f9"
-      }
-    ],
-    "__props": "__props---blog-tags-networkingfc-6-d05"
-  },
-  "/blog/tags/operations-bb8": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-03-d-16f"
-      }
-    ],
-    "__props": "__props---blog-tags-operations-171-956"
-  },
-  "/blog/tags/security-98f": {
+  "/my-devsecops-portfolio/blog/tags/devsecops-5e7": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -322,9 +232,67 @@
         "content": "content---blog-69-c-0f3"
       }
     ],
-    "__props": "__props---blog-tags-security-87-c-22a"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-devsecops-44-e-277"
   },
-  "/blog/tags/troubleshooting-087": {
+  "/my-devsecops-portfolio/blog/tags/docker-1d2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-05-d-522"
+      }
+    ],
+    "__props": "__props---my-devsecops-portfolio-blog-tags-dockercfd-0d1"
+  },
+  "/my-devsecops-portfolio/blog/tags/infrastructure-1b8": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogbbb-5f9"
+      }
+    ],
+    "__props": "__props---my-devsecops-portfolio-blog-tags-infrastructurefd-5-b03"
+  },
+  "/my-devsecops-portfolio/blog/tags/kubernetes-d80": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-69-c-0f3"
+      },
+      {
+        "content": "content---blog-03-d-16f"
+      },
+      {
+        "content": "content---blogbbb-5f9"
+      }
+    ],
+    "__props": "__props---my-devsecops-portfolio-blog-tags-kubernetes-5-f-7-37e"
+  },
+  "/my-devsecops-portfolio/blog/tags/networking-d2b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogbbb-5f9"
+      }
+    ],
+    "__props": "__props---my-devsecops-portfolio-blog-tags-networking-19-c-bf3"
+  },
+  "/my-devsecops-portfolio/blog/tags/operations-a57": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -335,9 +303,41 @@
         "content": "content---blog-03-d-16f"
       }
     ],
-    "__props": "__props---blog-tags-troubleshooting-6-ec-e62"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-operationsce-9-bf3"
   },
-  "/blog/tags/welcome-9ce": {
+  "/my-devsecops-portfolio/blog/tags/security-ad6": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-05-d-522"
+      },
+      {
+        "content": "content---blog-0-f-5-0ae"
+      },
+      {
+        "content": "content---blog-69-c-0f3"
+      }
+    ],
+    "__props": "__props---my-devsecops-portfolio-blog-tags-security-8-d-4-d15"
+  },
+  "/my-devsecops-portfolio/blog/tags/troubleshooting-043": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-03-d-16f"
+      }
+    ],
+    "__props": "__props---my-devsecops-portfolio-blog-tags-troubleshooting-9-f-9-eb3"
+  },
+  "/my-devsecops-portfolio/blog/tags/welcome-054": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -348,9 +348,9 @@
         "content": "content---blog-0-f-5-0ae"
       }
     ],
-    "__props": "__props---blog-tags-welcome-436-c4b"
+    "__props": "__props---my-devsecops-portfolio-blog-tags-welcome-822-30d"
   },
-  "/blog/welcome-to-devsecops-unlocked-ec9": {
+  "/my-devsecops-portfolio/blog/welcome-to-devsecops-unlocked-5f8": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -361,464 +361,464 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcome-to-devsecops-unlockedd-15-df7"
   },
-  "/docs-6fb": {
+  "/my-devsecops-portfolio/docs-50e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-4dc": {
+  "/my-devsecops-portfolio/docs-7b6": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__props": "__props---my-devsecops-portfolio-docs-229-683"
   },
-  "/docs/tags-fce": {
+  "/my-devsecops-portfolio/docs/tags-ce4": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---docs-tags-898-65c"
+    "__props": "__props---my-devsecops-portfolio-docs-tagsd-2-b-854"
   },
-  "/docs/tags/aws-e55": {
+  "/my-devsecops-portfolio/docs/tags/aws-3a3": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-awsb-9-a-0e5"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-aws-8-b-5-dec"
   },
-  "/docs/tags/aws-cli-005": {
+  "/my-devsecops-portfolio/docs/tags/aws-cli-2b7": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-aws-cli-485-250"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-aws-clice-2-10c"
   },
-  "/docs/tags/azure-99f": {
+  "/my-devsecops-portfolio/docs/tags/azure-af4": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-azure-209-1c5"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-azure-5-f-8-bd3"
   },
-  "/docs/tags/azure-cli-664": {
+  "/my-devsecops-portfolio/docs/tags/azure-cli-e41": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-azure-cli-6-e-7-6ca"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-azure-cli-0-a-8-495"
   },
-  "/docs/tags/bash-b6a": {
+  "/my-devsecops-portfolio/docs/tags/bash-c33": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-bashce-7-7d5"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-bash-25-f-a2e"
   },
-  "/docs/tags/cheat-sheet-e34": {
+  "/my-devsecops-portfolio/docs/tags/cheat-sheet-0d6": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-cheat-sheet-032-ae5"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-cheat-sheetaf-8-4db"
   },
-  "/docs/tags/cloud-ed2": {
+  "/my-devsecops-portfolio/docs/tags/cloud-a76": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-cloud-843-f44"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-cloud-59-f-9f9"
   },
-  "/docs/tags/container-orchestration-8e3": {
+  "/my-devsecops-portfolio/docs/tags/container-orchestration-4d7": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-container-orchestrationd-17-879"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-container-orchestrationf-40-763"
   },
-  "/docs/tags/containerization-02c": {
+  "/my-devsecops-portfolio/docs/tags/containerization-80d": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-containerization-2-f-4-68e"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-containerization-3-da-a08"
   },
-  "/docs/tags/containers-3fc": {
+  "/my-devsecops-portfolio/docs/tags/containers-563": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-containers-7-d-3-119"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-containersdac-a04"
   },
-  "/docs/tags/docker-0d0": {
+  "/my-devsecops-portfolio/docs/tags/docker-e7a": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-docker-714-118"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-dockerb-8-d-40b"
   },
-  "/docs/tags/gcloud-a11": {
+  "/my-devsecops-portfolio/docs/tags/gcloud-a93": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-gcloud-4-aa-b60"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-gcloudec-2-ebc"
   },
-  "/docs/tags/gcp-c47": {
+  "/my-devsecops-portfolio/docs/tags/gcp-a5b": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-gcpbd-2-d98"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-gcp-2-d-0-c17"
   },
-  "/docs/tags/git-549": {
+  "/my-devsecops-portfolio/docs/tags/git-4b0": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-gitdfb-47a"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-git-627-ff2"
   },
-  "/docs/tags/google-cloud-adb": {
+  "/my-devsecops-portfolio/docs/tags/google-cloud-8f9": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-google-cloud-5-b-5-cdf"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-google-cloud-9-c-3-625"
   },
-  "/docs/tags/infrastructure-49b": {
+  "/my-devsecops-portfolio/docs/tags/infrastructure-ad1": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-infrastructuree-00-561"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-infrastructure-9-f-3-6f1"
   },
-  "/docs/tags/k-8-s-2bf": {
+  "/my-devsecops-portfolio/docs/tags/k-8-s-2e5": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-k-8-s-9-d-5-e03"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-k-8-sb-4-f-a39"
   },
-  "/docs/tags/kubectl-57b": {
+  "/my-devsecops-portfolio/docs/tags/kubectl-b47": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-kubectlbb-6-153"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-kubectldb-0-453"
   },
-  "/docs/tags/kubernetes-a8b": {
+  "/my-devsecops-portfolio/docs/tags/kubernetes-fc8": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-kubernetes-100-afc"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-kubernetes-9-dc-3ff"
   },
-  "/docs/tags/linux-845": {
+  "/my-devsecops-portfolio/docs/tags/linux-391": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-linuxda-8-abb"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-linux-236-352"
   },
-  "/docs/tags/shell-81c": {
+  "/my-devsecops-portfolio/docs/tags/shell-a92": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-shelleb-2-e84"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-shellae-7-926"
   },
-  "/docs/tags/system-administration-2bd": {
+  "/my-devsecops-portfolio/docs/tags/system-administration-b1a": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-system-administration-422-18b"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-system-administration-62-c-905"
   },
-  "/docs/tags/unix-011": {
+  "/my-devsecops-portfolio/docs/tags/unix-523": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-unix-817-9ad"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-unix-48-b-ddc"
   },
-  "/docs/tags/vcs-3fd": {
+  "/my-devsecops-portfolio/docs/tags/vcs-307": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-vcs-91-d-203"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-vcs-0-f-9-208"
   },
-  "/docs/tags/version-control-8c1": {
+  "/my-devsecops-portfolio/docs/tags/version-control-d61": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-version-control-038-83b"
+    "__props": "__props---my-devsecops-portfolio-docs-tags-version-controld-55-67c"
   },
-  "/docs-4de": {
+  "/my-devsecops-portfolio/docs-001": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/-698": {
+  "/my-devsecops-portfolio/docs/-801": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-0-e-3-18c"
   },
-  "/docs/guides-ba2": {
+  "/my-devsecops-portfolio/docs/guides-fb4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-guides-963-7ec"
+    "__props": "__props---my-devsecops-portfolio-docs-guides-7-d-1-984"
   },
-  "/docs/guides/cicd-lab/cicd-lab-setup-mac-e6e": {
+  "/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-mac-4b4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-cicd-lab-cicd-lab-setup-mac-83-d-e22"
   },
-  "/docs/guides/cicd-lab/cicd-lab-setup-ubuntu-4c8": {
+  "/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-ubuntu-5f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-cicd-lab-cicd-lab-setup-ubuntud-19-36f"
   },
-  "/docs/guides/cicd-lab/cicd-lab-setup-windows-7ff": {
+  "/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-windows-9be": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-cicd-lab-cicd-lab-setup-windowsb-2-b-1d5"
   },
-  "/docs/guides/intro-f20": {
+  "/my-devsecops-portfolio/docs/guides/intro-0ce": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-intro-193-755"
   },
-  "/docs/guides/juiceshop-lab/linux/-5c1": {
+  "/my-devsecops-portfolio/docs/guides/juiceshop-lab/linux/-4d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-juiceshop-lab-linux-af-8-b0c"
   },
-  "/docs/guides/juiceshop-lab/local/-b18": {
+  "/my-devsecops-portfolio/docs/guides/juiceshop-lab/local/-de8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-juiceshop-lab-local-548-b39"
   },
-  "/docs/guides/juiceshop-lab/mac/-dac": {
+  "/my-devsecops-portfolio/docs/guides/juiceshop-lab/mac/-c70": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-juiceshop-lab-mac-127-524"
   },
-  "/docs/guides/juiceshop-lab/windows/-402": {
+  "/my-devsecops-portfolio/docs/guides/juiceshop-lab/windows/-36c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-juiceshop-lab-windows-568-8f1"
   },
-  "/docs/guides/monitoring/elk-stack-dc3": {
+  "/my-devsecops-portfolio/docs/guides/monitoring/elk-stack-056": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-monitoring-elk-stack-4-d-4-3f9"
   },
-  "/docs/guides/monitoring/grafana-142": {
+  "/my-devsecops-portfolio/docs/guides/monitoring/grafana-385": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-monitoring-grafana-2-c-8-2e4"
   },
-  "/docs/guides/monitoring/kibana-8b5": {
+  "/my-devsecops-portfolio/docs/guides/monitoring/kibana-617": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-monitoring-kibana-787-489"
   },
-  "/docs/guides/monitoring/logstash-642": {
+  "/my-devsecops-portfolio/docs/guides/monitoring/logstash-8c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-monitoring-logstashb-30-2e2"
   },
-  "/docs/guides/monitoring/nagios-2e7": {
+  "/my-devsecops-portfolio/docs/guides/monitoring/nagios-e22": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-monitoring-nagios-442-cb8"
   },
-  "/docs/guides/monitoring/prometheus-519": {
+  "/my-devsecops-portfolio/docs/guides/monitoring/prometheus-f9a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-monitoring-prometheus-55-e-df3"
   },
-  "/docs/guides/monitoring/wazuh-c8f": {
+  "/my-devsecops-portfolio/docs/guides/monitoring/wazuh-05b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-monitoring-wazuh-395-de1"
   },
-  "/docs/guides/pentesting-lab/pentesting-lab-setup-da7": {
+  "/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-dd6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-pentesting-lab-pentesting-lab-setupd-16-855"
   },
-  "/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu-e15": {
+  "/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu-270": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-pentesting-lab-pentesting-lab-setup-ubuntuf-72-7ac"
   },
-  "/docs/guides/pentesting-lab/pentesting-lab-setup-windows-8ae": {
+  "/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-windows-2aa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-pentesting-lab-pentesting-lab-setup-windows-04-a-773"
   },
-  "/docs/knowledge-base-60c": {
+  "/my-devsecops-portfolio/docs/knowledge-base-72b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-knowledge-base-6-e-5-75e"
+    "__props": "__props---my-devsecops-portfolio-docs-knowledge-base-2-c-5-f25"
   },
-  "/docs/knowledge-base/cheat-sheets/aws-cli-commands-7e5": {
+  "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/aws-cli-commands-d9d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-cheat-sheets-aws-cli-commands-9-c-0-311"
   },
-  "/docs/knowledge-base/cheat-sheets/azure-cli-commands-d85": {
+  "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/azure-cli-commands-853": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-cheat-sheets-azure-cli-commands-153-2a3"
   },
-  "/docs/knowledge-base/cheat-sheets/docker-commands-c6b": {
+  "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/docker-commands-a16": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-cheat-sheets-docker-commandsedf-419"
   },
-  "/docs/knowledge-base/cheat-sheets/gcloud-cli-commands-27b": {
+  "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/gcloud-cli-commands-c17": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-cheat-sheets-gcloud-cli-commands-60-c-d44"
   },
-  "/docs/knowledge-base/cheat-sheets/git-commands-121": {
+  "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/git-commands-da6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-cheat-sheets-git-commandsf-82-45a"
   },
-  "/docs/knowledge-base/cheat-sheets/kubernetes-commands-a55": {
+  "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/kubernetes-commands-99e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-cheat-sheets-kubernetes-commands-38-d-1d1"
   },
-  "/docs/knowledge-base/cheat-sheets/linux-commands-0ba": {
+  "/my-devsecops-portfolio/docs/knowledge-base/cheat-sheets/linux-commands-b01": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-cheat-sheets-linux-commandsb-64-975"
   },
-  "/docs/knowledge-base/dataformats/json-398": {
+  "/my-devsecops-portfolio/docs/knowledge-base/dataformats/json-73d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-dataformats-jsond-9-d-ca2"
   },
-  "/docs/knowledge-base/dataformats/yaml-75c": {
+  "/my-devsecops-portfolio/docs/knowledge-base/dataformats/yaml-44b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-dataformats-yaml-80-d-0a6"
   },
-  "/docs/knowledge-base/devops-4db": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops-178": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devopsfac-c84"
   },
-  "/docs/knowledge-base/devops/ci-cd/aws-codepipeline-1b6": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/aws-codepipeline-185": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-aws-codepipeline-3-ee-c54"
   },
-  "/docs/knowledge-base/devops/ci-cd/azure-devops-83d": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/azure-devops-6dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-azure-devopsb-98-8c4"
   },
-  "/docs/knowledge-base/devops/ci-cd/bamboo-cicd-600": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/bamboo-cicd-bf1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-bamboo-cicd-9-d-9-f0b"
   },
-  "/docs/knowledge-base/devops/ci-cd/docker-b93": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/docker-c4d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-dockerdb-5-412"
   },
-  "/docs/knowledge-base/devops/ci-cd/gcp-cloud-build-116": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gcp-cloud-build-74f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-gcp-cloud-build-750-a74"
   },
-  "/docs/knowledge-base/devops/ci-cd/github-actions-8f0": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/github-actions-d7f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-github-actions-1-a-7-40d"
   },
-  "/docs/knowledge-base/devops/ci-cd/gitlab-3ef": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab-04e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-gitlabdb-0-e96"
   },
-  "/docs/knowledge-base/devops/ci-cd/gitlab-cicd-cfb": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab-cicd-217": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-gitlab-cicd-5-e-8-b3a"
   },
-  "/docs/knowledge-base/devops/ci-cd/gitops-a64": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitops-732": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-gitopsef-6-8fd"
   },
-  "/docs/knowledge-base/devops/ci-cd/jenkins-cicd-b4d": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/jenkins-cicd-de5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-ci-cd-jenkins-cicdb-4-b-352"
   },
-  "/docs/knowledge-base/devops/devsecops-9ea": {
+  "/my-devsecops-portfolio/docs/knowledge-base/devops/devsecops-788": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-devops-devsecops-2-d-5-47d"
   },
-  "/docs/knowledge-base/infrastructure/git-d48": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git-fc0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-gite-93-a06"
   },
-  "/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus-746": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus-cf9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-git-git-feature-lebenszyklus-103-2e7"
   },
-  "/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request-d33": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request-ca6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-git-git-flow-und-pull-request-4-f-0-776"
   },
-  "/docs/knowledge-base/infrastructure/linux/diskmanagement-718": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/diskmanagement-4e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-linux-diskmanagementd-1-d-78e"
   },
-  "/docs/knowledge-base/infrastructure/linux/heredocuments-444": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/heredocuments-eb1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-linux-heredocuments-86-c-82b"
   },
-  "/docs/knowledge-base/infrastructure/linux/jsonparserjq-b7b": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/jsonparserjq-b6e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-linux-jsonparserjq-50-d-706"
   },
-  "/docs/knowledge-base/infrastructure/linux/pipesredirection-a3e": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/pipesredirection-d26": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-linux-pipesredirectioned-5-d7a"
   },
-  "/docs/knowledge-base/infrastructure/linux/userpermissions-73c": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/userpermissions-3a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-linux-userpermissions-861-785"
   },
-  "/docs/knowledge-base/infrastructure/linux/vivim-4c8": {
+  "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/vivim-d1b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-infrastructure-linux-vivim-35-f-2a1"
   },
-  "/docs/knowledge-base/intro-af5": {
+  "/my-devsecops-portfolio/docs/knowledge-base/intro-305": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-intro-4-df-c5a"
   },
-  "/docs/knowledge-base/network/dhcp-protocol-f67": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/dhcp-protocol-410": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-dhcp-protocol-018-cdc"
   },
-  "/docs/knowledge-base/network/dns-domain-name-system-ed2": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/dns-domain-name-system-fe6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-dns-domain-name-system-51-a-b15"
   },
-  "/docs/knowledge-base/network/ipv4-addressing-a93": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/ipv4-addressing-9a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-ipv-4-addressing-9-db-541"
   },
-  "/docs/knowledge-base/network/iso-osi-model-ced": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/iso-osi-model-68b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-iso-osi-modela-0-e-018"
   },
-  "/docs/knowledge-base/network/ports-812": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/ports-bff": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-portsbe-1-915"
   },
-  "/docs/knowledge-base/network/ssh-secure-shell-204": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/ssh-secure-shell-a82": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-ssh-secure-shella-99-f8e"
   },
-  "/docs/knowledge-base/network/ssl-tls-encryption-054": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/ssl-tls-encryption-c99": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-ssl-tls-encryption-29-d-f62"
   },
-  "/docs/knowledge-base/network/tcp-three-way-handshake-722": {
+  "/my-devsecops-portfolio/docs/knowledge-base/network/tcp-three-way-handshake-6e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-network-tcp-three-way-handshake-9-e-3-dc8"
   },
-  "/docs/knowledge-base/programming/buildtools/gradle-276": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/gradle-f37": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-buildtools-gradled-57-741"
   },
-  "/docs/knowledge-base/programming/buildtools/maven-58b": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven-177": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-buildtools-maven-9-ed-a94"
   },
-  "/docs/knowledge-base/programming/buildtools/maven/maven_multi_module-fad": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven/maven_multi_module-770": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-buildtools-maven-maven-multi-module-736-ffc"
   },
-  "/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow-ac5": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow-7f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-buildtools-maven-maven-multi-module-git-flow-441-e73"
   },
-  "/docs/knowledge-base/programming/frameworks/django-738": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/django-e09": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-frameworks-django-922-913"
   },
-  "/docs/knowledge-base/programming/frameworks/flask-aba": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/flask-827": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-frameworks-flask-9-a-9-87f"
   },
-  "/docs/knowledge-base/programming/languages/bash-f22": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/languages/bash-7ac": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-languages-bashfbd-8c4"
   },
-  "/docs/knowledge-base/programming/languages/go-6d6": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/languages/go-c06": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-languages-goa-28-e9a"
   },
-  "/docs/knowledge-base/programming/languages/groovy-5de": {
+  "/my-devsecops-portfolio/docs/knowledge-base/programming/languages/groovy-b9a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-programming-languages-groovye-94-955"
   },
-  "/docs/knowledge-base/tools/netcat-139": {
+  "/my-devsecops-portfolio/docs/knowledge-base/tools/netcat-fce": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-tools-netcatc-62-004"
   },
-  "/docs/knowledge-base/tools/nmap-e27": {
+  "/my-devsecops-portfolio/docs/knowledge-base/tools/nmap-4b4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-tools-nmap-3-ee-4c1"
   },
-  "/docs/knowledge-base/tools/wireshark-8e8": {
+  "/my-devsecops-portfolio/docs/knowledge-base/tools/wireshark-f59": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-base-tools-wiresharkcf-9-59d"
   },
-  "/docs/projects/babytools-6fb": {
+  "/my-devsecops-portfolio/docs/projects/babytools-482": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-babytools-912-49f"
   },
-  "/docs/projects/challenges/easteregg/-357": {
+  "/my-devsecops-portfolio/docs/projects/challenges/easteregg/-a2e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-challenges-easteregg-893-c9b"
   },
-  "/docs/projects/challenges/nested-easteregg/nested-easeregg-df6": {
+  "/my-devsecops-portfolio/docs/projects/challenges/nested-easteregg/nested-easeregg-1ca": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-challenges-nested-easteregg-nested-easeregg-078-1f5"
   },
-  "/docs/projects/challenges/visual-geo-stalking/-272": {
+  "/my-devsecops-portfolio/docs/projects/challenges/visual-geo-stalking/-242": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-challenges-visual-geo-stalking-efe-939"
   },
-  "/docs/projects/challenges/zero-stars-alternative-solution/-2e0": {
+  "/my-devsecops-portfolio/docs/projects/challenges/zero-stars-alternative-solution/-918": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-challenges-zero-stars-alternative-solution-4-c-4-f71"
   },
-  "/docs/projects/conduit-ee2": {
+  "/my-devsecops-portfolio/docs/projects/conduit-f0b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-conduit-91-f-caa"
   },
-  "/docs/projects/conduit-cicd-e5f": {
+  "/my-devsecops-portfolio/docs/projects/conduit-cicd-229": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-conduit-cicd-11-e-069"
   },
-  "/docs/projects/juiceshop-cec": {
+  "/my-devsecops-portfolio/docs/projects/juiceshop-b63": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-juiceshopb-2-d-e9a"
   },
-  "/docs/projects/minecraft-026": {
+  "/my-devsecops-portfolio/docs/projects/minecraft-bb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-minecraft-48-f-16e"
   },
-  "/docs/projects/overview-54b": {
+  "/my-devsecops-portfolio/docs/projects/overview-8a4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-overviewe-9-e-028"
   },
-  "/docs/projects/trucksignsapi-855": {
+  "/my-devsecops-portfolio/docs/projects/trucksignsapi-e17": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-trucksignsapi-724-901"
   },
-  "/docs/projects/vserver-b8a": {
+  "/my-devsecops-portfolio/docs/projects/vserver-662": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-vserverb-5-c-d26"
   },
-  "/docs/projects/wordpress-6ec": {
+  "/my-devsecops-portfolio/docs/projects/wordpress-30d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-wordpressf-32-0e3"
   },
-  "/-e5f": {
+  "/my-devsecops-portfolio/-65e": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
       "plugin": "plugin---a-74-9d6"

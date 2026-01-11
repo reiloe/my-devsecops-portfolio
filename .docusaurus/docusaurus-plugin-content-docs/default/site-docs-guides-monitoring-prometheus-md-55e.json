@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/monitoring/prometheus.md",
   "sourceDirName": "guides/monitoring",
   "slug": "/guides/monitoring/prometheus",
-  "permalink": "/docs/guides/monitoring/prometheus",
+  "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/prometheus",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "👁️ Nagios",
-    "permalink": "/docs/guides/monitoring/nagios"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/nagios"
   },
   "next": {
     "title": "🛡️ Wazuh",
-    "permalink": "/docs/guides/monitoring/wazuh"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/wazuh"
   }
 }

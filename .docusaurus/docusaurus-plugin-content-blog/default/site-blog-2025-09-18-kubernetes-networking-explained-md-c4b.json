@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/kubernetes-networking-explained",
+  "permalink": "/my-devsecops-portfolio/blog/kubernetes-networking-explained",
   "source": "@site/blog/2025-09-18-kubernetes-networking-explained.md",
   "title": "Kubernetes Networking Demystified: A Practical Guide",
   "description": "Kubernetes networking can seem complex at first, but understanding the fundamentals is crucial for building reliable applications. Let's break down how networking works in Kubernetes with practical examples.",
@@ -8,22 +8,22 @@
     {
       "inline": true,
       "label": "kubernetes",
-      "permalink": "/blog/tags/kubernetes"
+      "permalink": "/my-devsecops-portfolio/blog/tags/kubernetes"
     },
     {
       "inline": true,
       "label": "networking",
-      "permalink": "/blog/tags/networking"
+      "permalink": "/my-devsecops-portfolio/blog/tags/networking"
     },
     {
       "inline": true,
       "label": "infrastructure",
-      "permalink": "/blog/tags/infrastructure"
+      "permalink": "/my-devsecops-portfolio/blog/tags/infrastructure"
     },
     {
       "inline": true,
       "label": "containers",
-      "permalink": "/blog/tags/containers"
+      "permalink": "/my-devsecops-portfolio/blog/tags/containers"
     }
   ],
   "readingTime": 5.53,
@@ -54,6 +54,6 @@
   "unlisted": false,
   "prevItem": {
     "title": "Kubernetes Troubleshooting Guide",
-    "permalink": "/blog/kubernetes-troubleshooting-guide"
+    "permalink": "/my-devsecops-portfolio/blog/kubernetes-troubleshooting-guide"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/monitoring/wazuh.md",
   "sourceDirName": "guides/monitoring",
   "slug": "/guides/monitoring/wazuh",
-  "permalink": "/docs/guides/monitoring/wazuh",
+  "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/wazuh",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📊 Prometheus",
-    "permalink": "/docs/guides/monitoring/prometheus"
+    "permalink": "/my-devsecops-portfolio/docs/guides/monitoring/prometheus"
   },
   "next": {
     "title": "🔐 Pentesting Lab — Basic Setup for Ubuntu Host",
-    "permalink": "/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu"
+    "permalink": "/my-devsecops-portfolio/docs/guides/pentesting-lab/pentesting-lab-setup-ubuntu"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/network/iso-osi-model.md",
   "sourceDirName": "knowledge-base/network",
   "slug": "/knowledge-base/network/iso-osi-model",
-  "permalink": "/docs/knowledge-base/network/iso-osi-model",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/iso-osi-model",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🌐 IPv4",
-    "permalink": "/docs/knowledge-base/network/ipv4-addressing"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/ipv4-addressing"
   },
   "next": {
     "title": "🌐 Ports",
-    "permalink": "/docs/knowledge-base/network/ports"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/ports"
   }
 }

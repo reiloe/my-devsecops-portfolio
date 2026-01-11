@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/network/tcp-three-way-handshake.md",
   "sourceDirName": "knowledge-base/network",
   "slug": "/knowledge-base/network/tcp-three-way-handshake",
-  "permalink": "/docs/knowledge-base/network/tcp-three-way-handshake",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/tcp-three-way-handshake",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🌐 SSL/TLS",
-    "permalink": "/docs/knowledge-base/network/ssl-tls-encryption"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/ssl-tls-encryption"
   },
   "next": {
     "title": "☕ Gradle",
-    "permalink": "/docs/knowledge-base/programming/buildtools/gradle"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/gradle"
   }
 }

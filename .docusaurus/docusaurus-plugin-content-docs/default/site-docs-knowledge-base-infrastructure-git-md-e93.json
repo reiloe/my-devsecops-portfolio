@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/infrastructure/git.md",
   "sourceDirName": "knowledge-base/infrastructure",
   "slug": "/knowledge-base/infrastructure/git",
-  "permalink": "/docs/knowledge-base/infrastructure/git",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🌿 Git-Flow & Pull Requests",
-    "permalink": "/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request"
   },
   "next": {
     "title": "🐧 Disk Management in Linux",
-    "permalink": "/docs/knowledge-base/infrastructure/linux/diskmanagement"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/infrastructure/linux/diskmanagement"
   }
 }

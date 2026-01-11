@@ -5,7 +5,7 @@
   "source": "@site/docs/projects/challenges/nested-easteregg/nested-easeregg.md",
   "sourceDirName": "projects/challenges/nested-easteregg",
   "slug": "/projects/challenges/nested-easteregg/nested-easeregg",
-  "permalink": "/docs/projects/challenges/nested-easteregg/nested-easeregg",
+  "permalink": "/my-devsecops-portfolio/docs/projects/challenges/nested-easteregg/nested-easeregg",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🥚 Easter Egg",
-    "permalink": "/docs/projects/challenges/easteregg/"
+    "permalink": "/my-devsecops-portfolio/docs/projects/challenges/easteregg/"
   }
 }

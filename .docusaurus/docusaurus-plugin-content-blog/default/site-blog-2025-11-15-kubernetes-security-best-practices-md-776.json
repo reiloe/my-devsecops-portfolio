@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/kubernetes-security-best-practices",
+  "permalink": "/my-devsecops-portfolio/blog/kubernetes-security-best-practices",
   "source": "@site/blog/2025-11-15-kubernetes-security-best-practices.md",
   "title": "Kubernetes Security Guide",
   "description": "Securing a Kubernetes cluster is critical for protecting your workloads and data. In this guide, we'll explore essential security best practices that every DevSecOps engineer should implement.",
@@ -8,22 +8,22 @@
     {
       "inline": true,
       "label": "kubernetes",
-      "permalink": "/blog/tags/kubernetes"
+      "permalink": "/my-devsecops-portfolio/blog/tags/kubernetes"
     },
     {
       "inline": true,
       "label": "security",
-      "permalink": "/blog/tags/security"
+      "permalink": "/my-devsecops-portfolio/blog/tags/security"
     },
     {
       "inline": true,
       "label": "devsecops",
-      "permalink": "/blog/tags/devsecops"
+      "permalink": "/my-devsecops-portfolio/blog/tags/devsecops"
     },
     {
       "inline": true,
       "label": "container-security",
-      "permalink": "/blog/tags/container-security"
+      "permalink": "/my-devsecops-portfolio/blog/tags/container-security"
     }
   ],
   "readingTime": 2.92,
@@ -54,10 +54,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Welcome to DevSecOps Unlocked",
-    "permalink": "/blog/welcome-to-devsecops-unlocked"
+    "permalink": "/my-devsecops-portfolio/blog/welcome-to-devsecops-unlocked"
   },
   "nextItem": {
     "title": "Kubernetes Troubleshooting Guide",
-    "permalink": "/blog/kubernetes-troubleshooting-guide"
+    "permalink": "/my-devsecops-portfolio/blog/kubernetes-troubleshooting-guide"
   }
 }

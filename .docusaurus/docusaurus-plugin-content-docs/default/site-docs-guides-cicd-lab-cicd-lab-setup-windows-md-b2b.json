@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/cicd-lab/cicd-lab-setup-windows.md",
   "sourceDirName": "guides/cicd-lab",
   "slug": "/guides/cicd-lab/cicd-lab-setup-windows",
-  "permalink": "/docs/guides/cicd-lab/cicd-lab-setup-windows",
+  "permalink": "/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-windows",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🔁 Local CI/CD Lab Environment on Ubuntu Host",
-    "permalink": "/docs/guides/cicd-lab/cicd-lab-setup-ubuntu"
+    "permalink": "/my-devsecops-portfolio/docs/guides/cicd-lab/cicd-lab-setup-ubuntu"
   },
   "next": {
     "title": "Linux",
-    "permalink": "/docs/guides/juiceshop-lab/linux/"
+    "permalink": "/my-devsecops-portfolio/docs/guides/juiceshop-lab/linux/"
   }
 }

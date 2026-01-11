@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/devops/ci-cd/gcp-cloud-build.md",
   "sourceDirName": "knowledge-base/devops/ci-cd",
   "slug": "/knowledge-base/devops/ci-cd/gcp-cloud-build",
-  "permalink": "/docs/knowledge-base/devops/ci-cd/gcp-cloud-build",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gcp-cloud-build",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🐳 Docker",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/docker"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/docker"
   },
   "next": {
     "title": "🐙 GitHub Actions",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/github-actions"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/github-actions"
   }
 }

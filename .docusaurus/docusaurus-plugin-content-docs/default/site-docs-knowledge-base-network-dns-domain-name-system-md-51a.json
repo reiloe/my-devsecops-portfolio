@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/network/dns-domain-name-system.md",
   "sourceDirName": "knowledge-base/network",
   "slug": "/knowledge-base/network/dns-domain-name-system",
-  "permalink": "/docs/knowledge-base/network/dns-domain-name-system",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/dns-domain-name-system",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🌐 DHCP",
-    "permalink": "/docs/knowledge-base/network/dhcp-protocol"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/dhcp-protocol"
   },
   "next": {
     "title": "🌐 IPv4",
-    "permalink": "/docs/knowledge-base/network/ipv4-addressing"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/network/ipv4-addressing"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/devops/ci-cd/github-actions.md",
   "sourceDirName": "knowledge-base/devops/ci-cd",
   "slug": "/knowledge-base/devops/ci-cd/github-actions",
-  "permalink": "/docs/knowledge-base/devops/ci-cd/github-actions",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/github-actions",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "☁️ Google Cloud Build & Deploy",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/gcp-cloud-build"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gcp-cloud-build"
   },
   "next": {
     "title": "🦊 GitLab CI/CD",
-    "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab-cicd"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/devops/ci-cd/gitlab-cicd"
   }
 }

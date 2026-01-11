@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/welcome-to-devsecops-unlocked",
+  "permalink": "/my-devsecops-portfolio/blog/welcome-to-devsecops-unlocked",
   "source": "@site/blog/2025-12-06-welcome-to-devsecops-unlocked.md",
   "title": "Welcome to DevSecOps Unlocked",
   "description": "Welcome to DevSecOps Unlocked – your comprehensive resource for bridging the gap between Development, Security, and Operations! 🚀🔒",
@@ -8,27 +8,27 @@
     {
       "inline": true,
       "label": "welcome",
-      "permalink": "/blog/tags/welcome"
+      "permalink": "/my-devsecops-portfolio/blog/tags/welcome"
     },
     {
       "inline": true,
       "label": "devsecops",
-      "permalink": "/blog/tags/devsecops"
+      "permalink": "/my-devsecops-portfolio/blog/tags/devsecops"
     },
     {
       "inline": true,
       "label": "security",
-      "permalink": "/blog/tags/security"
+      "permalink": "/my-devsecops-portfolio/blog/tags/security"
     },
     {
       "inline": true,
       "label": "devops",
-      "permalink": "/blog/tags/devops"
+      "permalink": "/my-devsecops-portfolio/blog/tags/devops"
     },
     {
       "inline": true,
       "label": "cloud",
-      "permalink": "/blog/tags/cloud"
+      "permalink": "/my-devsecops-portfolio/blog/tags/cloud"
     }
   ],
   "readingTime": 1.62,
@@ -60,10 +60,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Docker Container Security",
-    "permalink": "/blog/docker-container-security"
+    "permalink": "/my-devsecops-portfolio/blog/docker-container-security"
   },
   "nextItem": {
     "title": "Kubernetes Security Guide",
-    "permalink": "/blog/kubernetes-security-best-practices"
+    "permalink": "/my-devsecops-portfolio/blog/kubernetes-security-best-practices"
   }
 }

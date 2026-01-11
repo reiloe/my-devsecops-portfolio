@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/programming/languages/bash.md",
   "sourceDirName": "knowledge-base/programming/languages",
   "slug": "/knowledge-base/programming/languages/bash",
-  "permalink": "/docs/knowledge-base/programming/languages/bash",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/languages/bash",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🐍 Flask",
-    "permalink": "/docs/knowledge-base/programming/frameworks/flask"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/flask"
   },
   "next": {
     "title": "🐹 Go (GoLang)",
-    "permalink": "/docs/knowledge-base/programming/languages/go"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/languages/go"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/knowledge-base/programming/frameworks/django.md",
   "sourceDirName": "knowledge-base/programming/frameworks",
   "slug": "/knowledge-base/programming/frameworks/django",
-  "permalink": "/docs/knowledge-base/programming/frameworks/django",
+  "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/django",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "☕ Maven",
-    "permalink": "/docs/knowledge-base/programming/buildtools/maven"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/buildtools/maven"
   },
   "next": {
     "title": "🐍 Flask",
-    "permalink": "/docs/knowledge-base/programming/frameworks/flask"
+    "permalink": "/my-devsecops-portfolio/docs/knowledge-base/programming/frameworks/flask"
   }
 }
