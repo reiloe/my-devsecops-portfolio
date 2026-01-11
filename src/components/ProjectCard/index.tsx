@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './styles.module.css';
 import { Project } from '../Projects/data';
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import useBaseUrl, { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
 
 type Props = {
     project: Project;
@@ -11,6 +11,8 @@ type Props = {
 };
 
 export default function ProjectCard({ project, onClose, onOpenDoc, onOpenGitHub }: Props) {
+    const { withBaseUrl } = useBaseUrlUtils();
+
     return (
         <div className={styles.card}>
             <div className={styles.card_container}>
@@ -23,7 +25,7 @@ export default function ProjectCard({ project, onClose, onOpenDoc, onOpenGitHub 
                 {/* Rechte Seite: Icons, Text, Buttons */}
                 <div className={styles.card_right}>
                     <div className={styles.icons}>
-                        {project.icons?.map((i, idx) => <img key={idx} src={i} alt="icon" className={styles.icon} />)}
+                        {project.icons?.map((i, idx) => <img key={idx} src={withBaseUrl(i)} alt="icon" className={styles.icon} />)}
                     </div>
                     <div className={styles.description}>
                         <p dangerouslySetInnerHTML={{ __html: project.long || '' }} />
