@@ -27,7 +27,7 @@ We host the content of our website at the following provider:
 **GitHub Pages**
 The provider is GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA (hereinafter: GitHub).
 When you visit our website, GitHub collects various log files including your IP addresses.
-For details, please refer to GitHub's privacy policy: <https://docs.github.com/en/github/site-policy/github-privacy-statement>.
+For details, please refer to GitHub's privacy policy: [https://docs.github.com/en/github/site-policy/github-privacy-statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
 ## 3. General notes and mandatory information
 
