@@ -45,7 +45,7 @@ export default function Hero() {
             <button className={styles.cta} onClick={openContact}>Contact me</button>
           </div>
           <div className={styles.right}>
-            <img src={data.avatarUrl} alt={data.name} className={styles.avatar} />
+            <img src={useBaseUrl(data.avatarUrl)} alt={data.name} className={styles.avatar} />
           </div>
         </div>
       )}
