@@ -4,11 +4,14 @@ import styles from './styles.module.css';
 import useIsMobile from '../../useIsMobile';
 import ProjectCard from '../ProjectCard';
 import MobileProjectCard from '../MobileProjectCard';
+import { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
 
 export default function Projects() {
+    const { withBaseUrl } = useBaseUrlUtils();
+
     const openDoc = (docId?: string) => {
         if (!docId) return;
-        window.location.href = `/docs/${docId}`;
+        window.location.href = withBaseUrl(`/docs/${docId}`);
     };
 
     const openGitHub = (url?: string) => {
