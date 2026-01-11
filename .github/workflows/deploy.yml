@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main # Oder der Branch, von dem aus du deployen möchtest
+      - portfolio
   # Ermöglicht das manuelle Ausführen dieses Workflows von der Actions-Registerkarte aus
   workflow_dispatch:
 
