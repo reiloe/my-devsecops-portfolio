@@ -23,6 +23,15 @@ const config: Config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
+  customFields: {
+    legalName: process.env.LEGAL_NAME,
+    legalStreet: process.env.LEGAL_STREET,
+    legalCity: process.env.LEGAL_CITY,
+    legalCountry: process.env.LEGAL_COUNTRY,
+    legalEmail: process.env.LEGAL_EMAIL,
+    legalPhone: process.env.LEGAL_PHONE,
+  },
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -79,7 +88,7 @@ const config: Config = {
         },
         ...(blogEnabled ? [{ to: '/blog', label: 'Blog', position: 'left' as const }] : []),
         {
-          href: 'https://github.com/reiloe/dev-blog-template',
+          href: 'https://github.com/reiloe/my-devsecops-portfolio',
           label: 'Github',
           position: 'right' as const,
         },

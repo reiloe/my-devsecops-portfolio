@@ -3,19 +3,21 @@ title: Legal Information
 hide_table_of_contents: true
 ---
 
+import ConfigValue from '@site/src/components/ConfigValue';
+
 # Legal Information
 
 ## Information according to § 5 TMG
 
-Reik Loeber
-[Street Address]
-[Zip Code City]
-Germany
+<ConfigValue field="legalName" />
+<ConfigValue field="legalStreet" />
+<ConfigValue field="legalCity" />
+<ConfigValue field="legalCountry" />
 
 ## Contact
 
-E-Mail: [Email Address]
-<!-- Phone: [Phone Number] -->
+E-Mail: <ConfigValue field="legalEmail" />
+<!-- Phone: <ConfigValue field="legalPhone" /> -->
 
 ## Disclaimer
 

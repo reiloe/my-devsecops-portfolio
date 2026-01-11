@@ -35,6 +35,9 @@ jobs:
 
       - name: Build website
         run: pnpm run build
+        env:
+          # Überschreibt die BASE_URL aus der .env Datei für das Deployment
+          BASE_URL: /my-devsecops-portfolio/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

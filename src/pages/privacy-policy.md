@@ -3,6 +3,8 @@ title: Privacy Policy
 hide_table_of_contents: true
 ---
 
+import ConfigValue from '@site/src/components/ConfigValue';
+
 # Privacy Policy
 
 ## 1. An overview of data protection
@@ -39,10 +41,10 @@ The operators of these pages take the protection of your personal data very seri
 
 The responsible body for data processing on this website is:
 
-Reik Loeber
-[Address]
-[City, Zip Code]
+<ConfigValue field="legalName" />
+<ConfigValue field="legalStreet" />
+<ConfigValue field="legalCity" />
 
-E-Mail: [Email Address]
+E-Mail: <ConfigValue field="legalEmail" />
 
 The responsible body is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g. names, e-mail addresses, etc.).
