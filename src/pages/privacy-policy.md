@@ -44,6 +44,7 @@ The responsible body for data processing on this website is:
 <ConfigValue field="legalName" />
 <ConfigValue field="legalStreet" />
 <ConfigValue field="legalCity" />
+<ConfigValue field="legalCountry" />
 
 E-Mail: <ConfigValue field="legalEmail" />
 
