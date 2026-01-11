@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/ci-cd/gitops",
+  "title": "🔄 GitOps",
+  "description": "GitOps is an approach to manage cloud infrastructure and applications in a declarative, version-controlled, and automated way.",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/gitops.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/gitops",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/gitops",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🔄 GitOps"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦊 GitLab",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab"
+  },
+  "next": {
+    "title": "🔧 Jenkins CI/CD",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/jenkins-cicd"
+  }
+}

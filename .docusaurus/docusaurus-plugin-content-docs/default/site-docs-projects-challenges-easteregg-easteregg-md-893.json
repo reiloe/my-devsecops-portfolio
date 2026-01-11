@@ -1,0 +1,27 @@
+{
+  "id": "projects/challenges/easteregg/easteregg",
+  "title": "🥚 Easter Egg",
+  "description": "Find the hidden easter egg.",
+  "source": "@site/docs/projects/challenges/easteregg/easteregg.md",
+  "sourceDirName": "projects/challenges/easteregg",
+  "slug": "/projects/challenges/easteregg/",
+  "permalink": "/docs/projects/challenges/easteregg/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🥚 Easter Egg",
+    "pagination_prev": "projects/challenges/visual-geo-stalking/visual-geo-stalking",
+    "pagination_next": "projects/challenges/nested-easteregg/nested-easeregg"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔭 Visual Geo Stalking",
+    "permalink": "/docs/projects/challenges/visual-geo-stalking/"
+  },
+  "next": {
+    "title": "🪆 Nested Easter Egg",
+    "permalink": "/docs/projects/challenges/nested-easteregg/nested-easeregg"
+  }
+}

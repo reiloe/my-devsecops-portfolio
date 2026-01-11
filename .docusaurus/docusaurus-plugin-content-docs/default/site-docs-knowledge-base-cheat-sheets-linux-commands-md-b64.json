@@ -1,0 +1,67 @@
+{
+  "id": "knowledge-base/cheat-sheets/linux-commands",
+  "title": "🐧 Linux Shell Commands",
+  "description": "Comprehensive reference for the most commonly used Linux commands for system administration across different distributions.",
+  "source": "@site/docs/knowledge-base/cheat-sheets/linux-commands.md",
+  "sourceDirName": "knowledge-base/cheat-sheets",
+  "slug": "/knowledge-base/cheat-sheets/linux-commands",
+  "permalink": "/docs/knowledge-base/cheat-sheets/linux-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "inline": true,
+      "label": "shell",
+      "permalink": "/docs/tags/shell"
+    },
+    {
+      "inline": true,
+      "label": "bash",
+      "permalink": "/docs/tags/bash"
+    },
+    {
+      "inline": true,
+      "label": "unix",
+      "permalink": "/docs/tags/unix"
+    },
+    {
+      "inline": true,
+      "label": "system-administration",
+      "permalink": "/docs/tags/system-administration"
+    },
+    {
+      "inline": true,
+      "label": "cheat-sheet",
+      "permalink": "/docs/tags/cheat-sheet"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "🐧 Linux Shell Commands",
+    "sidebar_label": "Linux Shell",
+    "sidebar_position": 5,
+    "tags": [
+      "linux",
+      "shell",
+      "bash",
+      "unix",
+      "system-administration",
+      "cheat-sheet"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git",
+    "permalink": "/docs/knowledge-base/cheat-sheets/git-commands"
+  },
+  "next": {
+    "title": "Azure CLI",
+    "permalink": "/docs/knowledge-base/cheat-sheets/azure-cli-commands"
+  }
+}

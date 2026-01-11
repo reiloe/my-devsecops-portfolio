@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/network/ssh-secure-shell",
+  "title": "🐚 SSH",
+  "description": "SSH (Secure Shell) is a protocol that allows you to securely access a remote computer. It encrypts the connection so that no one can intercept your data or passwords.",
+  "source": "@site/docs/knowledge-base/network/ssh-secure-shell.md",
+  "sourceDirName": "knowledge-base/network",
+  "slug": "/knowledge-base/network/ssh-secure-shell",
+  "permalink": "/docs/knowledge-base/network/ssh-secure-shell",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐚 SSH"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 Ports",
+    "permalink": "/docs/knowledge-base/network/ports"
+  },
+  "next": {
+    "title": "🌐 SSL/TLS",
+    "permalink": "/docs/knowledge-base/network/ssl-tls-encryption"
+  }
+}

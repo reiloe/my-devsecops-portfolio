@@ -1,0 +1,25 @@
+{
+  "id": "guides/juiceshop-lab/windows/README",
+  "title": "Windows",
+  "description": "This guide describes a secure local setup for OWASP Juice Shop when using",
+  "source": "@site/docs/guides/juiceshop-lab/windows/README.md",
+  "sourceDirName": "guides/juiceshop-lab/windows",
+  "slug": "/guides/juiceshop-lab/windows/",
+  "permalink": "/docs/guides/juiceshop-lab/windows/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Windows"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mac",
+    "permalink": "/docs/guides/juiceshop-lab/mac/"
+  },
+  "next": {
+    "title": "📉 ELK Stack",
+    "permalink": "/docs/guides/monitoring/elk-stack"
+  }
+}

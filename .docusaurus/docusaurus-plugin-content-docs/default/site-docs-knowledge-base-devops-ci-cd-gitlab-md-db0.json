@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/ci-cd/gitlab",
+  "title": "🦊 GitLab",
+  "description": "GitLab is a web-based DevOps platform that integrates version control, CI/CD, issue tracking, code review, and container registry.",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/gitlab.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/gitlab",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🦊 GitLab"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦊 GitLab CI/CD",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab-cicd"
+  },
+  "next": {
+    "title": "🔄 GitOps",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/gitops"
+  }
+}

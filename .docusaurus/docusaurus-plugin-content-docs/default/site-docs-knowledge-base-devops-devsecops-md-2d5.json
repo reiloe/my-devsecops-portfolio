@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/devsecops",
+  "title": "🔒 DevSecOps",
+  "description": "DevSecOps is the evolution of DevOps, where security is integrated into all phases of the software lifecycle.",
+  "source": "@site/docs/knowledge-base/devops/devsecops.md",
+  "sourceDirName": "knowledge-base/devops",
+  "slug": "/knowledge-base/devops/devsecops",
+  "permalink": "/docs/knowledge-base/devops/devsecops",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🔒 DevSecOps"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔧 Jenkins CI/CD",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/jenkins-cicd"
+  },
+  "next": {
+    "title": "⚙️ DevOps Engineer",
+    "permalink": "/docs/knowledge-base/devops"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/network/ssl-tls-encryption",
+  "title": "🌐 SSL/TLS",
+  "description": "SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are protocols that enable secure connections on the internet. TLS is the more modern successor to SSL and is almost always used today.",
+  "source": "@site/docs/knowledge-base/network/ssl-tls-encryption.md",
+  "sourceDirName": "knowledge-base/network",
+  "slug": "/knowledge-base/network/ssl-tls-encryption",
+  "permalink": "/docs/knowledge-base/network/ssl-tls-encryption",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌐 SSL/TLS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐚 SSH",
+    "permalink": "/docs/knowledge-base/network/ssh-secure-shell"
+  },
+  "next": {
+    "title": "🌐 TCP 3-Way Handshake",
+    "permalink": "/docs/knowledge-base/network/tcp-three-way-handshake"
+  }
+}

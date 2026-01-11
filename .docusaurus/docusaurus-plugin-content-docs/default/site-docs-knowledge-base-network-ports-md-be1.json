@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/network/ports",
+  "title": "🌐 Ports",
+  "description": "Table of Contents",
+  "source": "@site/docs/knowledge-base/network/ports.md",
+  "sourceDirName": "knowledge-base/network",
+  "slug": "/knowledge-base/network/ports",
+  "permalink": "/docs/knowledge-base/network/ports",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌐 Ports"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 ISO/OSI Model",
+    "permalink": "/docs/knowledge-base/network/iso-osi-model"
+  },
+  "next": {
+    "title": "🐚 SSH",
+    "permalink": "/docs/knowledge-base/network/ssh-secure-shell"
+  }
+}

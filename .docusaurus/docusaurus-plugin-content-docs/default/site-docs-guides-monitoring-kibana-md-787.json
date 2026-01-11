@@ -1,0 +1,25 @@
+{
+  "id": "guides/monitoring/kibana",
+  "title": "📉 Kibana",
+  "description": "Table of Contents",
+  "source": "@site/docs/guides/monitoring/kibana.md",
+  "sourceDirName": "guides/monitoring",
+  "slug": "/guides/monitoring/kibana",
+  "permalink": "/docs/guides/monitoring/kibana",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "📉 Kibana"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 Grafana",
+    "permalink": "/docs/guides/monitoring/grafana"
+  },
+  "next": {
+    "title": "📋 Logstash",
+    "permalink": "/docs/guides/monitoring/logstash"
+  }
+}

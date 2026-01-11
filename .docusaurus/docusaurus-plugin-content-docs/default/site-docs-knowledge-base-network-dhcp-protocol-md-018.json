@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/network/dhcp-protocol",
+  "title": "🌐 DHCP",
+  "description": "DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically assigns clients IP addresses and other network information.",
+  "source": "@site/docs/knowledge-base/network/dhcp-protocol.md",
+  "sourceDirName": "knowledge-base/network",
+  "slug": "/knowledge-base/network/dhcp-protocol",
+  "permalink": "/docs/knowledge-base/network/dhcp-protocol",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌐 DHCP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐧 Vi / Vim",
+    "permalink": "/docs/knowledge-base/infrastructure/linux/vivim"
+  },
+  "next": {
+    "title": "🌐 DNS",
+    "permalink": "/docs/knowledge-base/network/dns-domain-name-system"
+  }
+}

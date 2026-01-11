@@ -1,0 +1,55 @@
+{
+  "id": "knowledge-base/cheat-sheets/docker-commands",
+  "title": "🐳 Docker Commands",
+  "description": "Docker Basics",
+  "source": "@site/docs/knowledge-base/cheat-sheets/docker-commands.md",
+  "sourceDirName": "knowledge-base/cheat-sheets",
+  "slug": "/knowledge-base/cheat-sheets/docker-commands",
+  "permalink": "/docs/knowledge-base/cheat-sheets/docker-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    },
+    {
+      "inline": true,
+      "label": "containers",
+      "permalink": "/docs/tags/containers"
+    },
+    {
+      "inline": true,
+      "label": "containerization",
+      "permalink": "/docs/tags/containerization"
+    },
+    {
+      "inline": true,
+      "label": "cheat-sheet",
+      "permalink": "/docs/tags/cheat-sheet"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "🐳 Docker Commands",
+    "sidebar_label": "Docker",
+    "sidebar_position": 2,
+    "tags": [
+      "docker",
+      "containers",
+      "containerization",
+      "cheat-sheet"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS CLI",
+    "permalink": "/docs/knowledge-base/cheat-sheets/aws-cli-commands"
+  },
+  "next": {
+    "title": "Kubernetes",
+    "permalink": "/docs/knowledge-base/cheat-sheets/kubernetes-commands"
+  }
+}

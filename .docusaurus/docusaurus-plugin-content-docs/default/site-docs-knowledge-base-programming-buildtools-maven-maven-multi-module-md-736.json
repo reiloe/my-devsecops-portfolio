@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/programming/buildtools/maven/maven_multi_module",
+  "title": "☕ Multi-Module Maven Project with Parent-POM",
+  "description": "Table of Contents",
+  "source": "@site/docs/knowledge-base/programming/buildtools/maven/maven_multi_module.md",
+  "sourceDirName": "knowledge-base/programming/buildtools/maven",
+  "slug": "/knowledge-base/programming/buildtools/maven/maven_multi_module",
+  "permalink": "/docs/knowledge-base/programming/buildtools/maven/maven_multi_module",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "☕ Multi-Module Maven Project with Parent-POM"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "☕ Gradle",
+    "permalink": "/docs/knowledge-base/programming/buildtools/gradle"
+  },
+  "next": {
+    "title": "☕ Maven Multi-Module + Git-Flow Workflow Overview",
+    "permalink": "/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow"
+  }
+}

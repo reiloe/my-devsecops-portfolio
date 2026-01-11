@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/tools/wireshark",
+  "title": "🦈 Wireshark",
+  "description": "Topic: Network Analysis, Troubleshooting & Security",
+  "source": "@site/docs/knowledge-base/tools/wireshark.md",
+  "sourceDirName": "knowledge-base/tools",
+  "slug": "/knowledge-base/tools/wireshark",
+  "permalink": "/docs/knowledge-base/tools/wireshark",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🦈 Wireshark"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔎 Nmap",
+    "permalink": "/docs/knowledge-base/tools/nmap"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/docs/guides"
+  }
+}

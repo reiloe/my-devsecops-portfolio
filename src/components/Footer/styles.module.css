@@ -1,0 +1,139 @@
+.wrapper {
+    width: 100%;
+    max-width: 1440px;
+    background: #0A383F;
+    color: #e6eef8;
+    box-sizing: border-box;
+}
+
+.top {
+    max-width: 1440px;
+    padding: 60px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    align-items: start;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.heading {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.contactItem {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #e6eef8;
+}
+
+.link,
+.socialLink {
+    color: #90cdf4;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1.1rem;
+}
+
+.socialList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0;
+}
+
+.backToTop {
+    background: #1f2937;
+    color: #ffffff;
+    border: none;
+    padding: 0.6rem 1rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font-weight: 700;
+    box-shadow: 0 6px 18px rgba(15, 23, 42, 0.35);
+}
+
+.bottom {
+    padding: 20px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.04);
+    text-align: center;
+}
+
+.mybtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 45px;
+    background: #0a383f;
+    border-radius: 25px;
+    border-color: #FFFFFF;
+    rotate: -90deg;
+}
+
+.mybtn:hover {
+    background: #91C9F31A;
+    color: white;
+}
+
+.copy,
+.legal {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #9fb0c7;
+}
+
+@media (min-width:768px) {
+    .top {
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem
+    }
+
+    .social {
+        text-align: right
+    }
+
+    .socialList {
+        justify-content: flex-end
+    }
+}
+
+@media (max-width:767px) {
+    .wrapper {
+        padding-top: 1.5rem;
+        padding-bottom: 1rem
+    }
+
+    .backToTop {
+        width: 85%;
+        max-width: 360px
+    }
+
+    .socialList {
+        gap: 18px
+    }
+}

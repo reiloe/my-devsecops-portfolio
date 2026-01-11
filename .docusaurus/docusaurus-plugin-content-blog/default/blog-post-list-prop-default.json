@@ -1,0 +1,35 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Docker Container Security",
+      "permalink": "/blog/docker-container-security",
+      "unlisted": false,
+      "date": "2025-12-06T00:00:00.000Z"
+    },
+    {
+      "title": "Welcome to DevSecOps Unlocked",
+      "permalink": "/blog/welcome-to-devsecops-unlocked",
+      "unlisted": false,
+      "date": "2025-12-06T00:00:00.000Z"
+    },
+    {
+      "title": "Kubernetes Security Guide",
+      "permalink": "/blog/kubernetes-security-best-practices",
+      "unlisted": false,
+      "date": "2025-11-15T00:00:00.000Z"
+    },
+    {
+      "title": "Kubernetes Troubleshooting Guide",
+      "permalink": "/blog/kubernetes-troubleshooting-guide",
+      "unlisted": false,
+      "date": "2025-10-22T00:00:00.000Z"
+    },
+    {
+      "title": "Kubernetes Networking Demystified: A Practical Guide",
+      "permalink": "/blog/kubernetes-networking-explained",
+      "unlisted": false,
+      "date": "2025-09-18T00:00:00.000Z"
+    }
+  ]
+}

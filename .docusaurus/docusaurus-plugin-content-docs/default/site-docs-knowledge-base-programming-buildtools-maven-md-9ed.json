@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/programming/buildtools/maven",
+  "title": "☕ Maven",
+  "description": "Apache Maven is a build and project management tool for Java projects.",
+  "source": "@site/docs/knowledge-base/programming/buildtools/maven.md",
+  "sourceDirName": "knowledge-base/programming/buildtools",
+  "slug": "/knowledge-base/programming/buildtools/maven",
+  "permalink": "/docs/knowledge-base/programming/buildtools/maven",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "☕ Maven"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "☕ Maven Multi-Module + Git-Flow Workflow Overview",
+    "permalink": "/docs/knowledge-base/programming/buildtools/maven/maven_multi_module_git_flow"
+  },
+  "next": {
+    "title": "🐍 Django",
+    "permalink": "/docs/knowledge-base/programming/frameworks/django"
+  }
+}

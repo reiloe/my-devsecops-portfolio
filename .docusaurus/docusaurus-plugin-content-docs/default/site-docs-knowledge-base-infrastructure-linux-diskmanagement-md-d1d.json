@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/infrastructure/linux/diskmanagement",
+  "title": "🐧 Disk Management in Linux",
+  "description": "---",
+  "source": "@site/docs/knowledge-base/infrastructure/linux/diskmanagement.md",
+  "sourceDirName": "knowledge-base/infrastructure/linux",
+  "slug": "/knowledge-base/infrastructure/linux/diskmanagement",
+  "permalink": "/docs/knowledge-base/infrastructure/linux/diskmanagement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐧 Disk Management in Linux"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌿 Git – Fundamentals",
+    "permalink": "/docs/knowledge-base/infrastructure/git"
+  },
+  "next": {
+    "title": "🐧 Here-Documents in Linux: EOF and Variants",
+    "permalink": "/docs/knowledge-base/infrastructure/linux/heredocuments"
+  }
+}

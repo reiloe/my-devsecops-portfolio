@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/programming/frameworks/flask",
+  "title": "🐍 Flask",
+  "description": "Flask basics, templates, forms, sessions, configuration, dev/prod setup, databases, security, and modularization.",
+  "source": "@site/docs/knowledge-base/programming/frameworks/flask.md",
+  "sourceDirName": "knowledge-base/programming/frameworks",
+  "slug": "/knowledge-base/programming/frameworks/flask",
+  "permalink": "/docs/knowledge-base/programming/frameworks/flask",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐍 Flask"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐍 Django",
+    "permalink": "/docs/knowledge-base/programming/frameworks/django"
+  },
+  "next": {
+    "title": "🐚 Bash Scripting",
+    "permalink": "/docs/knowledge-base/programming/languages/bash"
+  }
+}

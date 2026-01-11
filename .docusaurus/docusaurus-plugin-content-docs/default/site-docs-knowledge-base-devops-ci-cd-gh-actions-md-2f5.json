@@ -1,0 +1,26 @@
+{
+  "id": "knowledge-base/devops/ci-cd/gh-actions",
+  "title": "🐙 GitHub Actions",
+  "description": "GitHub Actions is a GitHub feature that allows you to create automated workflows for a repository. You can, for example:",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/gh-actions.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/gh-actions",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/gh-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/reiloe/my-block/docs/knowledge-base/devops/ci-cd/gh-actions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐙 GitHub Actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐳 Docker",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/docker"
+  },
+  "next": {
+    "title": "🐙 GitHub Actions",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/github-actions"
+  }
+}

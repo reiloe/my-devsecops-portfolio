@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/network/iso-osi-model",
+  "title": "🌐 ISO/OSI Model",
+  "description": "The ISO/OSI model is a layered model for networks that explains how data is transmitted between two computers. It helps understand which tasks occur at which level in the network.",
+  "source": "@site/docs/knowledge-base/network/iso-osi-model.md",
+  "sourceDirName": "knowledge-base/network",
+  "slug": "/knowledge-base/network/iso-osi-model",
+  "permalink": "/docs/knowledge-base/network/iso-osi-model",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌐 ISO/OSI Model"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 IPv4",
+    "permalink": "/docs/knowledge-base/network/ipv4-addressing"
+  },
+  "next": {
+    "title": "🌐 Ports",
+    "permalink": "/docs/knowledge-base/network/ports"
+  }
+}

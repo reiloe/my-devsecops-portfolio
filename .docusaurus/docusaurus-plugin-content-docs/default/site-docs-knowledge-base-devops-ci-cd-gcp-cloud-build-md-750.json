@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/ci-cd/gcp-cloud-build",
+  "title": "☁️ Google Cloud Build & Deploy",
+  "description": "Google Cloud Platform offers a comprehensive suite of CI/CD tools including Cloud Build, Cloud Source Repositories, Cloud Deploy, and Artifact Registry. This guide covers the complete native GCP CI/CD solution.",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/gcp-cloud-build.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/gcp-cloud-build",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/gcp-cloud-build",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "☁️ Google Cloud Build & Deploy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐳 Docker",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/docker"
+  },
+  "next": {
+    "title": "🐙 GitHub Actions",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/github-actions"
+  }
+}

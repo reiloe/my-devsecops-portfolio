@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/kubernetes-networking-explained",
+  "source": "@site/blog/2025-09-18-kubernetes-networking-explained.md",
+  "title": "Kubernetes Networking Demystified: A Practical Guide",
+  "description": "Kubernetes networking can seem complex at first, but understanding the fundamentals is crucial for building reliable applications. Let's break down how networking works in Kubernetes with practical examples.",
+  "date": "2025-09-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "inline": true,
+      "label": "networking",
+      "permalink": "/blog/tags/networking"
+    },
+    {
+      "inline": true,
+      "label": "infrastructure",
+      "permalink": "/blog/tags/infrastructure"
+    },
+    {
+      "inline": true,
+      "label": "containers",
+      "permalink": "/blog/tags/containers"
+    }
+  ],
+  "readingTime": 5.53,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Reik Loeber",
+      "title": "Fullstack Developer & DevOps & DevSecOps",
+      "url": "https://github.com/reiloe",
+      "imageURL": "https://github.com/reiloe.png",
+      "key": "reiloe",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "kubernetes-networking-explained",
+    "title": "Kubernetes Networking Demystified: A Practical Guide",
+    "authors": [
+      "reiloe"
+    ],
+    "tags": [
+      "kubernetes",
+      "networking",
+      "infrastructure",
+      "containers"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Kubernetes Troubleshooting Guide",
+    "permalink": "/blog/kubernetes-troubleshooting-guide"
+  }
+}

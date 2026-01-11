@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/infrastructure/git",
+  "title": "🌿 Git – Fundamentals",
+  "description": "Git is a distributed version control system (VCS) that allows developers to:",
+  "source": "@site/docs/knowledge-base/infrastructure/git.md",
+  "sourceDirName": "knowledge-base/infrastructure",
+  "slug": "/knowledge-base/infrastructure/git",
+  "permalink": "/docs/knowledge-base/infrastructure/git",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌿 Git – Fundamentals"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌿 Git-Flow & Pull Requests",
+    "permalink": "/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request"
+  },
+  "next": {
+    "title": "🐧 Disk Management in Linux",
+    "permalink": "/docs/knowledge-base/infrastructure/linux/diskmanagement"
+  }
+}

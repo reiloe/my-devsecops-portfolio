@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/infrastructure/git/git_feature_lebenszyklus",
+  "title": "🌿 Git-Flow",
+  "description": "Table of Contents",
+  "source": "@site/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus.md",
+  "sourceDirName": "knowledge-base/infrastructure/git",
+  "slug": "/knowledge-base/infrastructure/git/git_feature_lebenszyklus",
+  "permalink": "/docs/knowledge-base/infrastructure/git/git_feature_lebenszyklus",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌿 Git-Flow"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⚙️ DevOps Engineer",
+    "permalink": "/docs/knowledge-base/devops"
+  },
+  "next": {
+    "title": "🌿 Git-Flow & Pull Requests",
+    "permalink": "/docs/knowledge-base/infrastructure/git/git_flow_und_pull_request"
+  }
+}

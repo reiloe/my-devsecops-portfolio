@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/tools/netcat",
+  "title": "🔗 Netcat",
+  "description": "---",
+  "source": "@site/docs/knowledge-base/tools/netcat.md",
+  "sourceDirName": "knowledge-base/tools",
+  "slug": "/knowledge-base/tools/netcat",
+  "permalink": "/docs/knowledge-base/tools/netcat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🔗 Netcat"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📝 Groovy",
+    "permalink": "/docs/knowledge-base/programming/languages/groovy"
+  },
+  "next": {
+    "title": "🔎 Nmap",
+    "permalink": "/docs/knowledge-base/tools/nmap"
+  }
+}

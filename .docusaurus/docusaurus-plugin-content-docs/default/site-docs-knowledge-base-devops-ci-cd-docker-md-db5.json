@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/ci-cd/docker",
+  "title": "🐳 Docker",
+  "description": "Short: This text provides a practical and comprehensive guide to Docker, Docker Compose and Docker Swarm. It covers basics, installation, Dockerfile details (including RUN, CMD, ENTRYPOINT), Compose files, Swarm stacks, Buildx (multi-arch), Docker-in-Docker (DinD), volumes, networks, registries (public & private), build arguments, secrets, Multi-Stage builds, best practices and cheat-sheets. Figures are referenced (./images/...) but are not included in this archive.",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/docker.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/docker",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐳 Docker"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎋 Atlassian Bamboo CI/CD",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/bamboo-cicd"
+  },
+  "next": {
+    "title": "☁️ Google Cloud Build & Deploy",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/gcp-cloud-build"
+  }
+}

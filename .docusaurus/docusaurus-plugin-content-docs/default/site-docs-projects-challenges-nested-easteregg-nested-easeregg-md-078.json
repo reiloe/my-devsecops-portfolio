@@ -1,0 +1,23 @@
+{
+  "id": "projects/challenges/nested-easteregg/nested-easeregg",
+  "title": "🪆 Nested Easter Egg",
+  "description": "Apply some advanced cryptanalysis to find the real easter egg.",
+  "source": "@site/docs/projects/challenges/nested-easteregg/nested-easeregg.md",
+  "sourceDirName": "projects/challenges/nested-easteregg",
+  "slug": "/projects/challenges/nested-easteregg/nested-easeregg",
+  "permalink": "/docs/projects/challenges/nested-easteregg/nested-easeregg",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🪆 Nested Easter Egg",
+    "pagination_prev": "projects/challenges/easteregg/easteregg",
+    "pagination_next": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🥚 Easter Egg",
+    "permalink": "/docs/projects/challenges/easteregg/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "knowledge-base/cheat-sheets/aws-cli-commands",
+  "title": "☁️ AWS CLI Commands",
+  "description": "A comprehensive reference of the most important AWS CLI commands for cloud administrators and DevOps engineers.",
+  "source": "@site/docs/knowledge-base/cheat-sheets/aws-cli-commands.md",
+  "sourceDirName": "knowledge-base/cheat-sheets",
+  "slug": "/knowledge-base/cheat-sheets/aws-cli-commands",
+  "permalink": "/docs/knowledge-base/cheat-sheets/aws-cli-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "aws",
+      "permalink": "/docs/tags/aws"
+    },
+    {
+      "inline": true,
+      "label": "aws-cli",
+      "permalink": "/docs/tags/aws-cli"
+    },
+    {
+      "inline": true,
+      "label": "cloud",
+      "permalink": "/docs/tags/cloud"
+    },
+    {
+      "inline": true,
+      "label": "infrastructure",
+      "permalink": "/docs/tags/infrastructure"
+    },
+    {
+      "inline": true,
+      "label": "cheat-sheet",
+      "permalink": "/docs/tags/cheat-sheet"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "☁️ AWS CLI Commands",
+    "sidebar_label": "AWS CLI",
+    "sidebar_position": 1,
+    "tags": [
+      "aws",
+      "aws-cli",
+      "cloud",
+      "infrastructure",
+      "cheat-sheet"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/docs/knowledge-base/intro"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/knowledge-base/cheat-sheets/docker-commands"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "projects/trucksignsapi",
+  "title": "Truck Signs Api",
+  "description": "The goal of this project is to containerize the Truck Signs Api.",
+  "source": "@site/docs/projects/trucksignsapi.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/trucksignsapi",
+  "permalink": "/docs/projects/trucksignsapi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Truck Signs Api",
+    "pagination_prev": "projects/babytools",
+    "pagination_next": null,
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Baby Tools Shop",
+    "permalink": "/docs/projects/babytools"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/ci-cd/github-actions",
+  "title": "🐙 GitHub Actions",
+  "description": "GitHub Actions is a powerful CI/CD platform integrated directly into GitHub repositories. It enables automation of build, test, and deployment workflows through YAML configuration files stored in .github/workflows/.",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/github-actions.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/github-actions",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/github-actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐙 GitHub Actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "☁️ Google Cloud Build & Deploy",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/gcp-cloud-build"
+  },
+  "next": {
+    "title": "🦊 GitLab CI/CD",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab-cicd"
+  }
+}

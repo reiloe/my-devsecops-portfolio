@@ -1,0 +1,26 @@
+{
+  "id": "knowledge-base/devops/ci-cd/jenkins",
+  "title": "🔧 Jenkins",
+  "description": "Jenkins is an open-source automation server primarily used for Continuous Integration (CI) and Continuous Delivery (CD).",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/jenkins.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/jenkins",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/jenkins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/reiloe/my-block/docs/knowledge-base/devops/ci-cd/jenkins.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🔧 Jenkins"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔧 Jenkins CI/CD",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/jenkins-cicd"
+  },
+  "next": {
+    "title": "🔒 DevSecOps",
+    "permalink": "/docs/knowledge-base/devops/devsecops"
+  }
+}

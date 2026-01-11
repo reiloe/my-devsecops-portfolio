@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/network/tcp-three-way-handshake",
+  "title": "🌐 TCP 3-Way Handshake",
+  "description": "Before two computers exchange data over TCP, they perform a 3-way handshake. This ensures that:",
+  "source": "@site/docs/knowledge-base/network/tcp-three-way-handshake.md",
+  "sourceDirName": "knowledge-base/network",
+  "slug": "/knowledge-base/network/tcp-three-way-handshake",
+  "permalink": "/docs/knowledge-base/network/tcp-three-way-handshake",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌐 TCP 3-Way Handshake"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 SSL/TLS",
+    "permalink": "/docs/knowledge-base/network/ssl-tls-encryption"
+  },
+  "next": {
+    "title": "☕ Gradle",
+    "permalink": "/docs/knowledge-base/programming/buildtools/gradle"
+  }
+}

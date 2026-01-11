@@ -1,0 +1,27 @@
+{
+  "id": "projects/challenges/zero-stars-alternative-solution/zero-stars-alternative-solution",
+  "title": "⭐ Zero Stars (Alternative)",
+  "description": "Give a devasting zero-star feedback to the store",
+  "source": "@site/docs/projects/challenges/zero-stars-alternative-solution/zero-stars-alternative-solution.md",
+  "sourceDirName": "projects/challenges/zero-stars-alternative-solution",
+  "slug": "/projects/challenges/zero-stars-alternative-solution/",
+  "permalink": "/docs/projects/challenges/zero-stars-alternative-solution/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "⭐ Zero Stars (Alternative)",
+    "pagination_prev": "projects/juiceshop",
+    "pagination_next": "projects/challenges/visual-geo-stalking/visual-geo-stalking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OWASP Juice Shop",
+    "permalink": "/docs/projects/juiceshop"
+  },
+  "next": {
+    "title": "🔭 Visual Geo Stalking",
+    "permalink": "/docs/projects/challenges/visual-geo-stalking/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/dataformats/yaml",
+  "title": "📝 YAML",
+  "description": "Brief: YAML (YAML Ain't Markup Language) is a human-readable data serialization format often used for configuration files, deployment manifests (e.g., Kubernetes), CI/CD pipelines, and data transfer. This guide covers basics, advanced features, best practices, security aspects, and concrete examples from practical contexts like Kubernetes, Helm, and CI.",
+  "source": "@site/docs/knowledge-base/dataformats/yaml.md",
+  "sourceDirName": "knowledge-base/dataformats",
+  "slug": "/knowledge-base/dataformats/yaml",
+  "permalink": "/docs/knowledge-base/dataformats/yaml",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "📝 YAML"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📄 JSON",
+    "permalink": "/docs/knowledge-base/dataformats/json"
+  },
+  "next": {
+    "title": "☁️ AWS CodePipeline",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/aws-codepipeline"
+  }
+}

@@ -1,0 +1,572 @@
+/**
+ * Docusaurus Docs Theme - komplett isoliert von Landing Page
+ * Wird nur für /docs Seiten geladen
+ */
+
+/* Infima Variables Override */
+:root {
+    --ifm-color-primary: #266AD9;
+    --ifm-color-primary-dark: #2260c3;
+    --ifm-color-primary-darker: #205bb8;
+    --ifm-color-primary-darkest: #1a4b97;
+    --ifm-color-primary-light: #3f7fe0;
+    --ifm-color-primary-lighter: #4d88e3;
+    --ifm-color-primary-lightest: #6a9de8;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+    --ifm-color-primary: #266AD9;
+    --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+
+    /* Dark Mode Theme Colors */
+    --ifm-background-color: #0A383F;
+    --ifm-background-surface-color: #0A383F;
+    --ifm-navbar-background-color: #0A383F;
+    --ifm-footer-background-color: #0A383F;
+}
+
+/* =========================== */
+/* DARK MODE STYLING */
+/* =========================== */
+
+[data-theme='dark'] html,
+[data-theme='dark'] body {
+    background-color: #1b1b1d;
+}
+
+[data-theme='dark'] .main-wrapper,
+[data-theme='dark'] .docRoot,
+[data-theme='dark'] .docsWrapper,
+[data-theme='dark'] .docPage,
+[data-theme='dark'] .docMainContainer,
+[data-theme='dark'] .docItemContainer {
+    background-color: #0A383F;
+}
+
+[data-theme='dark'] .theme-doc-sidebar-container {
+    background-color: #0A383F;
+    border-right: 1px solid #1a4a52;
+}
+
+/* Mobile Sidebar Backdrop */
+[data-theme='dark'] .navbar-sidebar__backdrop {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+[data-theme='dark'] .navbar-sidebar {
+    background-color: #0A383F !important;
+}
+
+[data-theme='dark'] .navbar-sidebar__brand,
+[data-theme='dark'] .navbar-sidebar__items {
+    background-color: #0A383F !important;
+}
+
+[data-theme='dark'] .menu {
+    background-color: #0A383F !important;
+}
+
+[data-theme='dark'] .table-of-contents {
+    border-left-color: #1a4a52;
+}
+
+[data-theme='dark'] .navbar {
+    background-color: #0A383F;
+    border-bottom: 1px solid #1a4a52;
+}
+
+[data-theme='dark'] .footer {
+    background-color: #0A383F;
+    border-top: 1px solid #1a4a52;
+}
+
+/* Dark Mode Text */
+[data-theme='dark'] .docMainContainer h1,
+[data-theme='dark'] .docMainContainer h2,
+[data-theme='dark'] .docMainContainer h3,
+[data-theme='dark'] .docMainContainer h4,
+[data-theme='dark'] .docMainContainer h5,
+[data-theme='dark'] .docMainContainer h6 {
+    color: #ffffff;
+}
+
+[data-theme='dark'] .docMainContainer p,
+[data-theme='dark'] .docMainContainer li,
+[data-theme='dark'] .docMainContainer span:not(.badge):not(.admonitionIcon_Rf37),
+[data-theme='dark'] .docMainContainer td,
+[data-theme='dark'] .docMainContainer a {
+    color: #e6eef8;
+}
+
+[data-theme='dark'] .menu__link,
+[data-theme='dark'] .table-of-contents__link {
+    color: #e6eef8;
+}
+
+[data-theme='dark'] .navbar__link,
+[data-theme='dark'] .navbar__title {
+    color: #ffffff;
+}
+
+[data-theme='dark'] .footer__link-item,
+[data-theme='dark'] .footer__title,
+[data-theme='dark'] .footer__copyright {
+    color: #e6eef8;
+}
+
+[data-theme='dark'] .breadcrumbs__item--active .breadcrumbs__link {
+    color: #ffffff !important;
+}
+
+[data-theme='dark'] .breadcrumbs__link {
+    color: #e6eef8 !important;
+}
+
+/* =========================== */
+/* LIGHT MODE STYLING */
+/* =========================== */
+html[data-theme='light'] .main-wrapper,
+html[data-theme='light'] .docRoot,
+html[data-theme='light'] .docsWrapper,
+html[data-theme='light'] .docPage,
+html[data-theme='light'] .docMainContainer,
+html[data-theme='light'] .docItemContainer {
+    background-color: #ffffff !important;
+}
+
+html[data-theme='light'] .theme-doc-sidebar-container {
+    background-color: #f5f6f7 !important;
+}
+
+/* Mobile Sidebar Light Mode */
+html[data-theme='light'] .navbar-sidebar__backdrop {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+html[data-theme='light'] .navbar-sidebar {
+    background-color: #ffffff !important;
+}
+
+html[data-theme='light'] .navbar-sidebar__brand,
+html[data-theme='light'] .navbar-sidebar__items {
+    background-color: #ffffff !important;
+}
+
+html[data-theme='light'] .menu {
+    background-color: #ffffff !important;
+}
+
+html[data-theme='light'] .navbar {
+    background-color: #ffffff !important;
+}
+
+/* Hide mobile burger menu on desktop */
+@media (min-width: 997px) {
+
+    /* Docusaurus burger toggle on desktop */
+    button[aria-label="Toggle navigation bar"],
+    .navbar .navbar__toggle.clean-btn,
+    .navbar__items .navbar__toggle,
+    .navbar__items--left .navbar__toggle {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+    }
+
+    .navbar-sidebar__backdrop {
+        display: none !important;
+    }
+}
+
+/* Hide Challenges category from sidebar */
+.sidebar-item-hidden {
+    display: none !important;
+}
+
+html[data-theme='light'] .footer {
+    background-color: #ffffff !important;
+    border-top: 1px solid #e3e3e3;
+}
+
+/* Light Mode Text - MIT IMPORTANT */
+html[data-theme='light'] .docMainContainer,
+html[data-theme='light'] .docMainContainer * {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .docMainContainer article,
+html[data-theme='light'] .docMainContainer article * {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .markdown,
+html[data-theme='light'] .markdown * {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .docMainContainer h1,
+html[data-theme='light'] .docMainContainer h2,
+html[data-theme='light'] .docMainContainer h3,
+html[data-theme='light'] .docMainContainer h4,
+html[data-theme='light'] .docMainContainer h5,
+html[data-theme='light'] .docMainContainer h6 {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .docMainContainer p,
+html[data-theme='light'] .docMainContainer li,
+html[data-theme='light'] .docMainContainer span,
+html[data-theme='light'] .docMainContainer div {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .docMainContainer a {
+    color: #266AD9 !important;
+}
+
+html[data-theme='light'] .menu__link,
+html[data-theme='light'] .table-of-contents__link {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .pagination-nav__link,
+html[data-theme='light'] .pagination-nav__label,
+html[data-theme='light'] .pagination-nav__sublabel {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .navbar__link,
+html[data-theme='light'] .navbar__title {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .navbar button {
+    color: #1c1e21 !important;
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* 404 Page Light Mode - only target docs wrapper */
+html[data-theme='light'] .theme-doc-markdown,
+html[data-theme='light'] .theme-doc-markdown *,
+html[data-theme='light'] .main-wrapper main article,
+html[data-theme='light'] .main-wrapper main article * {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .navbar svg {
+    fill: #1c1e21 !important;
+}
+
+html[data-theme='light'] .footer__link-item,
+html[data-theme='light'] .footer__title {
+    color: #1c1e21 !important;
+}
+
+html[data-theme='light'] .footer__copyright {
+    color: #606770 !important;
+}
+
+/* Toggle Button erzwingen - alle möglichen Selektoren */
+.colorModeToggle_DEke,
+button[class*="colorModeToggle"],
+button[class*="toggle"],
+.navbar__items--right>button,
+.navbar button[title*="dark"],
+.navbar button[title*="light"],
+.navbar button[title*="Switch"] {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+@media (max-width: 996px) {
+
+    .colorModeToggle_DEke,
+    button[class*="colorModeToggle"],
+    button[class*="toggle"] {
+        display: flex !important;
+    }
+}
+
+/* =========================== */
+/* UI ELEMENTS */
+/* =========================== */
+
+/* Copy Button */
+.theme-code-block button {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #e6eef8;
+}
+
+.theme-code-block button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Caution/Warning Boxes - Gelb mit dunkler Schrift in beiden Modi */
+.theme-admonition.alert.alert--caution,
+.theme-admonition.alert.alert--warning {
+    background-color: #fff8e6;
+    border-left-color: #f5c842;
+    color: #7a5600;
+}
+
+[data-theme='dark'] .theme-admonition.alert.alert--caution,
+[data-theme='dark'] .theme-admonition.alert.alert--warning {
+    background-color: #2d2410;
+    border-left-color: #f5c842;
+    color: #ffc107;
+}
+
+.theme-admonition.alert.alert--caution .admonition-heading,
+.theme-admonition.alert.alert--warning .admonition-heading {
+    color: #7a5600;
+}
+
+[data-theme='dark'] .theme-admonition.alert.alert--caution .admonition-heading,
+[data-theme='dark'] .theme-admonition.alert.alert--warning .admonition-heading {
+    color: #ffc107;
+}
+
+.theme-admonition.alert.alert--caution .admonition-icon,
+.theme-admonition.alert.alert--warning .admonition-icon,
+[data-theme='dark'] .theme-admonition.alert.alert--caution .admonition-icon,
+[data-theme='dark'] .theme-admonition.alert.alert--warning .admonition-icon {
+    color: #f5c842 !important;
+    display: inline-flex !important;
+}
+
+.theme-admonition.alert.alert--caution .admonition-icon svg,
+.theme-admonition.alert.alert--warning .admonition-icon svg,
+[data-theme='dark'] .theme-admonition.alert.alert--caution .admonition-icon svg,
+[data-theme='dark'] .theme-admonition.alert.alert--warning .admonition-icon svg {
+    fill: #f5c842 !important;
+    color: #f5c842 !important;
+    width: 22px !important;
+    height: 22px !important;
+}
+
+.theme-admonition.alert.alert--caution .admonition-icon svg path,
+.theme-admonition.alert.alert--warning .admonition-icon svg path,
+[data-theme='dark'] .theme-admonition.alert.alert--caution .admonition-icon svg path,
+[data-theme='dark'] .theme-admonition.alert.alert--warning .admonition-icon svg path {
+    fill: #f5c842 !important;
+    stroke: #f5c842 !important;
+}
+
+/* Ensure admonition icon span is visible in dark mode */
+[data-theme='dark'] .admonition-icon span,
+[data-theme='dark'] .admonition-icon svg {
+    color: inherit !important;
+}
+
+.theme-admonition.alert.alert--caution .admonition-content,
+.theme-admonition.alert.alert--warning .admonition-content {
+    color: #7a5600;
+}
+
+[data-theme='dark'] .theme-admonition.alert.alert--caution .admonition-content,
+[data-theme='dark'] .theme-admonition.alert.alert--warning .admonition-content {
+    color: #ffc107;
+}
+
+.theme-admonition.alert.alert--caution a,
+.theme-admonition.alert.alert--warning a {
+    color: #266AD9;
+    text-decoration: underline;
+}
+
+[data-theme='dark'] .theme-admonition.alert.alert--caution a,
+[data-theme='dark'] .theme-admonition.alert.alert--warning a {
+    color: #5b9aff;
+    text-decoration: underline;
+}
+
+/* =========================== */
+/* VERSTECKTE ELEMENTE */
+/* =========================== */
+
+/* Edit Page Link überall verstecken - maximal spezifisch */
+.theme-doc-footer-edit-meta-row,
+.blog-wrapper .theme-doc-footer-edit-meta-row,
+.blog-list-page__item .theme-doc-footer-edit-meta-row,
+.blog-list-page__item article .theme-doc-footer-edit-meta-row {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    width: 0 !important;
+    pointer-events: none !important;
+}
+
+/* Anker-Symbole bei Headings verstecken */
+.docMainContainer .anchor {
+    display: none;
+}
+
+.docMainContainer h1 .anchor,
+.docMainContainer h2 .anchor,
+.docMainContainer h3 .anchor,
+.docMainContainer h4 .anchor,
+.docMainContainer h5 .anchor,
+.docMainContainer h6 .anchor {
+    display: none;
+}
+
+/* =========================== */
+/* CODE BLOCK SPACING FIX */
+/* =========================== */
+
+/* Code-Blöcke mit kleinem Abstand zur rechten Sidebar */
+.theme-code-block,
+div[class*="codeBlockContainer"] {
+    margin-right: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+
+/* Pre-Element - Scrolling bei Überlauf */
+.theme-code-block pre,
+pre[class*="language-"],
+.prism-code {
+    overflow-x: auto !important;
+}
+
+/* =========================== */
+/* BLOG LAYOUT - DOCS-ABSTÄNDE NACHBILDEN */
+/* =========================== */
+
+/* Blog-Wrapper zentrieren für dunkle Seitenränder */
+.blog-wrapper .main-wrapper {
+    margin: 0 auto !important;
+    max-width: 1600px !important;
+    width: 100% !important;
+    box-sizing: border-box;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+/* Blog-Row zentrieren */
+.blog-wrapper .row {
+    justify-content: center !important;
+}
+
+/* Linke Blog-Sidebar: gleiche Breite wie Docs-Sidebar (~300px) */
+.blog-wrapper aside.col--3:first-child {
+    flex: 0 0 300px !important;
+    max-width: 300px !important;
+    margin-left: 24px !important;
+    padding-left: 1rem !important;
+    padding-right: 0 !important;
+}
+
+/* Blog-Content: volle Breite für Artikel */
+.blog-wrapper main.col--7 {
+    display: block !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
+
+/* Rechte TOC-Sidebar: gleiche Breite wie Docs (~280px) */
+.blog-wrapper .col--2 {
+    flex: 0 0 280px !important;
+    max-width: 280px !important;
+    padding-left: 2rem !important;
+}
+
+/* Blog-Container an linken Rand */
+.blog-wrapper .container {
+    max-width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Styling wie Docs */
+[data-theme='dark'] .theme-blog-sidebar {
+    background-color: #0A383F;
+    border-right: 1px solid #1a4a52;
+}
+
+html[data-theme='light'] .theme-blog-sidebar {
+    background-color: #f5f5f5;
+    border-right: 1px solid #e0e0e0;
+}
+
+/* =========================== */
+/* DOCS LAYOUT - ZENTRIERT WIE BLOG */
+/* =========================== */
+
+/* Docs-Wrapper zentrieren für dunkle Seitenränder */
+.docs-wrapper .main-wrapper,
+.docRoot .main-wrapper,
+.docsWrapper .main-wrapper {
+    margin: 0 auto !important;
+    max-width: 1600px !important;
+    width: 100% !important;
+    box-sizing: border-box;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+/* Docs-Container feste Breite, aber responsiv */
+.docMainContainer .container {
+    margin: 0 auto !important;
+    max-width: 1600px !important;
+    width: 100% !important;
+    box-sizing: border-box;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+@media (max-width: 900px) {
+
+    .docs-wrapper .main-wrapper,
+    .docRoot .main-wrapper,
+    .docsWrapper .main-wrapper,
+    .docMainContainer .container {
+        max-width: 100vw !important;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
+
+/* Blog: Read more links immer linksbündig */
+.blog-wrapper .pagination-nav__link,
+.blog-wrapper .pagination-nav__label,
+.blog-wrapper .pagination-nav__sublabel,
+.blog-wrapper .blog-list-page__read-more {
+    text-align: left !important;
+    justify-content: flex-start !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+/* Blog-Artikel und Read more-Links werden linksbündig ausgerichtet */
+.blog-wrapper .margin-bottom--xl {
+    display: block !important;
+    text-align: left !important;
+}
+
+.blog-wrapper .blog-list-page__read-more,
+.blog-wrapper .blog-list-page__item .pagination-nav__link {
+    display: inline-block !important;
+    text-align: left !important;
+    float: none !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+/* Blog-Row linksbündig und Artikel volle Breite */
+.blog-wrapper .row {
+    justify-content: flex-start !important;
+}
+
+.blog-wrapper .row>article {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+}

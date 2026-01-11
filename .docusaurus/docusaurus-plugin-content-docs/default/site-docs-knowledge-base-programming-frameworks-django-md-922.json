@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/programming/frameworks/django",
+  "title": "🐍 Django",
+  "description": "Django basics, apps, models, views, templates, forms, static files, settings, auth, logging, and deployment",
+  "source": "@site/docs/knowledge-base/programming/frameworks/django.md",
+  "sourceDirName": "knowledge-base/programming/frameworks",
+  "slug": "/knowledge-base/programming/frameworks/django",
+  "permalink": "/docs/knowledge-base/programming/frameworks/django",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐍 Django"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "☕ Maven",
+    "permalink": "/docs/knowledge-base/programming/buildtools/maven"
+  },
+  "next": {
+    "title": "🐍 Flask",
+    "permalink": "/docs/knowledge-base/programming/frameworks/flask"
+  }
+}

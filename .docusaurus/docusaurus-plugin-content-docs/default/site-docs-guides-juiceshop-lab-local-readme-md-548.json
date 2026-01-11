@@ -1,0 +1,25 @@
+{
+  "id": "guides/juiceshop-lab/local/README",
+  "title": "Local",
+  "description": "Prerequisites",
+  "source": "@site/docs/guides/juiceshop-lab/local/README.md",
+  "sourceDirName": "guides/juiceshop-lab/local",
+  "slug": "/guides/juiceshop-lab/local/",
+  "permalink": "/docs/guides/juiceshop-lab/local/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Local"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/docs/guides/juiceshop-lab/linux/"
+  },
+  "next": {
+    "title": "Mac",
+    "permalink": "/docs/guides/juiceshop-lab/mac/"
+  }
+}

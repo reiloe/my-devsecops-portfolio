@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/ci-cd/gitlab-cicd",
+  "title": "🦊 GitLab CI/CD",
+  "description": "GitLab CI/CD is a powerful, integrated continuous integration and continuous deployment platform built directly into GitLab. It enables automated building, testing, and deployment of applications through pipeline configurations defined in .gitlab-ci.yml files.",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/gitlab-cicd.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/gitlab-cicd",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab-cicd",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🦊 GitLab CI/CD"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐙 GitHub Actions",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/github-actions"
+  },
+  "next": {
+    "title": "🦊 GitLab",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/gitlab"
+  }
+}

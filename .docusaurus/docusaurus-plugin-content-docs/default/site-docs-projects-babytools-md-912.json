@@ -1,0 +1,29 @@
+{
+  "id": "projects/babytools",
+  "title": "Baby Tools Shop",
+  "description": "The goal of this project is to containerize a Django app. This includes creation of a virtual Python environment in the Docker container and creation of a Django superuser (for admin interface).",
+  "source": "@site/docs/projects/babytools.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/babytools",
+  "permalink": "/docs/projects/babytools",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Baby Tools Shop",
+    "pagination_prev": "projects/conduit-cicd",
+    "pagination_next": "projects/trucksignsapi",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conduit CI/CD",
+    "permalink": "/docs/projects/conduit-cicd"
+  },
+  "next": {
+    "title": "Truck Signs Api",
+    "permalink": "/docs/projects/trucksignsapi"
+  }
+}

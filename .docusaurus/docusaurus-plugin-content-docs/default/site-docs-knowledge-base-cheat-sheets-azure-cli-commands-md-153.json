@@ -1,0 +1,61 @@
+{
+  "id": "knowledge-base/cheat-sheets/azure-cli-commands",
+  "title": "☁️ Azure CLI Commands",
+  "description": "Comprehensive reference for the most commonly used Azure CLI (az) commands.",
+  "source": "@site/docs/knowledge-base/cheat-sheets/azure-cli-commands.md",
+  "sourceDirName": "knowledge-base/cheat-sheets",
+  "slug": "/knowledge-base/cheat-sheets/azure-cli-commands",
+  "permalink": "/docs/knowledge-base/cheat-sheets/azure-cli-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "azure",
+      "permalink": "/docs/tags/azure"
+    },
+    {
+      "inline": true,
+      "label": "azure-cli",
+      "permalink": "/docs/tags/azure-cli"
+    },
+    {
+      "inline": true,
+      "label": "cloud",
+      "permalink": "/docs/tags/cloud"
+    },
+    {
+      "inline": true,
+      "label": "infrastructure",
+      "permalink": "/docs/tags/infrastructure"
+    },
+    {
+      "inline": true,
+      "label": "cheat-sheet",
+      "permalink": "/docs/tags/cheat-sheet"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "☁️ Azure CLI Commands",
+    "sidebar_label": "Azure CLI",
+    "sidebar_position": 6,
+    "tags": [
+      "azure",
+      "azure-cli",
+      "cloud",
+      "infrastructure",
+      "cheat-sheet"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux Shell",
+    "permalink": "/docs/knowledge-base/cheat-sheets/linux-commands"
+  },
+  "next": {
+    "title": "Google Cloud CLI",
+    "permalink": "/docs/knowledge-base/cheat-sheets/gcloud-cli-commands"
+  }
+}

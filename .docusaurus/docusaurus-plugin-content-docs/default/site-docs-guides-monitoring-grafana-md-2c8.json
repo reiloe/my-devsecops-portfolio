@@ -1,0 +1,25 @@
+{
+  "id": "guides/monitoring/grafana",
+  "title": "📈 Grafana",
+  "description": "Grafana is an open-source platform for monitoring and visualization that visualizes data from various sources such as Prometheus, Elasticsearch, MySQL, PostgreSQL, and many others.",
+  "source": "@site/docs/guides/monitoring/grafana.md",
+  "sourceDirName": "guides/monitoring",
+  "slug": "/guides/monitoring/grafana",
+  "permalink": "/docs/guides/monitoring/grafana",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "📈 Grafana"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📉 ELK Stack",
+    "permalink": "/docs/guides/monitoring/elk-stack"
+  },
+  "next": {
+    "title": "📉 Kibana",
+    "permalink": "/docs/guides/monitoring/kibana"
+  }
+}

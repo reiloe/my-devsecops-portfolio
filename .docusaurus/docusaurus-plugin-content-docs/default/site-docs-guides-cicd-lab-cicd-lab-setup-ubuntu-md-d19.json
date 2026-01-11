@@ -1,0 +1,25 @@
+{
+  "id": "guides/cicd-lab/cicd-lab-setup-ubuntu",
+  "title": "🔁 Local CI/CD Lab Environment on Ubuntu Host",
+  "description": "This document describes the setup of a fully local CI/CD lab environment on an Ubuntu Linux host (22.04/24.04 LTS with 16GB+ RAM) using Jenkins, Nexus, SonarQube, GitLab (local), Minikube, and Helm for Kubernetes deployments.",
+  "source": "@site/docs/guides/cicd-lab/cicd-lab-setup-ubuntu.md",
+  "sourceDirName": "guides/cicd-lab",
+  "slug": "/guides/cicd-lab/cicd-lab-setup-ubuntu",
+  "permalink": "/docs/guides/cicd-lab/cicd-lab-setup-ubuntu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🔁 Local CI/CD Lab Environment on Ubuntu Host"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔁 Local CI/CD Lab Environment on M1 Mac",
+    "permalink": "/docs/guides/cicd-lab/cicd-lab-setup-mac"
+  },
+  "next": {
+    "title": "🔁 Local CI/CD Lab Environment on Windows Host",
+    "permalink": "/docs/guides/cicd-lab/cicd-lab-setup-windows"
+  }
+}

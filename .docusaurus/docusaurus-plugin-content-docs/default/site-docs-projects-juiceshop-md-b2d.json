@@ -1,0 +1,29 @@
+{
+  "id": "projects/juiceshop",
+  "title": "OWASP Juice Shop",
+  "description": "This repository contains solutions to some of the challenges in the OWASP Juice Shop.",
+  "source": "@site/docs/projects/juiceshop.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/juiceshop",
+  "permalink": "/docs/projects/juiceshop",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "OWASP Juice Shop",
+    "pagination_prev": "projects/wordpress",
+    "pagination_next": "projects/conduit",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wordpress",
+    "permalink": "/docs/projects/wordpress"
+  },
+  "next": {
+    "title": "Conduit",
+    "permalink": "/docs/projects/conduit"
+  }
+}

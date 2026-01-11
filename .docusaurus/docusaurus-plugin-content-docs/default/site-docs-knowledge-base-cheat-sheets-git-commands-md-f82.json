@@ -1,0 +1,55 @@
+{
+  "id": "knowledge-base/cheat-sheets/git-commands",
+  "title": "🔀 Git Commands",
+  "description": "Git Basics",
+  "source": "@site/docs/knowledge-base/cheat-sheets/git-commands.md",
+  "sourceDirName": "knowledge-base/cheat-sheets",
+  "slug": "/knowledge-base/cheat-sheets/git-commands",
+  "permalink": "/docs/knowledge-base/cheat-sheets/git-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "git",
+      "permalink": "/docs/tags/git"
+    },
+    {
+      "inline": true,
+      "label": "version-control",
+      "permalink": "/docs/tags/version-control"
+    },
+    {
+      "inline": true,
+      "label": "vcs",
+      "permalink": "/docs/tags/vcs"
+    },
+    {
+      "inline": true,
+      "label": "cheat-sheet",
+      "permalink": "/docs/tags/cheat-sheet"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "🔀 Git Commands",
+    "sidebar_label": "Git",
+    "sidebar_position": 4,
+    "tags": [
+      "git",
+      "version-control",
+      "vcs",
+      "cheat-sheet"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes",
+    "permalink": "/docs/knowledge-base/cheat-sheets/kubernetes-commands"
+  },
+  "next": {
+    "title": "Linux Shell",
+    "permalink": "/docs/knowledge-base/cheat-sheets/linux-commands"
+  }
+}

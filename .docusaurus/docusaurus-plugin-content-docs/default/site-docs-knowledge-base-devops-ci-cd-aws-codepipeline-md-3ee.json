@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/devops/ci-cd/aws-codepipeline",
+  "title": "☁️ AWS CodePipeline",
+  "description": "AWS CodePipeline is a fully managed CI/CD service that automates build, test, and deployment processes. Combined with other AWS services like CodeCommit, CodeBuild, CodeDeploy, and CodeArtifact, it creates a complete native AWS solution.",
+  "source": "@site/docs/knowledge-base/devops/ci-cd/aws-codepipeline.md",
+  "sourceDirName": "knowledge-base/devops/ci-cd",
+  "slug": "/knowledge-base/devops/ci-cd/aws-codepipeline",
+  "permalink": "/docs/knowledge-base/devops/ci-cd/aws-codepipeline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "☁️ AWS CodePipeline"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📝 YAML",
+    "permalink": "/docs/knowledge-base/dataformats/yaml"
+  },
+  "next": {
+    "title": "☁️ Azure DevOps Pipelines",
+    "permalink": "/docs/knowledge-base/devops/ci-cd/azure-devops"
+  }
+}

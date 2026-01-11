@@ -1,0 +1,29 @@
+{
+  "id": "projects/wordpress",
+  "title": "Wordpress",
+  "description": "The goal of this project is to dockerize WordPress.",
+  "source": "@site/docs/projects/wordpress.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/wordpress",
+  "permalink": "/docs/projects/wordpress",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Wordpress",
+    "pagination_prev": "projects/minecraft",
+    "pagination_next": "projects/juiceshop",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Minecraft Server",
+    "permalink": "/docs/projects/minecraft"
+  },
+  "next": {
+    "title": "OWASP Juice Shop",
+    "permalink": "/docs/projects/juiceshop"
+  }
+}

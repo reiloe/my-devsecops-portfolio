@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/infrastructure/linux/vivim",
+  "title": "🐧 Vi / Vim",
+  "description": "---",
+  "source": "@site/docs/knowledge-base/infrastructure/linux/vivim.md",
+  "sourceDirName": "knowledge-base/infrastructure/linux",
+  "slug": "/knowledge-base/infrastructure/linux/vivim",
+  "permalink": "/docs/knowledge-base/infrastructure/linux/vivim",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐧 Vi / Vim"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐧 User Permissions",
+    "permalink": "/docs/knowledge-base/infrastructure/linux/userpermissions"
+  },
+  "next": {
+    "title": "🌐 DHCP",
+    "permalink": "/docs/knowledge-base/network/dhcp-protocol"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "guides/monitoring/logstash",
+  "title": "📋 Logstash",
+  "description": "Logstash is an open-source data processing pipeline tool from the ELK Stack that collects, transforms, and forwards data from various sources to Elasticsearch or other destinations.",
+  "source": "@site/docs/guides/monitoring/logstash.md",
+  "sourceDirName": "guides/monitoring",
+  "slug": "/guides/monitoring/logstash",
+  "permalink": "/docs/guides/monitoring/logstash",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "📋 Logstash"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📉 Kibana",
+    "permalink": "/docs/guides/monitoring/kibana"
+  },
+  "next": {
+    "title": "👁️ Nagios",
+    "permalink": "/docs/guides/monitoring/nagios"
+  }
+}

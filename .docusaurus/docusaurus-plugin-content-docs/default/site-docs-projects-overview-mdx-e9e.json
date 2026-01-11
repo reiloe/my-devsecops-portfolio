@@ -1,0 +1,23 @@
+{
+  "id": "projects/overview",
+  "title": "Projects",
+  "description": "This page contains an overview about all my personal projects",
+  "source": "@site/docs/projects/overview.mdx",
+  "sourceDirName": "projects",
+  "slug": "/projects/overview",
+  "permalink": "/docs/projects/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Projects",
+    "pagination_prev": null,
+    "pagination_next": "projects/vserver"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "VServer Setup",
+    "permalink": "/docs/projects/vserver"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/network/ipv4-addressing",
+  "title": "🌐 IPv4",
+  "description": "Table of Contents",
+  "source": "@site/docs/knowledge-base/network/ipv4-addressing.md",
+  "sourceDirName": "knowledge-base/network",
+  "slug": "/knowledge-base/network/ipv4-addressing",
+  "permalink": "/docs/knowledge-base/network/ipv4-addressing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌐 IPv4"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 DNS",
+    "permalink": "/docs/knowledge-base/network/dns-domain-name-system"
+  },
+  "next": {
+    "title": "🌐 ISO/OSI Model",
+    "permalink": "/docs/knowledge-base/network/iso-osi-model"
+  }
+}

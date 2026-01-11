@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/infrastructure/linux/heredocuments",
+  "title": "🐧 Here-Documents in Linux: EOF and Variants",
+  "description": "Table of Contents",
+  "source": "@site/docs/knowledge-base/infrastructure/linux/heredocuments.md",
+  "sourceDirName": "knowledge-base/infrastructure/linux",
+  "slug": "/knowledge-base/infrastructure/linux/heredocuments",
+  "permalink": "/docs/knowledge-base/infrastructure/linux/heredocuments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🐧 Here-Documents in Linux: EOF and Variants"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐧 Disk Management in Linux",
+    "permalink": "/docs/knowledge-base/infrastructure/linux/diskmanagement"
+  },
+  "next": {
+    "title": "📄 jq Command",
+    "permalink": "/docs/knowledge-base/infrastructure/linux/jsonparserjq"
+  }
+}

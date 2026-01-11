@@ -1,0 +1,67 @@
+{
+  "id": "knowledge-base/cheat-sheets/gcloud-cli-commands",
+  "title": "☁️ Google Cloud CLI Commands",
+  "description": "Comprehensive reference for the most commonly used Google Cloud CLI (gcloud) commands for cloud administrators and developers.",
+  "source": "@site/docs/knowledge-base/cheat-sheets/gcloud-cli-commands.md",
+  "sourceDirName": "knowledge-base/cheat-sheets",
+  "slug": "/knowledge-base/cheat-sheets/gcloud-cli-commands",
+  "permalink": "/docs/knowledge-base/cheat-sheets/gcloud-cli-commands",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "gcp",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "inline": true,
+      "label": "gcloud",
+      "permalink": "/docs/tags/gcloud"
+    },
+    {
+      "inline": true,
+      "label": "google-cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "inline": true,
+      "label": "cloud",
+      "permalink": "/docs/tags/cloud"
+    },
+    {
+      "inline": true,
+      "label": "infrastructure",
+      "permalink": "/docs/tags/infrastructure"
+    },
+    {
+      "inline": true,
+      "label": "cheat-sheet",
+      "permalink": "/docs/tags/cheat-sheet"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "☁️ Google Cloud CLI Commands",
+    "sidebar_label": "Google Cloud CLI",
+    "sidebar_position": 7,
+    "tags": [
+      "gcp",
+      "gcloud",
+      "google-cloud",
+      "cloud",
+      "infrastructure",
+      "cheat-sheet"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Azure CLI",
+    "permalink": "/docs/knowledge-base/cheat-sheets/azure-cli-commands"
+  },
+  "next": {
+    "title": "📄 JSON",
+    "permalink": "/docs/knowledge-base/dataformats/json"
+  }
+}

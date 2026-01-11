@@ -1,0 +1,29 @@
+{
+  "id": "projects/minecraft",
+  "title": "Minecraft Server",
+  "description": "The goal of this project is to dockerize a Minecraft Server.",
+  "source": "@site/docs/projects/minecraft.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/minecraft",
+  "permalink": "/docs/projects/minecraft",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Minecraft Server",
+    "pagination_prev": "projects/vserver",
+    "pagination_next": "projects/wordpress",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VServer Setup",
+    "permalink": "/docs/projects/vserver"
+  },
+  "next": {
+    "title": "Wordpress",
+    "permalink": "/docs/projects/wordpress"
+  }
+}

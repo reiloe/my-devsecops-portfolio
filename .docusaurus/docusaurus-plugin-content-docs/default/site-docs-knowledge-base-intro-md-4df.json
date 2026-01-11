@@ -1,0 +1,27 @@
+{
+  "id": "knowledge-base/intro",
+  "title": "Getting started",
+  "description": "Learn the most important Knowledge Base concepts from the sections below.",
+  "source": "@site/docs/knowledge-base/intro.md",
+  "sourceDirName": "knowledge-base",
+  "slug": "/knowledge-base/intro",
+  "permalink": "/docs/knowledge-base/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Getting started",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Knowledge Base",
+    "permalink": "/docs/knowledge-base"
+  },
+  "next": {
+    "title": "AWS CLI",
+    "permalink": "/docs/knowledge-base/cheat-sheets/aws-cli-commands"
+  }
+}
