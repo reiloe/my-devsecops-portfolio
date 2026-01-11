@@ -3,6 +3,7 @@ import styles from './styles.module.css';
 import { footerData } from './data';
 import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa';
 import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 const iconMap: Record<string, JSX.Element> = {
     FaLinkedin: <FaLinkedin />,
@@ -11,6 +12,9 @@ const iconMap: Record<string, JSX.Element> = {
 };
 
 export default function Footer(): JSX.Element {
+    const { siteConfig } = useDocusaurusContext();
+    const { legalEmail, legalPhone, legalName } = siteConfig.customFields as { legalEmail?: string; legalPhone?: string; legalName?: string };
+
     const handleBackToTop = () => window.scrollTo({ top: 0, behavior: 'smooth' });
 
     return (
@@ -18,8 +22,8 @@ export default function Footer(): JSX.Element {
             <div className={styles.top}>
                 <div className={styles.contact}>
                     <h3 className={styles.heading}>Contact Me</h3>
-                    <p className={styles.contactItem}><strong>Email:</strong> <a href={`mailto:${footerData.contact.email}`} className={styles.link}>{footerData.contact.email}</a></p>
-                    <p className={styles.contactItem}><strong>Phone:</strong> {footerData.contact.phone}</p>
+                    <p className={styles.contactItem}><strong>Email:</strong> <a href={`mailto:${legalEmail || footerData.contact.email}`} className={styles.link}>{legalEmail || footerData.contact.email}</a></p>
+                    <p className={styles.contactItem}><strong>Phone:</strong> {legalPhone || footerData.contact.phone}</p>
                 </div>
 
                 <div className={styles.social}>
@@ -55,7 +59,7 @@ export default function Footer(): JSX.Element {
             </div>
 
             <div className={styles.bottom}>
-                <p className={styles.copy}>{footerData.copyright}</p>
+                <p className={styles.copy}>&copy; {new Date().getFullYear()} {legalName || "Your Name"}. All rights reserved.</p>
                 <p className={styles.legal}>
                     <Link to="/legal-information" style={{ color: 'inherit', textDecoration: 'none' }}>{footerData.legal}</Link>
                     {' · '}

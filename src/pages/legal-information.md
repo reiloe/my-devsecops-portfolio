@@ -9,15 +9,15 @@ import ConfigValue from '@site/src/components/ConfigValue';
 
 ## Information according to § 5 TMG
 
-<ConfigValue field="legalName" /></br>
-<ConfigValue field="legalStreet" /></br>
-<ConfigValue field="legalCity" /></br>
-<ConfigValue field="legalCountry" /></br>
+<ConfigValue field="legalName" /><br />
+<ConfigValue field="legalStreet" /><br />
+<ConfigValue field="legalCity" /><br />
+<ConfigValue field="legalCountry" /><br />
 
 ## Contact
 
-E-Mail: <ConfigValue field="legalEmail" /></br>
-Phone: <ConfigValue field="legalPhone" /></br>
+E-Mail: <ConfigValue field="legalEmail" /><br />
+Phone: <ConfigValue field="legalPhone" /><br />
 
 ## Disclaimer
 

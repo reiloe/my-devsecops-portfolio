@@ -41,10 +41,10 @@ The operators of these pages take the protection of your personal data very seri
 
 The responsible body for data processing on this website is:
 
-<ConfigValue field="legalName" /></br>
-<ConfigValue field="legalStreet" /></br>
-<ConfigValue field="legalCity" /></br>
-<ConfigValue field="legalCountry" /></br>
+<ConfigValue field="legalName" /><br />
+<ConfigValue field="legalStreet" /><br />
+<ConfigValue field="legalCity" /><br />
+<ConfigValue field="legalCountry" /><br />
 
 E-Mail: <ConfigValue field="legalEmail" />
 
