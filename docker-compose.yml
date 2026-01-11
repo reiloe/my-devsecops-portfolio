@@ -1,0 +1,8 @@
+services:
+  portfolio:
+    build:
+      context: .
+      args:
+        - BASE_URL=${BASE_URL:-/}
+    ports:
+      - "${PORT:-3000}:3000"

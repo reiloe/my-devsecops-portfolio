@@ -2,6 +2,7 @@ import React from 'react';
 import styles from './styles.module.css';
 import { footerData } from './data';
 import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa';
+import Link from '@docusaurus/Link';
 
 const iconMap: Record<string, JSX.Element> = {
     FaLinkedin: <FaLinkedin />,
@@ -55,7 +56,11 @@ export default function Footer(): JSX.Element {
 
             <div className={styles.bottom}>
                 <p className={styles.copy}>{footerData.copyright}</p>
-                <p className={styles.legal}>{footerData.legal}</p>
+                <p className={styles.legal}>
+                    <Link to="/legal-information" style={{ color: 'inherit', textDecoration: 'none' }}>{footerData.legal}</Link>
+                    {' · '}
+                    <Link to="/privacy-policy" style={{ color: 'inherit', textDecoration: 'none' }}>{footerData.privacy}</Link>
+                </p>
             </div>
         </footer>
     );

@@ -88,6 +88,19 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        {
+          title: 'Legal',
+          items: [
+            {
+              label: 'Legal Information',
+              to: '/legal-information',
+            },
+            {
+              label: 'Privacy Policy',
+              to: '/privacy-policy',
+            },
+          ],
+        },
         /*       {
                  title: 'Docs',
                  items: [

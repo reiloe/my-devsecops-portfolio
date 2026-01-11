@@ -9,5 +9,6 @@ export const footerData = {
         { label: "Twitter", href: "https://twitter.com", icon: "FaTwitter" }
     ],
     copyright: "© 2025 Your Name. All rights reserved.",
-    legal: "Legal Information · Privacy Policy"
+    legal: "Legal Information",
+    privacy: "Privacy Policy"
 };
