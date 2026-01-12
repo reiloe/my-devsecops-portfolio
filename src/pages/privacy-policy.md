@@ -47,5 +47,3 @@ The responsible body for data processing on this website is:
 <ConfigValue field="legalCountry" /><br />
 
 E-Mail: <ConfigValue field="legalEmail" />
-
-The responsible body is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g. names, e-mail addresses, etc.).

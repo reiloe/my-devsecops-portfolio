@@ -13,11 +13,13 @@ import ConfigValue from '@site/src/components/ConfigValue';
 <ConfigValue field="legalStreet" /><br />
 <ConfigValue field="legalCity" /><br />
 <ConfigValue field="legalCountry" /><br />
+<br />
 
 ## Contact
 
-E-Mail: <ConfigValue field="legalEmail" /><br />
-Phone: <ConfigValue field="legalPhone" /><br />
+**E-Mail:** <ConfigValue field="legalEmail" /><br />
+**Phone:** <ConfigValue field="legalPhone" /><br />
+<br />
 
 ## Disclaimer
 
