@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from './styles.module.css';
 import { Project } from '../projects/data';
+import useBaseUrl, { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
+
 
 type Props = {
     project: Project;
@@ -9,15 +11,16 @@ type Props = {
 };
 
 export default function MobileProjectCard({ project, onOpenDoc, onOpenGitHub }: Readonly<Props>) {
+    const { withBaseUrl } = useBaseUrlUtils();
     return (
         <div className={styles.card}>
             <h2 className={styles.title}>{project.short}</h2>
 
             <div className={styles.icons}>
-                {project.icons?.map((i, idx) => <img key={idx} src={i} alt="icon" className={styles.icon} />)}
+                {project.icons?.map((i, idx) => <img key={idx} src={withBaseUrl(i)} alt="icon" className={styles.icon} />)}
             </div>
 
-            <img src={project.image} alt={project.title} className={styles.image} />
+            <img src={useBaseUrl(project.image)} alt={project.title} className={styles.image} />
 
             <div className={styles.description}>
                 <p>{project.long}</p>
