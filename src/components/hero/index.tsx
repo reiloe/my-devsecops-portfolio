@@ -8,13 +8,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 export default function Hero() {
   const { openContact } = useContact();
   const isMobile = useIsMobile();
+  const avatarUrl = useBaseUrl(data.avatarUrl);
   return (
     <section id="about" className={styles.hero}>
       {isMobile ? (
         <div className={styles.inner}>
           <p className={styles.small}>
             Hey there.
-            <span className={styles.waveWrapper}>
+            {' '}<span className={styles.waveWrapper}>
               <span className={styles.wave}>👋</span>
             </span>
             {' '}I am
@@ -22,7 +23,7 @@ export default function Hero() {
           <h1 className={styles.name}>{data.name}</h1>
           <p className={styles.title}>{data.title}</p>
           <div className={styles.right}>
-            <img src={useBaseUrl(data.avatarUrl)} alt={data.name} className={styles.avatar} />
+            <img src={avatarUrl} alt={data.name} className={styles.avatar} />
           </div>
           <p className={styles.desc}>{data.description}</p>
           <button className={styles.cta} onClick={openContact}>Contact me</button>
@@ -32,7 +33,7 @@ export default function Hero() {
           <div className={styles.left}>
             <p className={styles.small}>
               Hey there.
-              <span className={styles.waveWrapper}>
+              {' '}<span className={styles.waveWrapper}>
                 <span className={styles.wave}>👋</span>
               </span>
               {' '}I am
@@ -43,7 +44,7 @@ export default function Hero() {
             <button className={styles.cta} onClick={openContact}>Contact me</button>
           </div>
           <div className={styles.right}>
-            <img src={useBaseUrl(data.avatarUrl)} alt={data.name} className={styles.avatar} />
+            <img src={avatarUrl} alt={data.name} className={styles.avatar} />
           </div>
         </div>
       )}

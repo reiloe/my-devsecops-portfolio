@@ -1,6 +1,7 @@
 label: "Projects"
 position: 3
 link:
-  type: "doc"
-  id: projects/overview
-description: "A collection of my personal and professional projects showcasing my skills and expertise in software development."
+  type: "generated-index"
+  title: "Projects"
+  description: "A collection of my personal and professional projects showcasing my skills and expertise in software development."
+  slug: /projects

@@ -26,7 +26,7 @@ Knowledge collection on technologies, concepts, and best practices.
 
 Overview of various projects with detailed descriptions and solutions.
 
-[Go to Projects →](/docs/projects/overview)
+[Go to Projects →](/docs/projects/intro)
 
 ---
 

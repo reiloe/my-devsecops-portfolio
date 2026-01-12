@@ -51,7 +51,7 @@ export default function Projects() {
                     ))}
                 </div>
                 <div className={styles.see_more_section}>
-                    <button className={styles.see_more_btn} onClick={() => openDoc('projects/overview')}>See more projects</button>
+                    <button className={styles.see_more_btn} onClick={() => openDoc('projects/intro')}>See more projects</button>
                 </div>
             </section>
         );
@@ -76,7 +76,7 @@ export default function Projects() {
                 </div>
                 <div className={styles.see_more_section}>
                     <p>If you want to see more projects click on the button below.</p>
-                    <button className={styles.see_more_btn} onClick={() => openDoc('/docs/projects/overview')}>See more projects</button>
+                    <button className={styles.see_more_btn} onClick={() => openDoc('projects/intro')}>See more projects</button>
                 </div>
             </section>
         );
@@ -107,7 +107,7 @@ export default function Projects() {
                             <polyline points="0,0 0,15 20,15" stroke="white" strokeWidth="2" fill="none" />
                             <polyline points="10,10 20,15 10,20" stroke="white" strokeWidth="2" fill="none" />
                         </svg>
-                        <a className={styles.highlight_link} href={withBaseUrl('/docs/projects/overview')}>see more projects</a>
+                        <a className={styles.highlight_link} href={withBaseUrl('/docs/projects/intro')}>see more projects</a>
                     </div>
                 </div>
                 <div className={styles.highlight_cards_container}>

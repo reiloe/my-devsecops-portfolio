@@ -1,6 +1,6 @@
 ---
 title: VServer Setup
-pagination_prev: projects/overview
+pagination_prev: projects/intro
 pagination_next: projects/minecraft
 sidebar_position: 1
 ---

@@ -1,12 +1,10 @@
 ---
-title: Projects
-pagination_prev: null
-pagination_next: projects/vserver
+sidebar_position: 2
 ---
 
 # Projects
 
-This page contains an overview about all my personal projects 
+This page contains an overview about all my personal projects
 and links to dedicated project reports or more information.
 
 For more information see the list of related pages below.
