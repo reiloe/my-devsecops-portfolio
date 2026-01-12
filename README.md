@@ -81,8 +81,8 @@ Personal data such as name and email or environment-specific data (like Google A
 
 To achieve different results or update the portfolio:
 
-* **Projects:** Edit `src/components/Projects/data.ts`. This file exports an array of project objects. Modifying entries here will instantly update the Projects section. Place project images in `static/img/projects/`.
-* **Skills:** Edit `src/components/Skills/data.ts` to add or remove skills displayed on the homepage.
+* **Projects:** Edit `src/components/projects/data.ts`. This file exports an array of project objects. Modifying entries here will instantly update the Projects section. Place project images in `static/img/projects/`.
+* **Skills:** Edit `src/components/skills/data.ts` to add or remove skills displayed on the homepage.
 * **Documentation:** Add Markdown (`.md`) or MDX (`.mdx`) files to the `docs/` directory. The sidebar structure is generated automatically or can be controlled via `sidebars.ts`.
 * **Styling:** Global CSS variables (colors, fonts) are defined in `src/css/custom.css`. Modify these to change the visual theme.
 

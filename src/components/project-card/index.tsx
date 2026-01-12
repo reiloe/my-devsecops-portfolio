@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './styles.module.css';
-import { Project } from '../Projects/data';
+import { Project } from '../projects/data';
 import useBaseUrl, { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
 
 type Props = {

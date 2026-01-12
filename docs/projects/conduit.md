@@ -50,7 +50,7 @@ cd conduit
 git submodule update --init --recursive
 ```
 
-- Copy and rename [example.env file](example.env) to .env
+- Copy and rename example.env to .env
 
 ```bash
 cp example.env .env

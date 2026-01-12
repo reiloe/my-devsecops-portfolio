@@ -34,7 +34,7 @@ git clone https://github.com/reiloe/truck_signs_api.git
 cd truck_signs_api
 ```
 
-- Copy and rename [example.env file](example.env) to .env
+- Copy and rename example.env to .env
 
 ```bash
 cp example.env .env

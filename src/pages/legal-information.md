@@ -3,7 +3,7 @@ title: Legal Information
 hide_table_of_contents: true
 ---
 
-import ConfigValue from '@site/src/components/ConfigValue';
+import ConfigValue from '@site/src/components/config-value';
 
 # Legal Information
 

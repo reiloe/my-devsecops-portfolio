@@ -49,7 +49,7 @@ cd minecraft
 mkdir server
 ```
 
-- copy and rename [example.server.properties](example.server.properties) into server folder
+- copy and rename example.server.properties into server.properties
 
 ```bash
 cp example.server.properties ./server/server.properties
@@ -60,7 +60,7 @@ You have to accept the [EULA](https://www.minecraft.net/de-de/eula) to run the M
 To do so you have to provide a file eula.txt with eula=true inside
 :::
 
-- copy and rename [example.eula.txt](example.eula.txt) into server folder
+- copy and rename example.eula.txt into eula.txt
 
 ```bash
 cp example.eula.txt ./server/eula.txt

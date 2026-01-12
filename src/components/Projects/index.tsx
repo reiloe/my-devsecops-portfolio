@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import projects from './data';
 import styles from './styles.module.css';
 import useIsMobile from '../../useIsMobile';
-import ProjectCard from '../ProjectCard';
-import MobileProjectCard from '../MobileProjectCard';
+import ProjectCard from '../project-card';
+import MobileProjectCard from '../mobile-project-card';
 import { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
 
 export default function Projects() {

@@ -22,7 +22,7 @@ function MobileMenu({ open, onClose }: Readonly<{ open: boolean; onClose: () => 
   );
 }
 
-export default function Nav(): JSX.Element {
+export default function Header(): JSX.Element {
   const { withBaseUrl } = useBaseUrlUtils();
   const [open, setOpen] = useState(false);
   return (

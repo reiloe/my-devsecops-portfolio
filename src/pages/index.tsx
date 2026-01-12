@@ -1,10 +1,10 @@
 import React from 'react';
-import Nav from '../components/Nav';
-import Hero from '../components/Hero';
-import Skills from '../components/Skills';
-import Projects from '../components/Projects';
-import Footer from '../components/Footer';
-import ContactOverlayProvider from '../components/ContactOverlay/ContactOverlayProvider';
+import Header from '../components/header';
+import Hero from '../components/hero';
+import Skills from '../components/skills';
+import Projects from '../components/projects';
+import Footer from '../components/footer';
+import ContactOverlayProvider from '../components/contact-overlay/ContactOverlayProvider';
 import '../css/landing.css';
 
 export default function Home(): JSX.Element {
@@ -12,7 +12,7 @@ export default function Home(): JSX.Element {
     <ContactOverlayProvider>
 
       <main>
-        <Nav />
+        <Header />
         <Hero />
         <Skills />
         <Projects />

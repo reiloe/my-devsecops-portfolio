@@ -142,7 +142,7 @@ You can create and open the file in one command
 sudo nano /var/www/alternatives/alternate-index.html
 ```
 
-Fill in some html code. For example see [alternate-index.html](remote_files/alternate-index.html)
+Fill in some html code.
 
 Save and exit the editor by pressing STRG-O followed by pressing STRG-X
 
@@ -152,8 +152,6 @@ To do this, you can also open the editor directly by specifying a file name. The
 ```bash
 sudo nano /etc/nginx/sites-enabled/alternate
 ```
-
-For an example take a look at [alternatives](remote-files/alternates)  
 
 :::note
 The code in that file tells NGINX to listen on Port 8081 for incomming requests

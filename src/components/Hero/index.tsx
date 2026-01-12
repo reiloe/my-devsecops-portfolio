@@ -1,7 +1,7 @@
 import React from 'react';
 import data from './data';
 import styles from './styles.module.css';
-import { useContact } from '../ContactOverlay/ContactOverlayProvider';
+import { useContact } from '../contact-overlay/ContactOverlayProvider';
 import useIsMobile from '../../useIsMobile';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
