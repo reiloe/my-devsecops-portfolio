@@ -112,7 +112,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Reik Loeber. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ${process.env.LEGAL_NAME}. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
