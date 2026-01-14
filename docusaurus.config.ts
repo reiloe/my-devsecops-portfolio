@@ -9,8 +9,8 @@ dotenvconfig({ path: './pages.config' });
 const blogEnabled = true
 
 const config: Config = {
-  title: 'DevSecOps Unlocked',
-  tagline: 'Where DevOps meets Security.',
+  title: process.env.TITLE ?? 'DevSecOps Unlocked',
+  tagline: process.env.TAGLINE ?? 'Where DevOps meets Security.',
   favicon: 'img/favicon.svg',
 
   url: process.env.DEPLOYMENT_URL ?? "https://reiloe.github.io",

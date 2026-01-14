@@ -74,8 +74,12 @@ The core configuration lies in **`docusaurus.config.ts`**. Here you can modify:
 * **Theme Config:** Navbar links, footer content, and color mode preferences.
 * **Plugins/Presets:** Configuration for docs, blog, and SEO.
 
-**Environment Variables:**
-Personal data such as name and email or environment-specific data (like Google Analytics IDs or specific base URLs) should be managed in a `.env` file.
+**Environment & Project Configuration:**
+Project and deployment settings are managed via the files `portfolio.config` (personal/legal info), `pages.config` (deployment-specific settings), and optionally `.env` (for local or Docker use). Adjust these files before starting or deploying the project.
+
+**Important:** Changes to `portfolio.config`, `pages.config`, or `.env` only take effect after restarting the Docusaurus server or after redeployment (e.g., on GitHub Pages).
+
+For Docker, copy `example.env` to `.env` and adjust the values as needed before building the container.
 
 ### Customizing Content
 
