@@ -19,6 +19,7 @@ export default function Projects() {
         window.open(url, '_blank', 'noopener');
     };
 
+
     const [current, setCurrent] = useState<string>(projects[0].id);
     const [visited, setVisited] = useState<Set<string>>(new Set([projects[0].id]));
 
@@ -101,9 +102,12 @@ export default function Projects() {
                                 {projects.slice(0, itemsToShow).map((p) => (
                                     <li key={p.id}>
                                         <button
-                                            className={styles.highlight_btn}
+                                            className={
+                                                styles.highlight_btn +
+                                                (current === p.id ? ' ' + styles.active : '')
+                                            }
                                             onClick={() => handleProjectClick(p.id)}
-                                            style={{ color: visited.has(p.id) ? '#cbd5e1' : undefined }}
+                                            style={{ color: visited.has(p.id) && current !== p.id ? '#0303037e' : undefined }}
                                         >
                                             {p.title}
                                         </button>

@@ -105,6 +105,14 @@ a.highlight_link:hover {
     border: none;
     font-size: 24px;
     cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+}
+
+.highlight_btn.active {
+    background: #ffe066;
+    color: #222 !important;
+    border-radius: 6px;
+    font-weight: bold;
 }
 
 .project_highlights a:hover {
