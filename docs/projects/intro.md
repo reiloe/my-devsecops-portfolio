@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 0
 ---
 
-# Projects
+# Getting Started
 
 This page contains an overview about all my personal projects
 and links to dedicated project reports or more information.

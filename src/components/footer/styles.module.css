@@ -98,6 +98,7 @@
 .mybtn:hover {
     background: #91C9F31A;
     color: white;
+    cursor: pointer;
 }
 
 .copy,

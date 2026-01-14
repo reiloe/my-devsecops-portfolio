@@ -16,7 +16,13 @@
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-[data-theme='dark'] {
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+html[data-theme='dark'] {
     --ifm-color-primary: #266AD9;
     --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
 
@@ -31,9 +37,9 @@
 /* DARK MODE STYLING */
 /* =========================== */
 
-[data-theme='dark'] html,
+html[data-theme='dark'],
 [data-theme='dark'] body {
-    background-color: #1b1b1d;
+    background-color: #0A383F !important;
 }
 
 [data-theme='dark'] .main-wrapper,
@@ -134,6 +140,10 @@ html[data-theme='light'] .docPage,
 html[data-theme='light'] .docMainContainer,
 html[data-theme='light'] .docItemContainer {
     background-color: #ffffff !important;
+}
+
+[data-theme='light'] body {
+    background-color: #FFFFFF !important;
 }
 
 html[data-theme='light'] .theme-doc-sidebar-container {

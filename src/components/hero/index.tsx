@@ -1,14 +1,17 @@
 import React from 'react';
 import data from './data';
 import styles from './styles.module.css';
-import { useContact } from '../contact-overlay/ContactOverlayProvider';
 import useIsMobile from '../../useIsMobile';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 export default function Hero() {
-  const { openContact } = useContact();
   const isMobile = useIsMobile();
   const avatarUrl = useBaseUrl(data.avatarUrl);
+
+  const handleContactClick = () => {
+    document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
+  };
+
   return (
     <section id="about" className={styles.hero}>
       {isMobile ? (
@@ -26,7 +29,7 @@ export default function Hero() {
             <img src={avatarUrl} alt={data.name} className={styles.avatar} />
           </div>
           <p className={styles.desc}>{data.description}</p>
-          <button className={styles.cta} onClick={openContact}>Contact me</button>
+          <button className={styles.cta} onClick={handleContactClick}>Contact me</button>
         </div>
       ) : (
         <div className={styles.inner}>
@@ -41,7 +44,7 @@ export default function Hero() {
             <h1 className={styles.name}>{data.name}</h1>
             <p className={styles.title}>{data.title}</p>
             <p className={styles.desc}>{data.description}</p>
-            <button className={styles.cta} onClick={openContact}>Contact me</button>
+            <button className={styles.cta} onClick={handleContactClick}>Contact me</button>
           </div>
           <div className={styles.right}>
             <img src={avatarUrl} alt={data.name} className={styles.avatar} />

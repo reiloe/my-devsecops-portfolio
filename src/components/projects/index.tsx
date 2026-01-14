@@ -20,6 +20,13 @@ export default function Projects() {
     };
 
     const [current, setCurrent] = useState<string>(projects[0].id);
+    const [visited, setVisited] = useState<Set<string>>(new Set([projects[0].id]));
+
+    const handleProjectClick = (id: string) => {
+        setCurrent(id);
+        setVisited((prev) => new Set(prev).add(id));
+    };
+
     const currentProject = projects.find((p) => p.id === current);
 
     const isMobile = useIsMobile();
@@ -94,7 +101,8 @@ export default function Projects() {
                                 <li key={p.id}>
                                     <button
                                         className={styles.highlight_btn}
-                                        onClick={() => setCurrent(p.id)}
+                                        onClick={() => handleProjectClick(p.id)}
+                                        style={{ color: visited.has(p.id) ? '#cbd5e1' : undefined }}
                                     >
                                         {p.title}
                                     </button>
