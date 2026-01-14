@@ -44,18 +44,20 @@ export default function Header(): JSX.Element {
 
   return (
     <>
-      <header className={styles.header}>
-        <nav className={styles.desktopNav}>
-          {navData.links.map((l) => (
-            <a key={l.label} href={l.to.startsWith('#') ? l.to : withBaseUrl(l.to)} className={styles.link} onClick={(e) => handleLinkClick(e, l.to)}>
-              {l.label}
-            </a>
-          ))}
-        </nav>
-        <button className={styles.burger} onClick={() => setOpen(true)} aria-label="Open menu">
-          <span /><span /><span />
-        </button>
-      </header>
+      <div className={styles.headerWrapper} id='test'>
+        <header className={styles.header}>
+          <nav className={styles.desktopNav}>
+            {navData.links.map((l) => (
+              <a key={l.label} href={l.to.startsWith('#') ? l.to : withBaseUrl(l.to)} className={styles.link} onClick={(e) => handleLinkClick(e, l.to)}>
+                {l.label}
+              </a>
+            ))}
+          </nav>
+          <button className={styles.burger} onClick={() => setOpen(true)} aria-label="Open menu">
+            <span /><span /><span />
+          </button>
+        </header>
+      </div>
       <MobileMenu open={open} onClose={() => setOpen(false)} />
     </>
   );

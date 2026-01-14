@@ -91,44 +91,46 @@ export default function Projects() {
 
     // Desktop
     return (
-        <section id="projects" className={styles.container}>
-            <h2 className={styles.title}>Project highlights</h2>
-            <div className={styles.project_highlights}>
-                <div className={styles.highlight_links_container}>
-                    <div className={styles.highlight_links}>
-                        <ol>
-                            {projects.slice(0, itemsToShow).map((p) => (
-                                <li key={p.id}>
-                                    <button
-                                        className={styles.highlight_btn}
-                                        onClick={() => handleProjectClick(p.id)}
-                                        style={{ color: visited.has(p.id) ? '#cbd5e1' : undefined }}
-                                    >
-                                        {p.title}
-                                    </button>
-                                </li>
-                            ))}
-                        </ol>
+        <div className={styles.projectsWrapper}>
+            <section id="projects" className={styles.container}>
+                <h2 className={styles.title}>Project highlights</h2>
+                <div className={styles.project_highlights}>
+                    <div className={styles.highlight_links_container}>
+                        <div className={styles.highlight_links}>
+                            <ol>
+                                {projects.slice(0, itemsToShow).map((p) => (
+                                    <li key={p.id}>
+                                        <button
+                                            className={styles.highlight_btn}
+                                            onClick={() => handleProjectClick(p.id)}
+                                            style={{ color: visited.has(p.id) ? '#cbd5e1' : undefined }}
+                                        >
+                                            {p.title}
+                                        </button>
+                                    </li>
+                                ))}
+                            </ol>
+                        </div>
+                        <div className={styles.more_projects}>
+                            <svg width="30" height="40" viewBox="0 0 30 40">
+                                <polyline points="0,0 0,15 20,15" stroke="white" strokeWidth="2" fill="none" />
+                                <polyline points="10,10 20,15 10,20" stroke="white" strokeWidth="2" fill="none" />
+                            </svg>
+                            <a className={styles.highlight_link} href={withBaseUrl('/docs/projects/intro')}>see more projects</a>
+                        </div>
                     </div>
-                    <div className={styles.more_projects}>
-                        <svg width="30" height="40" viewBox="0 0 30 40">
-                            <polyline points="0,0 0,15 20,15" stroke="white" strokeWidth="2" fill="none" />
-                            <polyline points="10,10 20,15 10,20" stroke="white" strokeWidth="2" fill="none" />
-                        </svg>
-                        <a className={styles.highlight_link} href={withBaseUrl('/docs/projects/intro')}>see more projects</a>
+                    <div className={styles.highlight_cards_container}>
+                        {currentProject && (
+                            <ProjectCard
+                                project={currentProject}
+                                onClose={() => setCurrent(null)}
+                                onOpenDoc={() => openDoc("projects/" + currentProject.docId)}
+                                onOpenGitHub={() => openGitHub(currentProject.githubUrl)}
+                            />
+                        )}
                     </div>
                 </div>
-                <div className={styles.highlight_cards_container}>
-                    {currentProject && (
-                        <ProjectCard
-                            project={currentProject}
-                            onClose={() => setCurrent(null)}
-                            onOpenDoc={() => openDoc("projects/" + currentProject.docId)}
-                            onOpenGitHub={() => openGitHub(currentProject.githubUrl)}
-                        />
-                    )}
-                </div>
-            </div>
-        </section>
+            </section>
+        </div>
     );
 }

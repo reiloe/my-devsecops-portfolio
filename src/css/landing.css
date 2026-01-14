@@ -31,3 +31,7 @@ main {
     align-items: center;
     width: 100%;
 }
+
+#__docusaurus.landing-page {
+    width: 100%;
+}

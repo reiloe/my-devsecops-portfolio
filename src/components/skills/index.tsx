@@ -215,10 +215,12 @@ export default function Skills(): JSX.Element {
   const readyToRenderMobile = isMobile ? containerWidth > 0 : true;
 
   return (
-    <section ref={containerRef} id="skills" className={styles.container}>
-      <h2 className={styles.title}>My skills</h2>
-      {!isMobile && renderDesktop()}
-      {isMobile && readyToRenderMobile && renderMobile()}
-    </section>
+    <div className={styles.skillsWrapper}>
+      <section ref={containerRef} id="skills" className={styles.container}>
+        <h2 className={styles.title}>My skills</h2>
+        {!isMobile && renderDesktop()}
+        {isMobile && readyToRenderMobile && renderMobile()}
+      </section>
+    </div>
   );
 }

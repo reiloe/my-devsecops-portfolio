@@ -3,7 +3,8 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import { config as dotenvconfig } from "dotenv";
 
-dotenvconfig();
+dotenvconfig({ path: './portfolio.config' });
+dotenvconfig({ path: './pages.config' });
 
 const blogEnabled = true
 
@@ -110,45 +111,6 @@ const config: Config = {
             },
           ],
         },
-        /*       {
-                 title: 'Docs',
-                 items: [
-                   {
-                     label: 'Tutorial',
-                     to: '/docs/guides/intro',
-                   },
-                 ],
-               },
-                       {
-                         title: 'Community',
-                         items: [
-                           {
-                             label: 'Stack Overflow',
-                             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                           },
-                           {
-                             label: 'Discord',
-                             href: 'https://discordapp.com/invite/docusaurus',
-                           },
-                           {
-                             label: 'Twitter',
-                             href: 'https://twitter.com/docusaurus',
-                           },
-                         ],
-                       },
-               {
-                 title: 'More',
-                 items: [
-                   {
-                     label: 'GitHub',
-                     href: 'https://github.com/facebook/docusaurus',
-                   }//,
-                   //...blogEnabled && [{
-                   //  label: 'Blog',
-                   //  to: '/blog',
-                   //}],
-                 ],
-               },*/
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Reik Loeber. Built with Docusaurus.`,
     },
