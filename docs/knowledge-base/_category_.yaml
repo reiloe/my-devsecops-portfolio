@@ -1,0 +1,7 @@
+label: "Knowledge Base"
+position: 1
+link:
+  type: "generated-index"
+  title: "Knowledge Base"
+  description: "Technical documentation and reference materials for development concepts and best practices."
+  slug: /knowledge-base

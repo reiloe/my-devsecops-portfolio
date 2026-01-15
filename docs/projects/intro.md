@@ -1,0 +1,14 @@
+---
+sidebar_position: 0
+---
+
+# Getting Started
+
+This page contains an overview about all my personal projects
+and links to dedicated project reports or more information.
+
+For more information see the list of related pages below.
+
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList/>

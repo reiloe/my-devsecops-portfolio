@@ -1,0 +1,115 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient - Security-themed colors -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="shieldGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Grid pattern overlay -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="1000" cy="120" r="180" fill="#3b82f6" opacity="0.05"/>
+  <circle cx="200" cy="500" r="140" fill="#10b981" opacity="0.05"/>
+  <circle cx="950" cy="450" r="100" fill="#8b5cf6" opacity="0.05"/>
+  
+  <!-- Shield icon (security symbol) -->
+  <g transform="translate(100, 200)">
+    <path d="M60,10 L60,50 C60,70 50,80 30,85 C10,80 0,70 0,50 L0,10 L30,0 Z" 
+          fill="url(#shieldGradient)" opacity="0.8"/>
+    <path d="M25,35 L20,30 L18,32 L25,39 L42,22 L40,20 Z" 
+          fill="white" opacity="0.9"/>
+  </g>
+  
+  <!-- Main content container -->
+  <rect x="80" y="120" width="1040" height="390" rx="24" fill="#1e293b" opacity="0.6" stroke="#334155" stroke-width="2"/>
+  
+  <!-- Unlock icon integrated with title -->
+  <g transform="translate(220, 195)">
+    <rect x="0" y="15" width="40" height="35" rx="5" fill="#3b82f6" opacity="0.3"/>
+    <path d="M 10,15 L 10,5 C 10,-5 30,-5 30,5 L 30,10" 
+          stroke="#3b82f6" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="20" cy="32" r="3" fill="#60a5fa"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="68" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="-1">
+    DevSecOps Unlocked
+  </text>
+  
+  <!-- Accent Line with gradient -->
+  <rect x="280" y="270" width="640" height="5" fill="url(#accentGradient)" rx="2.5"/>
+  
+  <!-- Tagline -->
+  <text x="600" y="335" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="32" fill="#94a3b8" text-anchor="middle" font-style="italic">
+    Where DevOps meets Security.
+  </text>
+  
+  <!-- Feature badges -->
+  <g transform="translate(240, 380)">
+    <!-- DevOps badge -->
+    <rect width="150" height="45" rx="22.5" fill="#3b82f6" opacity="0.2" stroke="#3b82f6" stroke-width="2"/>
+    <text x="75" y="29" font-family="Arial, sans-serif" font-size="18" fill="#60a5fa" 
+          text-anchor="middle" font-weight="600">
+      🚀 DevOps
+    </text>
+  </g>
+  
+  <g transform="translate(410, 380)">
+    <!-- Security badge -->
+    <rect width="150" height="45" rx="22.5" fill="#10b981" opacity="0.2" stroke="#10b981" stroke-width="2"/>
+    <text x="75" y="29" font-family="Arial, sans-serif" font-size="18" fill="#34d399" 
+          text-anchor="middle" font-weight="600">
+      🔒 Security
+    </text>
+  </g>
+  
+  <g transform="translate(580, 380)">
+    <!-- Guides badge -->
+    <rect width="150" height="45" rx="22.5" fill="#8b5cf6" opacity="0.2" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="75" y="29" font-family="Arial, sans-serif" font-size="18" fill="#a78bfa" 
+          text-anchor="middle" font-weight="600">
+      📚 Guides
+    </text>
+  </g>
+  
+  <g transform="translate(750, 380)">
+    <!-- Best Practices badge -->
+    <rect width="180" height="45" rx="22.5" fill="#f59e0b" opacity="0.2" stroke="#f59e0b" stroke-width="2"/>
+    <text x="90" y="29" font-family="Arial, sans-serif" font-size="18" fill="#fbbf24" 
+          text-anchor="middle" font-weight="600">
+      ⚡ Best Practices
+    </text>
+  </g>
+  
+  <!-- Footer with URL -->
+  <rect x="450" y="545" width="300" height="40" rx="20" fill="#0f172a" opacity="0.8"/>
+  <text x="600" y="572" font-family="monospace" font-size="20" fill="#64748b" text-anchor="middle">
+    reiloe.github.io
+  </text>
+  
+  <!-- Decorative code brackets -->
+  <text x="50" y="315" font-family="monospace" font-size="120" fill="#334155" opacity="0.3">{</text>
+  <text x="1110" y="315" font-family="monospace" font-size="120" fill="#334155" opacity="0.3">}</text>
+</svg>

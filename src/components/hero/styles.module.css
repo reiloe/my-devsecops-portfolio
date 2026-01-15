@@ -1,0 +1,163 @@
+.heroWrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: #266AD9;
+}
+
+.hero {
+    width: 100%;
+    max-width: 1440px;
+    padding: 48px 60px;
+    background: #266AD9;
+    color: white;
+}
+
+.inner {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.left {
+    width: 904px;
+    flex: 1
+}
+
+.right {
+    width: 364px;
+}
+
+.small {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.waveWrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.wave {
+    display: inline-block;
+    animation: wave 1s ease-in-out infinite;
+}
+
+@keyframes wave {
+
+    0%,
+    100% {
+        transform: rotate(0deg);
+    }
+
+    10%,
+    30% {
+        transform: rotate(14deg);
+    }
+
+    20%,
+    40% {
+        transform: rotate(-8deg);
+    }
+
+    50%,
+    60% {
+        transform: rotate(14deg);
+    }
+
+    70%,
+    80% {
+        transform: rotate(-4deg);
+    }
+
+    90% {
+        transform: rotate(10deg);
+    }
+}
+
+.name {
+    font-size: 88px;
+}
+
+.title {
+    font-size: 32px;
+}
+
+.desc {
+    font-size: 22px;
+}
+
+.avatar {
+    height: 356px;
+    width: 356px;
+    object-fit: cover;
+}
+
+.cta {
+    background: #FFFFFF;
+    color: #1f2937;
+    padding: 10px 16px;
+    border-radius: 20px;
+    border: 0;
+    cursor: pointer;
+}
+
+@media (max-width:768px) {
+    .inner {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    /* Responsive: komplette Breite für beide Bereiche */
+    .left,
+    .right {
+        width: 100%;
+    }
+
+    /* Mobile typography/layout tweaks */
+    .small {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+
+    .name {
+        font-size: 36px;
+        margin: 6px 0 8px 0;
+    }
+
+    .title {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+
+    .right {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 12px 0;
+    }
+
+    .avatar {
+        width: 220px;
+        height: 220px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .desc {
+        font-size: 16px;
+        margin: 6px 0 12px 0;
+    }
+
+    .cta {
+        align-self: center;
+        margin-top: 12px;
+    }
+
+    .sparkle {
+        display: none;
+    }
+}
